@@ -12,7 +12,7 @@ async function generateDocPair(
 ): Promise<Array<{ title: string; sections: Array<{ heading: string; content: string }> }>> {
   const response = await client.messages.create({
     model: "claude-sonnet-4-6",
-    max_tokens: 2000,
+    max_tokens: 2500,
     system: systemPrompt,
     messages: [{
       role: "user",
