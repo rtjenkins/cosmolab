@@ -1,0 +1,104 @@
+{
+  "documents": [
+    {
+      "title": "Handoff Tightness Assessment",
+      "sections": [
+        {
+          "heading": "Executive Summary",
+          "content": "This assessment evaluated all 9 critical cross-team handoffs at the organisation. The overall Handoff Tightness score is 2.6 / 5 — classified as Ad Hoc to Guided. Five of the nine handoffs operate below a score of 3, indicating significant reliance on email, verbal communication, and individual knowledge rather than standardised systems. The highest-risk flows are at both ends of the project lifecycle: project intake (Sales → R&D / Planning) and non-conformance escalation (Quality → All Teams)."
+        },
+        {
+          "heading": "Handoff Scores",
+          "content": "Score | Handoff | Tool Used | Primary Pain Point\n2 | Sales → R&D / Formulation | Email (unstructured) | 80% rework rate; missing brief data; no documentation trail\n2 | Sales → Demand Planning | Slack / email | Planning uninformed until after client commitment; no forecast document\n3 | R&D → Manufacturing | Word template | Consistent but version control gap; late formula tweaks not always captured\n4 | R&D → Engineering | Formal ECR form | Well-structured; 5-day SLA; formal kickoff meeting\n2 | R&D → Quality | Email (unstructured) | Late QA involvement; claims and market info not transferred systematically\n3 | Manufacturing → Quality | Paper batch record | Structured process but paper-based; 3–5 day review cycle\n3 | Demand Planning → Manufacturing | ERP + S&OP meeting | Schedule in ERP but real-time changes rely on email/phone\n3 | Demand Planning → Procurement | Weekly ERP report | 2–3 day lag on long-lead-time POs; mostly manual\n1 | Quality → All Teams | Manual email from QMS | No automated alert; 1–2 day lag on NC escalation; direct quality and cost impact confirmed"
+        },
+        {
+          "heading": "Key Themes",
+          "content": "• Email dependency: 5 of 9 handoffs rely primarily on unstructured email as the communication mechanism\n• Late team involvement: Quality and Planning are frequently informed after key decisions are already made\n• Version control risk: Formula and specification document versioning is manual and inconsistently applied\n• Paper bottleneck: Batch record process is thorough but paper-based, creating a 3–5 day throughput constraint on batch release\n• Single points of failure: Key handoffs depend on specific individuals — no documented owner or SLA for most flows"
+        },
+        {
+          "heading": "Overall Maturity Rating",
+          "content": "Score: 2.6 / 5 — Ad Hoc to Guided\n\nThe organisation has pockets of strong structure (Engineering ECR process, R&D → Manufacturing handover template) but the majority of inter-team handoffs are email- and person-dependent. This creates rework, delays, knowledge loss on staff turnover, and — in the case of quality escalations — direct product and cost risk.\n\nNote: This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation."
+        }
+      ]
+    },
+    {
+      "title": "Automation Opportunity Report",
+      "sections": [
+        {
+          "heading": "Overview",
+          "content": "Opportunities are ranked by the combination of operational impact (rework reduction, time saving, risk reduction) and implementation effort. Quick Wins require minimal tool investment and can be completed within 30 days. Medium-Term improvements require process redesign. Deep Integration opportunities require system or tool investment."
+        },
+        {
+          "heading": "Quick Wins — Addressable Within 30 Days",
+          "content": "1. Standardise the Sales → R&D Client Brief\n   Handoff: Sales → R&D / Formulation\n   Current gap: Unstructured email; 80% rework rate\n   Action: Create a mandatory digital intake form (minimum: product category, target markets, key claims, benchmark, timeline, volume)\n   Effort: Low\n   Estimated weekly saving: 4–6 hours (R&D rework + Sales back-and-forth)\n\n2. Add Quality to the New Project Brief Distribution\n   Handoff: R&D → Quality\n   Current gap: Quality engaged too late; regulatory issues caught at formula lock\n   Action: QA receives a copy of every new client brief at project initiation; QA registers regulatory risk flags within 48 hours\n   Effort: Low\n   Estimated weekly saving: 2–4 hours (prevents late-stage regulatory rework)\n\n3. Formalise Planning Notification at Sales Commitment\n   Handoff: Sales → Demand Planning\n   Current gap: Planning informed after client commitment; no structured forecast\n   Action: Sales completes a one-page launch brief (volume, timeline, channel) at point of client commitment, cc'd to Planning\n   Effort: Low\n   Estimated weekly saving: 2–3 hours (Planning re-work and schedule scrambles)"
+        },
+        {
+          "heading": "Medium-Term Improvements — 1 to 3 Months",
+          "content": "4. Version-Controlled Formula Handover Package\n   Handoff: R&D → Manufacturing\n   Current gap: Late formula tweaks not captured; Manufacturing may work off superseded version\n   Action: Move formula handover to a controlled document management system (SharePoint or Coptis/Ithos); version numbering required; Manufacturing acknowledges latest version before scale-up\n   Effort: Medium\n   Estimated weekly saving: 2–3 hours (prevents scale-up errors from outdated specs)\n\n5. ERP Real-Time Schedule Alert for Manufacturing\n   Handoff: Demand Planning → Manufacturing\n   Current gap: Schedule changes in ERP not seen by Manufacturing in real time\n   Action: Configure ERP to push automated alerts (email or SMS) to Manufacturing supervisors when priority changes are made to the 5-day horizon\n   Effort: Medium\n   Estimated weekly saving: 1–2 hours (reduces emergency verbal communication)"
+        },
+        {
+          "heading": "Deep Integration Opportunities — 3 to 6 Months",
+          "content": "6. Electronic Batch Record (eBMR) Implementation\n   Handoff: Manufacturing → Quality\n   Current gap: Paper batch records; 3–5 day review cycle; manual annotation\n   Action: Implement eBMR system (MasterControl, Tulip, or SAP PM module); exception-based QA review reduces review time to 1 day\n   Effort: High\n   Estimated weekly saving: 8–12 hours QA review time; 1–2 day improvement in batch release cycle\n\n7. Automated NC Escalation Alerts from QMS\n   Handoff: Quality → All Teams\n   Current gap: Manual email notification; 1–2 day lag; confirmed quality and cost impact\n   Action: Configure QMS to automatically notify relevant department heads within 1 hour of NC classification; include affected lot numbers, severity, and hold status\n   Effort: Medium–High (QMS configuration + workflow design)\n   Estimated weekly saving: Prevents recurring raw material over-consumption; estimated $15–40K annual cost avoidance based on one confirmed incident"
+        },
+        {
+          "heading": "Effort vs. Impact Summary",
+          "content": "Highest ROI (low effort, high impact): Items 1, 2, 3 — implement immediately\nBest risk reduction: Item 7 (NC escalation) — high urgency despite medium-high effort\nHighest throughput improvement: Item 6 (eBMR) — largest time saving but requires capital investment\nFoundational for scale: Item 4 (version control) — prevents compounding errors as project volume grows"
+        }
+      ]
+    },
+    {
+      "title": "90-Day Implementation Roadmap",
+      "sections": [
+        {
+          "heading": "Guiding Principles",
+          "content": "Success at 90 days means: (1) the three worst-scoring handoffs have measurably improved, (2) all teams have a clear understanding of who owns each handoff and what information is required, and (3) the groundwork is laid for electronic batch records and automated QMS alerts."
+        },
+        {
+          "heading": "Month 1 — Stabilise the Worst Flows",
+          "content": "Week 1:\n• Design and publish a standard Sales → R&D Client Brief template (digital form preferred — Google Form, SharePoint form, or CRM intake)\n• Define the minimum required fields: product category, target markets, key claims, benchmark product, estimated volume, target launch date\n• Brief the Sales team; make completion mandatory before R&D engagement\n\nWeek 2:\n• Add Quality to the new project distribution list for all incoming client briefs\n• Define QA's obligation: register regulatory risk assessment within 48 hours of receiving brief\n• Create a simple one-page Sales → Planning Launch Brief template for volume and timeline commitments\n\nWeek 3–4:\n• Run the first full project cycle through the new intake templates\n• Measure: how many briefs submitted without chasing? Rework rate vs. baseline?\n• Responsible function: Sales leadership (template design); R&D lead (QA flag process); Planning manager (launch brief)\n\nSuccess metric: R&D rework rate on new briefs drops from ~80% to <30%"
+        },
+        {
+          "heading": "Month 2 — Standardise Remaining Handoffs",
+          "content": "• Implement version-controlled formula handover: move to SharePoint or Coptis/Ithos with version numbering; Manufacturing to acknowledge latest version before scale-up proceeds\n• Configure ERP alert for schedule changes in the 5-day manufacturing horizon\n• Formalise the Planning → Procurement material requirements process: define a standing deadline (e.g., Wednesday 9am weekly) for long-lead-time PO release\n• Document owners and SLAs for all 9 handoffs in a one-page Handoff Charter; distribute to all team leads\n• Responsible function: IT (ERP config); R&D and Manufacturing leads (formula version control); Supply Chain (Procurement SLA)\n\nSuccess metric: Zero scale-up errors from outdated formula versions; ERP change alerts in place"
+        },
+        {
+          "heading": "Month 3 — Systematise for Scale",
+          "content": "• Issue RFI/RFP for eBMR system (shortlist: MasterControl, Tulip, SAP PM module); involve IT, QA, and Manufacturing in evaluation\n• Scope QMS automated NC alert configuration: define severity tiers, alert routing rules, and hold notification format with QA and IT\n• Present Month 1–2 results to leadership with measured impact vs. baseline\n• Responsible function: QA Director (eBMR + QMS scoping); IT (system evaluation); Operations VP (leadership review)\n\nSuccess metric: eBMR vendor selected; QMS alert design approved; leadership buy-in confirmed for capital investment"
+        },
+        {
+          "heading": "Responsible Functions",
+          "content": "• Sales leadership: intake template design and enforcement\n• R&D lead: formula handover version control; QA early involvement process\n• QA Director: eBMR and QMS scoping; regulatory risk flag SLA\n• Planning Manager: launch brief template; S&OP and Procurement process formalization\n• IT: ERP alert configuration; eBMR and QMS system evaluation\n• Operations VP: Handoff Charter sign-off; leadership progress review"
+        },
+        {
+          "heading": "Success Metrics",
+          "content": "• R&D rework rate on new briefs: baseline ~80% → target <30% at Day 30\n• Planning lead time on new launches: baseline 1 week lag → target same-day notification at Day 30\n• Formula version control errors: baseline unknown → target tracked and reported from Day 45\n• NC escalation lag: baseline 1–2 days → target <1 hour at Day 90\n• Batch release cycle time: baseline 3–5 days → tracked pending eBMR decision\n\nNote: This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation."
+        }
+      ]
+    },
+    {
+      "title": "Executive Summary",
+      "sections": [
+        {
+          "heading": "Assessment Overview",
+          "content": "Assessment type: Cross-Team Workflow Assessment\nScope: All 9 critical inter-team handoffs\nMethod: Structured AI-facilitated diagnostic session\nConducted via: CosmoLab Phase 1.5 — Transformation Platform"
+        },
+        {
+          "heading": "Key Finding",
+          "content": "The organisation's cross-team handoffs score 2.6 / 5 on the Handoff Tightness Scale — the majority are email-dependent and person-reliant, creating rework, delays, and in one documented case, direct quality and raw material cost impact. The Engineering ECR process is a best-practice example that the rest of the organisation should model."
+        },
+        {
+          "heading": "Top 3 Handoff Gaps",
+          "content": "1. Quality → All Teams (Score: 1 — Broken)\n   Non-conformance escalation is manual, slow, and has confirmed cost consequences. A raw material OOS event was not communicated for 24+ hours, resulting in consumption of an affected lot. This is the highest-urgency gap.\n\n2. Sales → R&D / Formulation (Score: 2 — Ad Hoc)\n   80% of new project briefs require follow-up before R&D can begin work. This delays project start dates and consumes 4–6 hours of combined Sales and R&D time per project. At scale, this is a significant throughput constraint.\n\n3. Sales → Demand Planning (Score: 2 — Ad Hoc)\n   Planning is routinely informed about new launches after the client commitment has been made. This forces Planning to work backwards against dates they did not set, increasing schedule risk and inventory overages."
+        },
+        {
+          "heading": "Top 3 Recommended Actions",
+          "content": "1. Implement a standard Client Brief template for Sales (this week)\n   Expected ROI: 4–6 hours saved per project; R&D rework rate drops from ~80% to <30%\n\n2. Configure automated NC escalation alerts in the QMS (Month 3)\n   Expected ROI: Prevents repeat of raw material over-consumption; estimated $15–40K annual cost avoidance; direct quality risk reduction\n\n3. Add Quality to new project distribution at intake (this week)\n   Expected ROI: Regulatory issues caught at brief stage instead of formula lock; prevents costly reformulation cycles"
+        },
+        {
+          "heading": "Next Steps",
+          "content": "1. Share this assessment with all team leads for validation (this week)\n2. Convene a 60-minute leadership review to prioritise the 90-Day Roadmap actions\n3. Assign Month 1 owners by end of week — Sales template, QA early involvement, Planning launch brief\n4. Schedule a 30-day progress check to measure rework rate improvement\n\nCosmoLab is available to facilitate the team lead validation sessions and leadership review. The Cross-Team Handoff Automation module (Phase 1.5 Sprint 2) can automate the intake and escalation flows identified in this assessment once the manual templates are validated."
+        }
+      ]
+    }
+  ]
+}

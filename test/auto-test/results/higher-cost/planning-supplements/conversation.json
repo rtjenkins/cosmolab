@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Demand Planning discovery session for your supplement product."
+  },
+  {
+    "role": "user",
+    "content": "New launch — women's beauty collagen capsules, 90-count, US and Canada."
+  },
+  {
+    "role": "assistant",
+    "content": "Distribution channels and initial stocking quantities?"
+  },
+  {
+    "role": "user",
+    "content": "Amazon FBA + DTC Shopify. Initial inventory: 5,000 bottles. Target 2,000 units/month by month 6."
+  },
+  {
+    "role": "assistant",
+    "content": "Seasonality and supply risks?"
+  },
+  {
+    "role": "user",
+    "content": "New Year wellness spike in January. Marine collagen from one Japanese supplier — 10-12 week lead time."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

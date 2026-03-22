@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Sales discovery session for a supplements opportunity. What's the client and product concept?"
+  },
+  {
+    "role": "user",
+    "content": "A wellness brand called Viva Nutra. They want a women's beauty collagen supplement — capsule format."
+  },
+  {
+    "role": "assistant",
+    "content": "Target consumer and retail price point?"
+  },
+  {
+    "role": "user",
+    "content": "Women 25-50, health-conscious. Retail $45-55 for 30-day supply. Premium specialty retail."
+  },
+  {
+    "role": "assistant",
+    "content": "What label claims are they targeting?"
+  },
+  {
+    "role": "user",
+    "content": "DSHEA structure/function claims: 'supports skin elasticity and hydration', 'promotes hair and nail growth'."
+  },
+  {
+    "role": "assistant",
+    "content": "Initial volume and target markets?"
+  },
+  {
+    "role": "user",
+    "content": "US and Canada. 5,000 units first run. Amazon and DTC primary channels."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

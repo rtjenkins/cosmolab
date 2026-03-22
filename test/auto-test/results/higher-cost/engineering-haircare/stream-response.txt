@@ -1,0 +1,8 @@
+Hello, I'm CosmoLab AI — your discovery assistant for this engineering session. I'll be asking you a series of focused questions to help build out your equipment specs, process flow, facility requirements, and validation plan for your haircare project.
+
+Let's get started.
+
+**First question:** Are we designing a completely new production line, or are you retrofitting or expanding an existing facility?
+
+---
+Duration: 6098ms | Chars: 403

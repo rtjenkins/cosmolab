@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help our team build out a complete formulation brief, RFQ, and proposal for your client.
+
+Let's get started.
+
+**First question:** Can you tell me about the client's brand — who they are, what stage they're at (startup, established brand, retailer private label, etc.), and what their brand positioning looks like?
+
+---
+Duration: 3870ms | Chars: 444

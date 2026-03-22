@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Manufacturing discovery session for your supplement. What are we producing?"
+  },
+  {
+    "role": "user",
+    "content": "Women's beauty collagen capsules — 3-capsule serving, 90-count bottle. 21 CFR Part 111 cGMP."
+  },
+  {
+    "role": "assistant",
+    "content": "Target batch sizes?"
+  },
+  {
+    "role": "user",
+    "content": "Pilot: 50,000 capsules. Commercial: 500,000 capsules per batch."
+  },
+  {
+    "role": "assistant",
+    "content": "Blending and encapsulation equipment?"
+  },
+  {
+    "role": "user",
+    "content": "Ribbon blender for dry blend, then automatic capsule filler. Tamper-evident bottling with desiccant insertion."
+  },
+  {
+    "role": "assistant",
+    "content": "Annual volume target?"
+  },
+  {
+    "role": "user",
+    "content": "2 million capsules (~22,000 bottles) in year one."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

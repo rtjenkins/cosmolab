@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Manufacturing discovery session for your OTC product. What are we producing?"
+  },
+  {
+    "role": "user",
+    "content": "A 1% hydrocortisone cream in 30g tubes. FDA OTC regulated."
+  },
+  {
+    "role": "assistant",
+    "content": "Applicable cGMP standard?"
+  },
+  {
+    "role": "user",
+    "content": "Full 21 CFR 211. We are an FDA-registered drug manufacturer."
+  },
+  {
+    "role": "assistant",
+    "content": "Batch sizes and fill equipment requirements?"
+  },
+  {
+    "role": "user",
+    "content": "Pilot: 50kg. Commercial: 500kg. Tube filling at 60 units/min."
+  },
+  {
+    "role": "assistant",
+    "content": "Cleanroom or controlled environment requirements?"
+  },
+  {
+    "role": "user",
+    "content": "ISO 8 cleanroom for filling and packaging. HVAC-controlled temperature and humidity."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

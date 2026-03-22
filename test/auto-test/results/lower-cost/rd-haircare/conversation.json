@@ -1,0 +1,46 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an R&D discovery session for your haircare project. What product are we developing?"
+  },
+  {
+    "role": "user",
+    "content": "A bond-repair leave-in conditioner for colour-treated, damaged hair."
+  },
+  {
+    "role": "assistant",
+    "content": "Key actives or technology for bond repair?"
+  },
+  {
+    "role": "user",
+    "content": "Bis-aminopropyl diglycol dimaleate, hydrolyzed keratin, and panthenol."
+  },
+  {
+    "role": "assistant",
+    "content": "Texture and application format?"
+  },
+  {
+    "role": "user",
+    "content": "Lightweight cream. Must not weigh hair down. Humidity-resistant finish."
+  },
+  {
+    "role": "assistant",
+    "content": "Ingredients to exclude?"
+  },
+  {
+    "role": "user",
+    "content": "Sulfate-free, silicone-free, paraben-free. Vegan formula."
+  },
+  {
+    "role": "assistant",
+    "content": "Target markets and timeline?"
+  },
+  {
+    "role": "user",
+    "content": "US launch Q3, EU follow 6 months later. First prototype in 8 weeks."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hello, I'm CosmoLab AI — your strategy consultant for today's session. I'm here to build a complete picture of your company's current strategic position and help surface the clearest opportunities for growth. This will take about 30 minutes.\n\nLet's start with the fundamentals. Can you give me a brief overview of the business — approximate annual revenue, what product categories you manufacture, and what type of clients you primarily serve?"
+  },
+  {
+    "role": "user",
+    "content": "We're about $85 million in annual revenue. Our mix is roughly 60% skincare, 25% haircare, and 15% OTC drug products. Our clients are a mix — about 40% are established mid-market brands, 35% are indie brands, and 25% are enterprise or retail private label."
+  },
+  {
+    "role": "assistant",
+    "content": "Good — a diversified category and client mix. What's been the revenue trajectory over the last two to three years? And which categories or client segments are driving growth versus declining?"
+  },
+  {
+    "role": "user",
+    "content": "We've grown from $68M to $85M over 3 years — about 7.5% CAGR. Skincare is the engine, especially premium anti-aging and clean beauty. OTC has been flat — we're capacity constrained there. Haircare is growing but at a lower margin than skincare. Indie brands are our fastest growing segment but also highest churn."
+  },
+  {
+    "role": "assistant",
+    "content": "7.5% CAGR is solid for a CM in this market. On capacity — you mentioned OTC is constrained. What's your overall capacity utilization across the business? And where do you have headroom to grow without additional capital investment?"
+  },
+  {
+    "role": "user",
+    "content": "Our skincare lines are running at about 85% utilization — we have some headroom but not a lot. OTC is at 95% plus, which is why we're losing business there. Haircare is at about 70%. We have a $12M capex plan to expand OTC capacity and add a new high-speed skincare filling line — we expect that to come online in 18 months."
+  },
+  {
+    "role": "assistant",
+    "content": "So OTC expansion is already in motion, which removes one constraint. What categories or formats is the market asking for that you currently can't serve — and how much business have you turned away in the last 12 months?"
+  },
+  {
+    "role": "user",
+    "content": "We've turned away an estimated $8-10M in supplements business because we don't have a softgel or encapsulation capability. We also get requests for aerosol products — dry shampoos, setting sprays — and we have no aerosol line. And we're seeing strong demand for APAC-compliant formulations, especially for K-beauty inspired products, but our regulatory expertise is US and EU focused."
+  },
+  {
+    "role": "assistant",
+    "content": "That's a significant opportunity cost — $8–10M in identified turns-away in supplements alone. Let's talk about client concentration. What do your top 3 to 5 clients represent as a percentage of revenue?"
+  },
+  {
+    "role": "user",
+    "content": "Our top client is about 18% of revenue. Top 5 combined is about 45%. We've been working on diversification — 3 years ago the top 5 was 58%, so we've made progress but we're still exposed."
+  },
+  {
+    "role": "assistant",
+    "content": "Good progress on concentration. Where do you win competitively — and where do you lose deals? What are the one or two reasons clients choose you over another CM?"
+  },
+  {
+    "role": "user",
+    "content": "We win on formulation capability and speed — our R&D team is strong and we can turn around a prototype in 3 weeks versus the industry average of 6–8. We also win on regulatory depth for US and EU markets. We lose deals on price when clients are purely cost-driven, and we lose on format capability — the aerosol and supplements gaps cost us deals every quarter."
+  },
+  {
+    "role": "assistant",
+    "content": "Speed and formulation quality are powerful differentiators — those are hard to replicate. On geographic expansion — you mentioned APAC regulatory gaps. Is international expansion a strategic priority, or is the focus domestic growth for the next 12 months?"
+  },
+  {
+    "role": "user",
+    "content": "It's on the radar but not an immediate priority. We have a few clients asking us to support their APAC launches and we keep having to refer them out. We'd like to build that capability but it's not in this year's plan."
+  },
+  {
+    "role": "assistant",
+    "content": "Understood — an emerging priority rather than an active investment. Finally, any M&A, partnership, or technology investments currently under consideration beyond the $12M capex?"
+  },
+  {
+    "role": "user",
+    "content": "We've had informal conversations with a small supplements CM — they have the encapsulation capability we lack. A bolt-on acquisition could solve the supplements gap faster than building. We're also looking at upgrading our ERP and considering whether to invest in a formulation management system to replace our current Coptis setup."
+  },
+  {
+    "role": "assistant",
+    "content": "That's a strategically interesting acquisition angle — capability acquisition rather than revenue acquisition. And the Coptis replacement aligns with the digital transformation work.\n\nI have everything I need. Type 'generate' to create your strategic assessment."
+  }
+]

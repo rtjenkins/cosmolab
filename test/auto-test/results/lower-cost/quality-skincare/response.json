@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Quality Control Plan — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Scope",
+        "content": "This quality control plan covers incoming materials, in-process controls, and finished goods release testing for Luxury Eye Cream (Dark Circles)."
+      },
+      {
+        "heading": "Incoming Material Controls",
+        "content": "• CoA review and verification against approved specifications for each lot\n• Identity testing on first receipt and per approved sampling plan thereafter\n• Microbiological testing per risk-based sampling plan\n• Visual inspection: appearance, packaging integrity, labelling"
+      },
+      {
+        "heading": "In-Process Controls",
+        "content": "• pH check at each manufacturing stage\n• Viscosity measurement at batch completion\n• Fill weight verification (continuous during filling)\n• Appearance and colour checks throughout"
+      },
+      {
+        "heading": "Finished Goods Release",
+        "content": "Release tests as defined in Specification Sheet.\nAll results must meet acceptance criteria before batch disposition.\nQA sign-off required for batch release."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Specification Sheet Outline — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Physical Parameters",
+        "content": "• Appearance: [To be defined at formula lock]\n• Colour: [To be defined]\n• Odour: [To be defined]\n• pH: [Target ± tolerance]\n• Viscosity: [Target ± tolerance]"
+      },
+      {
+        "heading": "Chemical Parameters",
+        "content": "• Active ingredient assay: ≥ [X]% of label claim (per HPLC method)\n• Preservative assay: Within approved range\n• Degradants: NMT [X]% per stability data"
+      },
+      {
+        "heading": "Microbiological Parameters",
+        "content": "Per ISO 17516 / Ph. Eur. 5.1.3 (cosmetics) or USP <61>/<62> (OTC/supplements as applicable):\n• TAMC: NMT 100 CFU/g\n• TYMC: NMT 10 CFU/g\n• Specified organisms: Absent"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Certificate of Analysis (CoA) Template — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Header Information",
+        "content": "Product Name:\nProduct Code:\nBatch Number:\nManufacture Date:\nExpiry / Best Before Date:\nBatch Size:\nManufacturing Site:"
+      },
+      {
+        "heading": "Test Results Table",
+        "content": "Test | Method | Specification | Result | Pass/Fail\nAppearance | Visual | [Spec] | | \npH | USP <791> | [Range] | | \nViscosity | [Method] | [Range] | | \nActive Assay | HPLC | ≥[X]% | | \nMicro (TAMC) | USP <61> | NMT 100 CFU/g | | \nMicro (TYMC) | USP <61> | NMT 10 CFU/g | | "
+      },
+      {
+        "heading": "Disposition",
+        "content": "Reviewed by (QC): _________________ Date: _______\nApproved for Release (QA): _________________ Date: _______"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Regulatory Compliance Checklist — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Applicable Regulations",
+        "content": "Regulatory frameworks confirmed per discovery session.\n□ FDA (MoCRA / 21 CFR as applicable)\n□ EU Cosmetics Regulation 1223/2009 (if applicable)\n□ 21 CFR 211 / Part 111 (OTC / Supplement as applicable)\n□ Third-party certifications (as required)"
+      },
+      {
+        "heading": "Documentation Requirements",
+        "content": "□ Product safety assessment / CPSR completed\n□ Product Information File (PIF) maintained\n□ Facility registration current\n□ Responsible Person designated (EU/UK)\n□ Labelling reviewed for compliance\n□ Claims substantiation on file"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Stability Protocol Outline — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Study Design",
+        "content": "• Accelerated: 40°C / 75% RH — 6 months\n• Long-term: 25°C / 60% RH — 24 months\n• Freeze-thaw: 3 cycles (-10°C ↔ +40°C)\n• Photo-stability: ICH Q1B (where applicable)"
+      },
+      {
+        "heading": "Test Parameters",
+        "content": "Physical: Appearance, pH, viscosity\nChemical: Active assay, degradants (HPLC)\nMicrobiological: TAMC, TYMC, PET at T=0 and end of study"
+      },
+      {
+        "heading": "Acceptance Criteria",
+        "content": "• No significant change in appearance\n• pH within ±0.5 units of T=0\n• Viscosity within ±20% of T=0\n• Active retention ≥90% of label claim at accelerated conditions\n• Microbial counts within limits"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Non-Conformance / Deviation Report Template — Luxury Eye Cream (Dark Circles)",
+    "sections": [
+      {
+        "heading": "Event Details",
+        "content": "NC/Deviation Reference Number:\nDate Identified:\nProduct / Batch:\nIdentified By:\nDepartment:"
+      },
+      {
+        "heading": "Description of Non-Conformance",
+        "content": "Description of the event:\n\nAffected parameters / test results:\n\nPotential impact on product quality or safety:"
+      },
+      {
+        "heading": "Root Cause Analysis",
+        "content": "Root cause category: □ Equipment □ Materials □ Method □ Personnel □ Environment\nRoot cause description:\n\nEvidence / investigation summary:"
+      },
+      {
+        "heading": "CAPA",
+        "content": "Corrective action:\n\nPreventive action:\n\nImplementation owner:\n\nTarget completion date:\n\nEffectiveness review date:"
+      },
+      {
+        "heading": "Disposition",
+        "content": "Batch disposition: □ Release □ Rework □ Reject □ Quarantine pending investigation\nQA sign-off: _________________ Date: _______"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  }
+]

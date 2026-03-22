@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Demand Planning discovery session. New launch or existing SKU?"
+  },
+  {
+    "role": "user",
+    "content": "New product launch — a luxury eye cream, first run."
+  },
+  {
+    "role": "assistant",
+    "content": "Distribution channels?"
+  },
+  {
+    "role": "user",
+    "content": "DTC e-commerce first, then specialty retail (Credo, Follain) within 3 months."
+  },
+  {
+    "role": "assistant",
+    "content": "Initial stocking quantity?"
+  },
+  {
+    "role": "user",
+    "content": "3,000 units. Based on DTC subscriber base and projected conversion rate."
+  },
+  {
+    "role": "assistant",
+    "content": "Seasonality?"
+  },
+  {
+    "role": "user",
+    "content": "Yes — Q4 holiday season drives about 40% of annual eye cream sales."
+  },
+  {
+    "role": "assistant",
+    "content": "Key component lead times?"
+  },
+  {
+    "role": "user",
+    "content": "Airless pump bottles: 10-12 weeks. Eyeliss/Haloxyl actives: 6-8 weeks."
+  },
+  {
+    "role": "assistant",
+    "content": "Single-source supply risks?"
+  },
+  {
+    "role": "user",
+    "content": "Eyeliss and Haloxyl are single-source from Givaudan. No backup supplier currently."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

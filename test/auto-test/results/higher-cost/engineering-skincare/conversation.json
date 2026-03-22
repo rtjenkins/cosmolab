@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an Engineering discovery session. New line or retrofit?"
+  },
+  {
+    "role": "user",
+    "content": "New line addition in our existing facility."
+  },
+  {
+    "role": "assistant",
+    "content": "Target throughput and annual volume?"
+  },
+  {
+    "role": "user",
+    "content": "2,400 units/hour. 120,000 units annually."
+  },
+  {
+    "role": "assistant",
+    "content": "Product format and packaging?"
+  },
+  {
+    "role": "user",
+    "content": "15mL airless pump. Gel-cream viscosity, room temperature fill."
+  },
+  {
+    "role": "assistant",
+    "content": "Utilities available?"
+  },
+  {
+    "role": "user",
+    "content": "Compressed air and chilled water. No steam at that location."
+  },
+  {
+    "role": "assistant",
+    "content": "Available footprint?"
+  },
+  {
+    "role": "user",
+    "content": "Approximately 20x40 feet. 14-foot ceiling clearance."
+  },
+  {
+    "role": "assistant",
+    "content": "Validation requirements?"
+  },
+  {
+    "role": "user",
+    "content": "Full IQ/OQ/PQ required for FDA compliance. We're a cGMP facility."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

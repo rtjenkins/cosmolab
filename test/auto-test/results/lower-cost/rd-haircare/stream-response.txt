@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your formulation discovery assistant. I'm here to help your R&D team capture everything needed to move this haircare project forward efficiently.
+
+Let's get started.
+
+**What type of haircare product are you developing?** For example — shampoo, conditioner, hair mask, leave-in treatment, scalp serum, styling product, or something else?
+
+---
+Duration: 3289ms | Chars: 360

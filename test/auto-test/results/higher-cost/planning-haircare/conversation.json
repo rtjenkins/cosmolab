@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Demand Planning discovery session. New haircare launch or existing SKU?"
+  },
+  {
+    "role": "user",
+    "content": "New launch — bond-repair leave-in cream, two SKUs (travel 75mL + full size 150mL)."
+  },
+  {
+    "role": "assistant",
+    "content": "Channels and initial stocking quantity?"
+  },
+  {
+    "role": "user",
+    "content": "Salon distribution first, then Ulta within 6 months. 5,000 full-size, 2,000 travel units."
+  },
+  {
+    "role": "assistant",
+    "content": "Seasonality or supply risks?"
+  },
+  {
+    "role": "user",
+    "content": "Holiday gift sets spike in Q4. Key active (bis-aminopropyl dimaleate) has 8-10 week lead from one EU supplier."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

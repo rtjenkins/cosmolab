@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an Engineering discovery session for your OTC line. New line or retrofit?"
+  },
+  {
+    "role": "user",
+    "content": "New dedicated OTC line in our existing FDA-registered facility."
+  },
+  {
+    "role": "assistant",
+    "content": "Target throughput and annual volume?"
+  },
+  {
+    "role": "user",
+    "content": "60 tubes/minute. 500,000 units annually."
+  },
+  {
+    "role": "assistant",
+    "content": "Cleanroom classification and HVAC requirements?"
+  },
+  {
+    "role": "user",
+    "content": "ISO 8 filling area. Temperature 20-22°C, RH 45-55%. Full HEPA filtration."
+  },
+  {
+    "role": "assistant",
+    "content": "Validation requirements?"
+  },
+  {
+    "role": "user",
+    "content": "Full IQ/OQ/PQ per 21 CFR 211. Process validation on first three commercial batches."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

@@ -1,0 +1,8 @@
+Hello, I'm CosmoLab AI — your discovery assistant for contract manufacturing engineering projects. I'll be guiding you through a structured session to capture everything your team needs to spec out equipment, process flow, facility requirements, and a validation plan for your skincare product.
+
+Let's get started.
+
+**First question:** Are we looking at setting up a **new production line** from scratch, or **retrofitting / expanding an existing facility**?
+
+---
+Duration: 3659ms | Chars: 458

@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything the manufacturing team needs — from BOM drafts to equipment planning.
+
+Let's get started.
+
+**What type of skincare product are we manufacturing?** For example: moisturizer, serum, eye cream, cleanser, SPF lotion, toner — and what's the intended physical form (cream, gel, oil, foam, etc.)?
+
+---
+Duration: 4663ms | Chars: 410

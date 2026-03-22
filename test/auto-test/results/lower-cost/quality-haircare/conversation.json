@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Quality / QA-QC discovery session for your haircare product. What are we qualifying?"
+  },
+  {
+    "role": "user",
+    "content": "A bond-repair leave-in cream. US and EU markets."
+  },
+  {
+    "role": "assistant",
+    "content": "Applicable regulatory frameworks?"
+  },
+  {
+    "role": "user",
+    "content": "FDA cosmetics (MoCRA) for US, EU Cosmetics Regulation 1223/2009 for EU. Vegan Society certification required."
+  },
+  {
+    "role": "assistant",
+    "content": "Target shelf life and release testing panel?"
+  },
+  {
+    "role": "user",
+    "content": "36 months. Testing: micro (USP 51/61), pH, viscosity, colour, odour, preservative efficacy, and freeze-thaw cycling."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

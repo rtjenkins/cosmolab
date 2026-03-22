@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "title": "Demand Planning Launch Brief — Luminance Brightening Serum (Aura Collective)",
+      "sections": [
+        {
+          "heading": "Product & Project Summary",
+          "content": "Product name: Luminance Brightening Serum\nClient brand: Aura Collective\nCategory: Skincare — face serum\nProject status: In formulation development — formula lock target week 8\nLaunch market: United States (primary); Canada +6 months"
+        },
+        {
+          "heading": "Launch Parameters",
+          "content": "Target US launch date: Month 6 from project start\nDistribution channels: DTC (Shopify-based, client-owned) — primary channel\nSecondary channel: Potential boutique retail placement; no confirmed retail accounts yet\nPackaging: 30mL glass dropper bottle, single SKU at launch"
+        },
+        {
+          "heading": "Volume Forecast",
+          "content": "Initial stocking quantity: 5,000 units\nExpected monthly run rate by month 6: 15,000–20,000 units\nYear 1 volume estimate: ~120,000–150,000 units (assumes ramp from launch)\nForecast basis: Client sales projections based on existing DTC audience size and planned paid media spend\nNote: This is a new brand launch — no historical sales data available. Forecast is marketing-model driven."
+        },
+        {
+          "heading": "SKU Structure",
+          "content": "SKUs at launch: 1 (30mL glass dropper)\nFuture variants: Client has mentioned potential 50mL size for retail — not confirmed, not in Year 1 plan\nNo secondary packaging variants planned at launch"
+        },
+        {
+          "heading": "Seasonality & Promotional Calendar",
+          "content": "No strong seasonal pattern expected for a brightening serum\nKnown promotional events: Launch campaign planned (exact date TBD); Black Friday / Cyber Monday likely promotional push\nInfluencer seeding: Client plans pre-launch influencer program — may generate short-term demand spike 2–4 weeks post-launch"
+        },
+        {
+          "heading": "Supply Constraints",
+          "content": "• Tranexamic acid: Specialty active — confirm supplier lead time with R&D; may require 4–6 week advance procurement\n• Glass dropper bottle: Client-sourced primary packaging — confirm lead time with client; Planning to track independently\n• Ascorbyl glucoside: Confirm availability and lead time with R&D during formulation\n• MOQ: To be confirmed once formula is locked and BOM is finalized"
+        },
+        {
+          "heading": "Assumptions & Risks",
+          "content": "Key assumptions:\n• Client DTC audience conversion rate as projected — no validation data available\n• Retail placement does not materialize in Year 1 (upside risk if it does)\n• Formula lock achieved by week 8 — any delay directly compresses launch window\n\nTop demand risks:\n• New brand with no sales history — forecast confidence is low; plan for +/- 40% variance in months 1–3\n• Influencer-driven spike may create short-term stockout risk if not buffered\n• Retail pitch success (positive risk) could require rapid scale-up beyond current plan"
+        },
+        {
+          "heading": "Planning Actions Required",
+          "content": "1. Confirm formula lock date from R&D (target week 8) to finalize production scheduling\n2. Obtain BOM from R&D post-formula lock to assess raw material lead times\n3. Coordinate with client on glass bottle packaging lead time and delivery schedule\n4. Set initial safety stock policy — recommend 4-week cover given forecast uncertainty\n5. Flag tranexamic acid as long-lead-time item to Procurement immediately"
+        }
+      ]
+    }
+  ]
+}

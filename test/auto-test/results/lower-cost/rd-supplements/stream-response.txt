@@ -1,0 +1,16 @@
+# Welcome to CosmoLab AI — Dietary Supplement Discovery Session
+
+Hello! I'm CosmoLab AI, your formulation discovery assistant. I'll be guiding you through a structured session to capture everything our team needs to develop your dietary supplement — from formulation brief to regulatory checklist and stability testing plan.
+
+Let's get started.
+
+---
+
+**First question:**
+
+What type of dietary supplement are we developing, and what's the intended **dosage form**?
+
+For example: softgel, hard-shell capsule, tablet, powder (stick pack or tub), gummy, liquid shot, effervescent tablet, etc.
+
+---
+Duration: 5219ms | Chars: 588

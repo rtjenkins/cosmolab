@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be walking you through a structured set of questions to help us build out your full quality documentation package — including your QC plan, spec sheets, CoA template, stability protocol, and more.
+
+Let's dive right in.
+
+**First question:** What type of haircare product are we working with? For example, is this a shampoo, conditioner, hair mask, leave-in treatment, scalp serum, styling product — or something else?
+
+---
+Duration: 3185ms | Chars: 491

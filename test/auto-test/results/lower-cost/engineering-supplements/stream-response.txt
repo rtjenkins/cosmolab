@@ -1,0 +1,16 @@
+# Welcome to CosmoLab AI — Engineering Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Engineering team capture everything needed for equipment specs, process flow, facility requirements, and a validation plan skeleton.
+
+We're focused on a **Dietary Supplement** product, so we'll also make sure to cover cGMP requirements under **21 CFR Part 111** along the way.
+
+Let's get started.
+
+---
+
+**First question:**
+
+What is the **physical form** of the dietary supplement you're planning to manufacture — for example, capsules, tablets, softgels, powder sachets, gummies, liquid, or something else?
+
+---
+Duration: 5129ms | Chars: 704

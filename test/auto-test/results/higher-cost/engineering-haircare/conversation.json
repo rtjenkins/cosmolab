@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an Engineering discovery session for your haircare line. New line or retrofit?"
+  },
+  {
+    "role": "user",
+    "content": "Retrofit of an existing cream-filling line to handle 150mL pump bottles."
+  },
+  {
+    "role": "assistant",
+    "content": "Target throughput and annual volume?"
+  },
+  {
+    "role": "user",
+    "content": "60 units/minute. 300,000 units annually."
+  },
+  {
+    "role": "assistant",
+    "content": "Utilities available and space constraints?"
+  },
+  {
+    "role": "user",
+    "content": "Full utilities available. 15x30 foot footprint maximum for the retrofit."
+  },
+  {
+    "role": "assistant",
+    "content": "Validation requirements?"
+  },
+  {
+    "role": "user",
+    "content": "IQ/OQ required. PQ on first commercial batch."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

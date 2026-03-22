@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Demand Planning Brief — Luxury Eye Cream New Launch",
+    "sections": [
+      {
+        "heading": "Product Overview",
+        "content": "Product Type: Luxury Eye Cream\nLaunch Type: New Product Introduction (NPI) — First Production Run\nSKU Count: [To be confirmed]\nProduct Name / SKU Code: [To be confirmed]\nTarget Launch Date: [To be confirmed]"
+      },
+      {
+        "heading": "Distribution Channel Strategy",
+        "content": "Phase 1 — DTC E-Commerce:\n• Channel goes live at initial launch\n• Units allocated based on subscriber base size and projected conversion rate\n• Conversion rate assumption: [To be confirmed — used as basis for 3,000-unit opening order]\n\nPhase 2 — Specialty Retail (Target: Month 3 post-launch):\n• Retail partners identified: Credo Beauty, Follain\n• Retail unit allocation and replenishment cadence: [To be confirmed]\n• Retailer onboarding lead time requirements: [To be confirmed]"
+      },
+      {
+        "heading": "Initial Stocking Quantity",
+        "content": "Opening Production Run: 3,000 units\n\nDemand Basis:\n• DTC subscriber base size: [To be confirmed]\n• Projected DTC conversion rate: [To be confirmed]\n• Reserve stock for specialty retail launch (Month 3): [To be confirmed — to be carved out from or in addition to 3,000 units]\n\nNote: The Demand Planning team should confirm whether the 3,000-unit figure is intended to cover DTC only, or includes initial fill quantities for Credo and Follain. A stock allocation model is recommended prior to production release."
+      },
+      {
+        "heading": "Seasonality Profile",
+        "content": "Eye Cream Category Seasonality Index:\n• Q4 (October–December) accounts for approximately 40% of annual eye cream sales\n• Holiday gifting and seasonal skin concern (dryness, fatigue) are primary demand drivers\n\nPlanning Implications:\n• If launch falls in or near Q4, demand uplift of up to 40% above baseline should be modeled\n• Safety stock levels should be elevated ahead of Q4 peak\n• Specialty retail sell-in for Q4 must account for retailer lead times — Credo and Follain onboarding should be initiated no later than [To be confirmed — recommend 8–10 weeks before retail shelf date]\n• Post-Q4 demand step-down should be reflected in replenishment forecasts for Q1"
+      },
+      {
+        "heading": "Demand Forecast Summary",
+        "content": "Scenario Planning (Indicative — to be validated by Demand Planning team):\n\n• Base Case: 3,000 units covering DTC launch + partial retail fill\n• Upside Case (Q4 launch with full holiday uplift): [To be confirmed]\n• Downside Case (delayed retail onboarding, lower DTC conversion): [To be confirmed]\n\nForecast Review Cadence: [To be confirmed — recommend monthly rolling 12-week forecast]\nForecast Owner: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Supply Risk Assessment — Luxury Eye Cream New Launch",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document identifies supply risks relevant to the demand planning function for the luxury eye cream new product launch. It is intended to inform safety stock decisions, procurement timelines, and contingency planning."
+      },
+      {
+        "heading": "Component Lead Time Summary",
+        "content": "The following lead times have been confirmed and must be incorporated into the production planning timeline:\n\n• Airless Pump Bottles (Primary Packaging):\n  — Lead Time: 10–12 weeks\n  — Supplier: [To be confirmed]\n  — Single-source risk: [To be confirmed]\n  — MOQ: [To be confirmed]\n\n• Eyeliss™ Active Ingredient:\n  — Lead Time: 6–8 weeks\n  — Supplier: Givaudan (single-source)\n  — Single-source risk: HIGH (see below)\n\n• Haloxyl™ Active Ingredient:\n  — Lead Time: 6–8 weeks\n  — Supplier: Givaudan (single-source)\n  — Single-source risk: HIGH (see below)\n\n• All Other Components (secondary packaging, fill materials, etc.): [To be confirmed]"
+      },
+      {
+        "heading": "Critical Path — Longest Lead Time Component",
+        "content": "The airless pump bottle carries the longest confirmed lead time at 10–12 weeks and therefore drives the critical path for production readiness.\n\nRecommended Action:\n• Purchase orders for airless pump bottles must be placed no later than 12 weeks before required in-factory date\n• Any delay in bottle PO placement will directly delay finished goods availability and could jeopardize the Phase 2 specialty retail launch window\n• Demand Planning to confirm required in-factory date based on target launch date [To be confirmed]"
+      },
+      {
+        "heading": "Single-Source Supply Risk — Eyeliss™ and Haloxyl™",
+        "content": "Risk Level: HIGH\n\nBoth Eyeliss™ and Haloxyl™ actives are proprietary ingredients supplied exclusively by Givaudan. No backup supplier is currently in place.\n\nRisk Exposure:\n• Any disruption to Givaudan supply (capacity constraints, force majeure, quality hold, shipping delay) would halt production with no alternative source available\n• Combined lead time of 6–8 weeks means a disruption identified late leaves insufficient time to recover before a Q4 peak demand window\n• These ingredients are likely core to the product's efficacy claims and cannot be substituted without reformulation and regulatory re-evaluation\n\nDemand Planning Implications:\n• Safety stock strategy for Eyeliss™ and Haloxyl™ should reflect single-source risk premium\n• Recommend carrying a minimum buffer stock of [To be confirmed — suggest 4–6 weeks of demand coverage] for both actives at all times post-launch\n• Demand Planning and Procurement to align on reorder point and reorder quantity assumptions\n\nRecommended Mitigations (for cross-functional alignment):\n• Initiate dialogue with Givaudan to establish a consignment or vendor-managed inventory (VMI) arrangement\n• Investigate feasibility of qualifying a secondary supplier for Eyeliss™ and Haloxyl™ as a medium-term risk reduction measure\n• Review contractual terms with Givaudan for volume commitments and force majeure provisions"
+      },
+      {
+        "heading": "Risk Register Summary",
+        "content": "Risk 1: Airless Pump Bottle Delay\n• Likelihood: Medium\n• Impact: High — blocks finished goods production\n• Mitigation: Early PO placement; confirm supplier capacity for 3,000-unit run\n\nRisk 2: Givaudan Active Ingredient Disruption (Eyeliss™ / Haloxyl™)\n• Likelihood: Low–Medium\n• Impact: Critical — no alternative source; production halts\n• Mitigation: Buffer stock policy; VMI discussion; secondary supplier qualification\n\nRisk 3: Demand Underestimate for Q4\n• Likelihood: Medium\n• Impact: High — stockout during peak 40% demand window; lost revenue and retail relationship risk\n• Mitigation: Upside scenario planning; pre-agreed expedite protocol with manufacturer\n\nRisk 4: Specialty Retail Onboarding Delay (Credo, Follain)\n• Likelihood: Medium\n• Impact: Medium — shifts Phase 2 revenue but does not affect DTC\n• Mitigation: Initiate retailer onboarding process immediately post-DTC launch confirmation\n\nRisk 5: DTC Conversion Rate Miss\n• Likelihood: Medium\n• Impact: Medium — potential overstock; cash flow impact\n• Mitigation: Define acceptable inventory aging thresholds; establish promotional clearance trigger points"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Inventory & Safety Stock Policy — Luxury Eye Cream New Launch",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document establishes the recommended inventory positioning and safety stock policy for the luxury eye cream new launch, covering finished goods and key raw materials. It is designed to balance service level targets against working capital constraints while accounting for identified supply risks and seasonal demand patterns."
+      },
+      {
+        "heading": "Finished Goods — Opening Stock Recommendation",
+        "content": "Initial Production Quantity: 3,000 units\n\nRecommended Allocation Framework:\n• DTC E-Commerce Reserve: [To be confirmed — recommend allocating sufficient units to cover 8–12 weeks of projected DTC demand]\n• Specialty Retail Initial Fill (Credo + Follain — Month 3): [To be confirmed — retailer initial order quantities to be requested during onboarding]\n• Safety Buffer Stock (finished goods): [To be confirmed — recommend minimum 10–15% of opening order = 300–450 units held in reserve]\n\nNote: If total DTC + retail fill + safety buffer exceeds 3,000 units, a supplementary production run should be planned with sufficient lead time to cover the Q4 peak. Given the 10–12 week packaging lead time, any second run decision must be made by [To be confirmed — calculate based on target Q4 in-stock date]."
+      },
+      {
+        "heading": "Safety Stock Policy — Finished Goods",
+        "content": "Service Level Target: [To be confirmed — recommend 95%+ for DTC; 98%+ for retail to protect retailer relationships]\n\nSafety Stock Calculation Inputs Required:\n• Average weekly demand (DTC + retail combined): [To be confirmed]\n• Demand variability (standard deviation): [To be confirmed — elevated given new launch with no historical data]\n• Replenishment lead time (production + delivery): [To be confirmed]\n• Lead time variability: [To be confirmed]\n\nQ4 Seasonal Uplift Adjustment:\n• Standard safety stock levels should be increased by a factor reflecting the 40% Q4 demand concentration\n• Recommend building Q4 stock position by [To be confirmed — suggest end of September] to avoid production constraints during peak\n• Post-Q4 safety stock can be stepped down from January onward"
+      },
+      {
+        "heading": "Safety Stock Policy — Raw Materials (Eyeliss™ and Haloxyl™)",
+        "content": "Given the confirmed single-source status of Eyeliss™ and Haloxyl™ (Givaudan), the following enhanced safety stock policy is recommended for these actives:\n\n• Standard Safety Stock Coverage: Minimum 8 weeks of demand coverage (vs. typical 4-week standard for multi-source ingredients)\n• Reorder Point: Trigger replenishment order when stock falls to 10-week coverage level\n• Reorder Quantity: Align with Givaudan MOQ and volume pricing thresholds [To be confirmed]\n• Maximum Stock Level: [To be confirmed — balance against shelf life / storage cost constraints]\n• Ingredient Shelf Life: [To be confirmed — critical input for maximum stock cap]\n\nNote: These parameters should be reviewed quarterly and adjusted based on actual consumption rates post-launch."
+      },
+      {
+        "heading": "Safety Stock Policy — Airless Pump Bottles",
+        "content": "• Lead Time: 10–12 weeks (longest component lead time; drives critical path)\n• Recommended Safety Stock Coverage: 4–6 weeks of demand coverage above reorder point\n• Reorder Point: Trigger PO when on-hand + on-order inventory falls below 14 weeks of projected demand\n• MOQ and unit cost: [To be confirmed]\n• Storage considerations: [To be confirmed]"
+      },
+      {
+        "heading": "Inventory Review Cadence",
+        "content": "• Weekly: Finished goods on-hand vs. forward demand signal review (DTC orders + retail PO pipeline)\n• Monthly: Full inventory health check including raw materials, WIP, and finished goods\n• Quarterly: Safety stock parameter review and seasonality adjustment\n• Ad Hoc: Immediate review triggered by any Givaudan supply disruption signal or DTC demand spike >20% above forecast"
+      },
+      {
+        "heading": "Stockout & Overstock Trigger Points",
+        "content": "Stockout Alert:\n• Finished goods on-hand falls below [To be confirmed] weeks of forward demand coverage\n• Action: Escalate to Supply Chain and initiate expedite assessment\n\nOverstock Alert:\n• Finished goods on-hand exceeds [To be confirmed] weeks of forward demand coverage post-Q4\n• Action: Review promotional or bundling strategy with Marketing; assess liquidation options if inventory aging threshold exceeded\n\nInventory Aging Policy:\n• Finished goods aged beyond [To be confirmed] months to be flagged for markdown or promotional use\n• Raw material aging policy to align with ingredient shelf life specifications [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Launch Readiness Checklist — Demand Planning — Luxury Eye Cream",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This checklist is designed for the Demand Planning team to track readiness milestones from pre-production through to Phase 2 specialty retail launch. It consolidates key actions arising from the supply risk assessment, inventory policy, and demand brief."
+      },
+      {
+        "heading": "Pre-Production (T-12 Weeks and Earlier)",
+        "content": "• Confirm final SKU name, SKU code, and product specifications with NPD team\n• Confirm DTC subscriber base size and finalize conversion rate assumption for 3,000-unit demand basis\n• Confirm whether 3,000 units covers DTC only or includes Credo/Follain initial fill\n• If retail fill is additional, assess need for supplementary production run and place packaging POs accordingly\n• Issue purchase order for airless pump bottles (10–12 week lead time — must be placed immediately)\n• Issue purchase order for Eyeliss™ and Haloxyl™ actives with Givaudan (6–8 week lead time)\n• Confirm Givaudan order confirmation and expected delivery date\n• Confirm all other component lead times and place remaining POs\n• Establish finished goods safety stock target (recommend 300–450 units minimum)\n• Document demand forecast for Base, Upside, and Downside scenarios\n• Align with Finance on working capital envelope for inventory investment"
+      },
+      {
+        "heading": "Pre-Launch DTC (T-4 to T-1 Weeks)",
+        "content": "• Confirm all components received and quality-released at contract manufacturer\n• Confirm production schedule and expected finished goods availability date\n• Confirm finished goods receipt and 3PL inbound processing timeline\n• Allocate finished goods inventory between DTC reserve, retail reserve, and safety buffer\n• Confirm DTC platform inventory integration and available-to-sell (ATS) quantity set correctly\n• Brief customer service team on expected inventory position and backorder policy\n• Confirm Q4 safety stock build plan if launch is in Q3 or earlier\n• Set stockout and overstock alert thresholds in inventory management system"
+      },
+      {
+        "heading": "Phase 2 — Specialty Retail Launch (Target: Month 3 Post-DTC Launch)",
+        "content": "• Initiate Credo Beauty onboarding process no later than 8 weeks before target retail shelf date\n• Initiate Follain onboarding process no later than 8 weeks before target retail shelf date\n• Confirm retailer initial order (IO) quantities and ship-by dates\n• Confirm retail reserve inventory is sufficient to cover IO quantities plus safety buffer\n• If inventory is insufficient, initiate second production run with sufficient lead time\n• Confirm EDI or order management integration with retail partners [To be confirmed]\n• Establish retail replenishment cadence and reorder triggers with each retail partner\n• Brief retail sales team on inventory availability and allocation policy for initial sell-in period"
+      },
+      {
+        "heading": "Ongoing Post-Launch",
+        "content": "• Conduct weekly finished goods on-hand vs. forward demand review\n• Conduct monthly full inventory health check (finished goods + raw materials)\n• Review Givaudan supply status monthly; escalate any risk signals immediately\n• Update rolling 12-week demand forecast monthly\n• Adjust Q4 seasonal safety stock build by end of September each year\n• Initiate secondary supplier qualification process for Eyeliss™ and Haloxyl™ (medium-term)\n• Explore VMI or consignment arrangement with Givaudan (medium-term)"
+      },
+      {
+        "heading": "Open Items / To Be Confirmed",
+        "content": "The following items were not provided during the discovery session and must be confirmed before planning can be finalized:\n\n• Final SKU name and code\n• Target DTC launch date\n• DTC subscriber base size and assumed conversion rate\n• Whether 3,000 units covers DTC only or includes retail fill\n• Retailer initial order quantities (Credo, Follain)\n• Contract manufacturer name and production lead time\n• All component MOQs and unit costs\n• Eyeliss™ and Haloxyl™ shelf life specifications\n• Airless pump bottle supplier name and single-source status\n• Service level targets (DTC and retail)\n• 3PL partner and inbound processing timeline\n• Finance-approved working capital envelope for inventory"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

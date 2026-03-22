@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Demand Planning Overview – 1% Hydrocortisone Cream 30g (OTC)",
+    "sections": [
+      {
+        "heading": "Product Summary",
+        "content": "Product: 1% Hydrocortisone Cream, 30g\nProduct Type: OTC Drug (Topical Corticosteroid)\nRegulatory Category: OTC Monograph Drug – FDA Category I (21 CFR Part 347)\nPrimary Indication: Temporary relief of itching associated with minor skin irritations, inflammation, rashes (e.g., insect bites, poison ivy, eczema)\nDistribution Channel: US Drug Store – CVS and Walgreens planogram entry\nInitial Stocking Quantity: 15,000 units across both chains (split [To be confirmed])"
+      },
+      {
+        "heading": "Purpose of This Document",
+        "content": "This document provides the Demand Planning team with a structured overview of the product launch parameters, demand drivers, supply constraints, and planning assumptions for the initial market entry of 1% Hydrocortisone Cream 30g into the US drug store channel. It serves as the foundational reference for all downstream demand planning activities."
+      },
+      {
+        "heading": "Key Planning Parameters",
+        "content": "• Retail Partners: CVS, Walgreens\n• Launch Type: Planogram entry (new shelf placement)\n• Initial Stocking Units: 15,000 units total\n• Unit Size: 30g tube\n• Replenishment Lead Time (API): 10 weeks (EU single-source supplier)\n• Finished Goods Lead Time: [To be confirmed]\n• Minimum Order Quantity (MOQ): [To be confirmed]\n• Shelf Life / Expiry Buffer Policy: [To be confirmed]\n• Safety Stock Target: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Demand Forecast Plan – 1% Hydrocortisone Cream 30g (OTC)",
+    "sections": [
+      {
+        "heading": "Forecast Methodology",
+        "content": "Given this is a new product launch with no internal sales history, the demand forecast will rely on the following inputs:\n• Analogous product benchmarking (comparable OTC hydrocortisone SKUs in the drug store channel)\n• Retail partner planogram slot expectations and category velocity data\n• Seasonal demand curve modelling based on historical category trends\n• Account team intelligence from CVS and Walgreens category managers\n• Sell-in vs. sell-through distinction to avoid overstocking at launch\n\nForecast Horizon: 18 months rolling\nForecast Cadence: Monthly (with weekly review during launch ramp)\nForecast Owner: Demand Planning Lead\nForecast Input Contributors: Sales, Marketing, Key Account Management, Supply Chain"
+      },
+      {
+        "heading": "Seasonality Profile",
+        "content": "This product has a pronounced seasonal demand pattern driven by outdoor activity-related skin conditions:\n\n• Peak Season: Late spring through summer (approximately May – August)\n• Primary Demand Drivers: Insect bites, poison ivy, poison oak, sunburn-associated inflammation\n• Secondary Demand Drivers: Year-round eczema and minor dermatitis use cases\n• Estimated Seasonal Index: [To be confirmed – benchmark against category data]\n• Pre-season inventory build recommendation: Stock build to begin minimum 10–12 weeks ahead of peak (February–March) to account for EU API lead time\n\nSeasonal Demand Curve (Indicative):\n• Jan–Mar: Low / Base demand — planogram replenishment only\n• Apr–May: Rising demand — early season ramp\n• Jun–Aug: Peak demand — highest velocity, monitor POS weekly\n• Sep–Oct: Declining — manage inventory draw-down to avoid excess\n• Nov–Dec: Base / Low — standard replenishment"
+      },
+      {
+        "heading": "Initial Launch Demand Assumptions",
+        "content": "• Total Initial Stocking Order: 15,000 units\n• Assumed Retailer Split: [To be confirmed – CVS vs. Walgreens allocation]\n• Assumed Planogram Facings per Store: [To be confirmed]\n• Estimated Store Count (CVS): [To be confirmed]\n• Estimated Store Count (Walgreens): [To be confirmed]\n• Anticipated Sell-Through Velocity (Weekly per Store): [To be confirmed – to be modelled against category benchmarks]\n• First Replenishment Order Trigger Point: [To be confirmed – based on agreed safety stock levels and lead time]"
+      },
+      {
+        "heading": "Forecast Risk Factors",
+        "content": "• Upside Risk: Stronger-than-expected summer season (heat waves, higher outdoor activity) could accelerate sell-through beyond base forecast\n• Downside Risk: Planogram reset delays or de-listing by either retail partner could reduce initial volume\n• New Product Uncertainty: No internal demand history; forecast confidence interval is wide in months 1–3\n• Competitive Activity: Pricing or promotional activity from incumbent OTC hydrocortisone brands (e.g., Cortaid, store-brand generics) may suppress velocity"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Supply Risk Assessment – 1% Hydrocortisone Cream 30g (OTC)",
+    "sections": [
+      {
+        "heading": "Supply Chain Overview",
+        "content": "Product: 1% Hydrocortisone Cream 30g\nAPI (Active Pharmaceutical Ingredient): Hydrocortisone 1%\nAPI Supplier: Single EU-based supplier (name [To be confirmed])\nAPI Lead Time: 10 weeks from purchase order to receipt\nAPI Supply Classification: SINGLE SOURCE – HIGH RISK\nFinished Goods Manufacturer: [To be confirmed]\nFinished Goods Lead Time: [To be confirmed]\nPackaging Supplier: [To be confirmed]"
+      },
+      {
+        "heading": "Single-Source API Risk",
+        "content": "RISK LEVEL: HIGH\n\nThe API (hydrocortisone) is sourced exclusively from one EU supplier. This represents the most significant supply risk for this product. Key risk dimensions include:\n\n• Geopolitical / Trade Risk: EU-to-US trade disruptions, tariffs, or export restrictions could delay or block API shipments\n• Supplier Capacity Risk: Inability of the single supplier to scale output during peak demand season without advance planning\n• Quality / Regulatory Risk: A supplier audit failure, FDA import alert, or batch rejection would halt supply with no alternative source available\n• Lead Time Exposure: 10-week API lead time means demand signals must be acted on approximately 3–4 months before finished goods are needed on shelf\n• Force Majeure / Operational Disruption: Supplier facility shutdowns (fire, flood, labour action, utility failure) have no backup option\n\nMitigation Recommendations:\n• Initiate qualification of a secondary API supplier as a medium-term priority [Timeline: To be confirmed]\n• Negotiate strategic API buffer stock held at supplier or at a bonded warehouse in the US\n• Define a minimum API safety stock level to cover at least one full production run plus 4 weeks of peak demand\n• Establish a supplier performance scorecard with monthly review cadence"
+      },
+      {
+        "heading": "Lead Time Analysis and Planning Implications",
+        "content": "API Lead Time: 10 weeks\nEstimated Finished Goods Manufacturing Time: [To be confirmed]\nEstimated Total Supply Lead Time (API to Shelf): [To be confirmed – estimated 14–18 weeks pending FG lead time confirmation]\n\nPlanning Implications:\n• Demand Planning must issue a forward demand signal to procurement a minimum of 10–12 weeks before required delivery of API\n• For peak season (June–August), API purchase orders must be placed no later than February–March\n• Any demand upside identified after the API PO freeze window cannot be fulfilled within the same season\n• A rolling 26-week demand forecast should be shared with procurement to enable forward API purchasing decisions"
+      },
+      {
+        "heading": "Seasonal Supply Build Plan (Indicative)",
+        "content": "• October–November: Confirm peak season demand forecast; issue API purchase order for peak season volume\n• December–January: API in production / transit\n• February–March: API receipt; commence finished goods manufacturing\n• April: Finished goods available; pre-position inventory at DC/3PL ahead of peak\n• May–August: Peak season — monitor POS weekly; trigger replenishment orders with extended lead time awareness\n• September: Begin inventory draw-down; assess excess/obsolescence risk"
+      },
+      {
+        "heading": "Inventory Risk – Obsolescence and Expiry",
+        "content": "• OTC drug products are subject to expiry dating requirements under FDA regulations\n• Over-stocking ahead of peak season to mitigate supply risk must be balanced against expiry date risk\n• Shelf life of finished product: [To be confirmed]\n• Recommended minimum remaining shelf life for retailer acceptance (CVS, Walgreens): [To be confirmed – typically 12+ months]\n• Obsolescence risk is elevated in Year 1 due to forecast uncertainty on a new product launch\n• Demand Planning should model inventory scenarios at P50, P75, and P90 demand levels before committing to peak season build quantities"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Inventory Policy & Safety Stock Recommendation – 1% Hydrocortisone Cream 30g (OTC)",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document defines the recommended inventory policy and safety stock parameters for the 1% Hydrocortisone Cream 30g OTC product to ensure continuity of supply to CVS and Walgreens while managing the risks associated with single-source API supply and seasonal demand variability."
+      },
+      {
+        "heading": "Safety Stock Rationale",
+        "content": "Given the following risk factors, a higher-than-standard safety stock level is warranted for this product:\n\n• Single-source EU API supplier with a 10-week lead time\n• Pronounced seasonal demand spike (summer peak) creating compressed replenishment windows\n• New product launch with no historical demand data (high forecast error expected in Year 1)\n• Retail channel (CVS, Walgreens) with planogram compliance requirements and potential service level penalties for out-of-stocks"
+      },
+      {
+        "heading": "Recommended Safety Stock Calculation Inputs",
+        "content": "The following inputs are required to calculate a statistically robust safety stock level. Where not yet available, placeholders are noted:\n\n• Average Weekly Demand (AWD): [To be confirmed – to be modelled from launch benchmarks]\n• Demand Standard Deviation (σD): [To be confirmed – to be updated after 8–12 weeks of actual POS data]\n• API Replenishment Lead Time: 10 weeks\n• Finished Goods Manufacturing Lead Time: [To be confirmed]\n• Total Lead Time (L): [To be confirmed]\n• Target Service Level: [To be confirmed – recommend 95%+ given retail channel requirements]\n• Safety Stock Formula: SS = Z × σD × √L (where Z = service level Z-score)\n\nNote: Safety stock calculation should be reviewed and updated quarterly in Year 1 as actual demand data becomes available."
+      },
+      {
+        "heading": "Interim Safety Stock Guidance (Pre-Launch)",
+        "content": "Pending confirmed demand data, the following interim safety stock approach is recommended:\n\n• Minimum Safety Stock: Equivalent to 10 weeks of average demand (to cover one full API replenishment cycle)\n• Peak Season Additional Buffer: Additional 4–6 weeks of peak demand volume to be held as seasonal safety stock during May–August\n• DC/3PL Buffer Location: [To be confirmed]\n• Retailer DC Inventory Target: [To be confirmed with CVS and Walgreens supply chain teams]"
+      },
+      {
+        "heading": "Reorder Point Policy",
+        "content": "• Reorder Point (ROP) = Average Demand during Lead Time + Safety Stock\n• Given 10-week API lead time, reorder signals for API must be generated when on-hand + on-order inventory drops to the calculated ROP\n• Demand Planning is responsible for generating weekly inventory position reports and flagging reorder triggers to Procurement\n• During peak season (May–August), reorder point review should shift to weekly cadence"
+      },
+      {
+        "heading": "Inventory Targets Summary",
+        "content": "• Initial Stocking Quantity: 15,000 units (sell-in to CVS and Walgreens)\n• Safety Stock Target (Ongoing): [To be confirmed – pending demand modelling]\n• Peak Season Inventory Build Target: [To be confirmed]\n• Weeks of Supply Target (Non-Peak): [To be confirmed – recommend 12–14 weeks given lead time]\n• Weeks of Supply Target (Peak): [To be confirmed – recommend 16–20 weeks given demand volatility]\n• Excess & Obsolescence Review Frequency: Quarterly"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Launch Readiness Checklist – Demand Planning – 1% Hydrocortisone Cream 30g (OTC)",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This checklist ensures the Demand Planning team has completed all required activities prior to the initial stocking of 1% Hydrocortisone Cream 30g at CVS and Walgreens. It is intended to be reviewed in the S&OP/launch readiness meeting."
+      },
+      {
+        "heading": "Pre-Launch Checklist – Demand Planning",
+        "content": "FORECASTING & PLANNING\n• ☐ Initial 18-month demand forecast completed and reviewed with Sales and Marketing\n• ☐ Seasonal demand curve modelled and agreed (summer peak acknowledged)\n• ☐ Forecast submitted to S&OP process and approved\n• ☐ CVS and Walgreens initial stocking quantities confirmed (15,000 units total – split allocation [To be confirmed])\n• ☐ Sell-in vs. sell-through tracking mechanism established\n• ☐ POS data feed agreed with both retail partners for ongoing demand sensing\n\nSUPPLY & PROCUREMENT\n• ☐ API purchase order placed with EU supplier for initial stocking volume\n• ☐ API safety stock policy agreed with Procurement\n• ☐ Peak season API pre-buy plan approved (accounting for 10-week lead time)\n• ☐ Finished goods manufacturing schedule confirmed\n• ☐ 3PL / DC receiving and storage capacity confirmed for 15,000-unit initial stock\n• ☐ Secondary API supplier qualification initiated (risk mitigation)\n\nRETAIL EXECUTION\n• ☐ Planogram entry dates confirmed with CVS and Walgreens\n• ☐ Store count confirmed for each retail partner\n• ☐ Initial store-level allocation plan prepared\n• ☐ Retailer service level requirements confirmed (fill rate, lead time expectations)\n• ☐ EDI / order management integration confirmed with both retail partners\n\nINVENTORY & RISK\n• ☐ Safety stock targets set and documented\n• ☐ Reorder point policy established\n• ☐ Excess & obsolescence risk reviewed and approved by Finance\n• ☐ Expiry date management policy confirmed with QA and retail partners\n• ☐ Supply risk escalation protocol agreed for single-source API disruption scenarios\n\nREGULATORY & COMPLIANCE\n• ☐ OTC drug labelling confirmed compliant with FDA monograph requirements (21 CFR Part 347)\n• ☐ NDC number assigned and registered\n• ☐ Lot traceability and serialisation requirements confirmed\n• ☐ Import documentation for EU API shipments reviewed by Regulatory Affairs"
+      },
+      {
+        "heading": "Open Items / Actions",
+        "content": "• CVS vs. Walgreens unit allocation split: [To be confirmed – Owner: Key Account Management]\n• Finished goods lead time: [To be confirmed – Owner: Supply Chain]\n• Retailer DC service level requirements: [To be confirmed – Owner: Sales / Customer Supply Chain]\n• Secondary API supplier qualification timeline: [To be confirmed – Owner: Procurement]\n• POS data feed setup with retail partners: [To be confirmed – Owner: Customer Insights / IT]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "S&OP Input Brief – 1% Hydrocortisone Cream 30g (OTC) – New Product Launch",
+    "sections": [
+      {
+        "heading": "Document Purpose",
+        "content": "This brief provides the Sales & Operations Planning (S&OP) process with all required demand planning inputs for the new launch of 1% Hydrocortisone Cream 30g into the US drug store channel (CVS and Walgreens). It is intended to facilitate cross-functional alignment across Demand Planning, Supply Chain, Procurement, Sales, Finance, and Regulatory Affairs."
+      },
+      {
+        "heading": "Product & Channel Summary",
+        "content": "• Product: 1% Hydrocortisone Cream, 30g OTC Drug\n• Channels: CVS (drug store), Walgreens (drug store)\n• Launch Type: Planogram entry – new SKU\n• Initial Stocking Volume: 15,000 units\n• Retailer Allocation Split: [To be confirmed]\n• Anticipated Planogram Entry Date: [To be confirmed]"
+      },
+      {
+        "heading": "Demand Signal",
+        "content": "• 18-Month Baseline Forecast: [To be confirmed – in development]\n• Year 1 Volume Estimate: [To be confirmed]\n• Seasonal Pattern: Summer peak (June–August) driven by insect bite and poison ivy season\n• Forecast Confidence: LOW in months 1–3 (new product, no history); increases post-launch as POS data becomes available\n• Key Demand Assumptions:\n  - Planogram compliance achieved at both CVS and Walgreens\n  - No major competitive promotional disruption\n  - Normal summer weather patterns (not adjusted for extreme heat scenarios)\n  - Sell-through velocity benchmarked against comparable OTC hydrocortisone SKUs"
+      },
+      {
+        "heading": "Supply Constraints for S&OP Awareness",
+        "content": "• API Lead Time: 10 weeks (EU single-source supplier) — this is the primary supply constraint\n• Total Supply Lead Time to Shelf: [To be confirmed]\n• Peak Season Supply Risk: High — API orders for summer peak must be placed by February/March at the latest\n• Single-Source API Risk: No backup supplier currently qualified — escalation required if EU supplier disruption occurs\n• Recommended S&OP Action: Approve peak season API pre-buy in [Month TBC] S&OP cycle to ensure summer availability"
+      },
+      {
+        "heading": "Financial Planning Inputs",
+        "content": "• Initial Stocking Revenue (Sell-In): [To be confirmed – pending unit pricing]\n• Forecast Revenue (Year 1): [To be confirmed]\n• Inventory Investment (Safety Stock + Peak Build): [To be confirmed]\n• Excess & Obsolescence Reserve Recommendation: [To be confirmed – Finance to model based on P50/P90 demand scenarios]\n• COGS Impact of Single-Source API: [To be confirmed – Procurement to provide API unit cost]"
+      },
+      {
+        "heading": "Key Decisions Required from S&OP",
+        "content": "1. Approve peak season API pre-buy quantity and timing\n2. Confirm safety stock investment level for Year 1 launch period\n3. Align on CVS vs. Walgreens initial stocking unit split\n4. Approve secondary API supplier qualification as a funded project\n5. Set target customer service level (fill rate) for CVS and Walgreens\n6. Confirm escalation authority and protocol for single-source API supply disruption"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

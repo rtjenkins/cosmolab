@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to capture everything the manufacturing team needs to move forward with documentation and planning.
+
+Let's dive right in.
+
+**What type of haircare product are we working with?** For example — shampoo, conditioner, hair mask, styling cream, scalp serum, leave-in treatment, hair oil, etc.
+
+---
+Duration: 3822ms | Chars: 415

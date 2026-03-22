@@ -1,0 +1,14 @@
+# Welcome to CosmoLab AI — Demand Planning Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything the Demand Planning team needs to build accurate forecasts, inventory plans, and S&OP inputs for your dietary supplement product.
+
+This typically takes 10–15 minutes. I'll ask focused questions one at a time, so we can go deep where it matters.
+
+---
+
+Let's start at the beginning:
+
+**What is the name of this dietary supplement product, and can you give me a brief description of what it is — the form factor (capsule, gummy, powder, etc.) and its primary health benefit or claim?**
+
+---
+Duration: 5015ms | Chars: 665

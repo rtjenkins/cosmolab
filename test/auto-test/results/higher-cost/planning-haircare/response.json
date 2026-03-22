@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Demand Planning Brief — Bond-Repair Leave-In Cream Launch",
+    "sections": [
+      {
+        "heading": "Product Overview",
+        "content": "Product Name: Bond-Repair Leave-In Cream\nProduct Type: Leave-In Hair Treatment (Cream)\nSKU Count: 2\n\nSKU Details:\n• SKU 1 — Travel Size: 75mL\n• SKU 2 — Full Size: 150mL\n\nKey Active Ingredient: Bis-aminopropyl dimaleate\nFormula Stage: [To be confirmed]\nPackaging Finalization Date: [To be confirmed]"
+      },
+      {
+        "heading": "Initial Stocking Quantities",
+        "content": "Launch stocking units by SKU:\n• Full Size (150mL): 5,000 units\n• Travel Size (75mL): 2,000 units\n• Total Launch Units: 7,000 units\n\nNote: These figures represent initial stocking quantities for the salon distribution phase. Ulta stocking quantities to be determined ahead of the 6-month retail expansion."
+      },
+      {
+        "heading": "Channel Strategy & Timeline",
+        "content": "Phase 1 — Salon Distribution:\n• Channel: Professional salon network\n• Timeline: Launch phase (Month 1)\n• Target Units: 7,000 units (5,000 full size + 2,000 travel)\n\nPhase 2 — Ulta Beauty Retail Expansion:\n• Channel: Ulta Beauty (mass prestige retail)\n• Timeline: Approximately 6 months post salon launch\n• Stocking quantities for Ulta: [To be confirmed]\n• Planogram and shelf placement requirements: [To be confirmed]\n\nDemand Planning Action: Forecast for Ulta onboarding must be initiated no later than Month 3 to ensure sufficient inventory buffer and manufacturing lead time alignment."
+      },
+      {
+        "heading": "Demand Forecast Notes",
+        "content": "• Initial demand signal is based on planned channel stocking, not sell-through velocity data (to be updated once POS data is available from salon partners)\n• Sell-through rate assumptions: [To be confirmed]\n• Reorder trigger points per SKU: [To be confirmed]\n• 12-month volume forecast: [To be confirmed]\n• Ulta projected volume uplift at 6-month mark: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Supply Risk & Lead Time Assessment — Bond-Repair Leave-In Cream",
+    "sections": [
+      {
+        "heading": "Key Ingredient Supply Profile",
+        "content": "Ingredient at Risk: Bis-aminopropyl dimaleate\nRole in Formula: Primary bond-repair active\nCurrent Supplier Geography: European Union (single-source)\nSupplier Count: 1 (sole source — high risk)\nSupplier Lead Time: 8–10 weeks from purchase order placement\n\nRisk Classification: HIGH\n• Single-source dependency creates a critical vulnerability in supply continuity\n• EU-based sourcing introduces potential exposure to import delays, customs clearance variability, and currency fluctuation impacts on cost"
+      },
+      {
+        "heading": "Lead Time Impact on Planning Horizons",
+        "content": "Given an 8–10 week ingredient lead time, the following planning windows apply:\n\n• Minimum raw material order trigger: 10 weeks before required manufacturing start date\n• Recommended safety buffer: 12–14 weeks ahead of manufacturing start to account for customs, QC release, and logistics variability\n• Effective demand planning freeze horizon: Orders must be confirmed at least 12 weeks before any planned production run\n\nImplication for Ulta Launch (Month 6):\n• Raw material orders for Ulta stocking inventory must be placed no later than Month 3–4 to ensure on-time manufacturing\n• Demand forecast for Ulta must be locked by end of Month 3"
+      },
+      {
+        "heading": "Q4 Holiday Demand Spike Risk",
+        "content": "Anticipated Demand Event: Q4 Holiday Gift Set Spike\nImpacted SKUs: Both Travel (75mL) and Full Size (150mL) — travel size especially relevant for gift set inclusion\n\nRisk Assessment:\n• Q4 demand surge combined with 8–10 week ingredient lead time creates a high-risk window if planning is not initiated in Q2\n• If product launches in Q1–Q2, the first Q4 will be the highest-risk replenishment cycle\n• Gift set configurations and bill of materials for holiday sets: [To be confirmed]\n• Incremental Q4 volume uplift estimate: [To be confirmed]\n\nRecommended Actions:\n• Place Q4 safety stock ingredient order by end of Q2\n• Align with contract manufacturer on Q4 production capacity reservation\n• Confirm gift set packaging components lead times separately — these may introduce additional risk"
+      },
+      {
+        "heading": "Supply Risk Mitigation Recommendations",
+        "content": "• Immediately qualify a secondary or backup supplier for bis-aminopropyl dimaleate to eliminate single-source dependency\n• Negotiate consignment stock or vendor-managed inventory (VMI) arrangement with current EU supplier to reduce effective lead time\n• Establish a minimum safety stock level for the active ingredient equivalent to at least one full production run\n• Implement a rolling 13-week demand and supply review cadence\n• Set up supply alerts if ingredient inventory falls below [To be confirmed] kg threshold\n• Assess airfreight feasibility vs. sea freight cost trade-off for urgent replenishment scenarios"
+      },
+      {
+        "heading": "Open Items for Supply Chain Team",
+        "content": "• Secondary supplier qualification timeline: [To be confirmed]\n• Minimum order quantity (MOQ) for bis-aminopropyl dimaleate: [To be confirmed]\n• Contract manufacturer location and production lead time: [To be confirmed]\n• Finished goods warehousing location and 3PL partner: [To be confirmed]\n• Inbound freight mode (air vs. sea) and standard transit time: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory aids team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "SKU & Channel Inventory Plan — Bond-Repair Leave-In Cream",
+    "sections": [
+      {
+        "heading": "SKU Master Summary",
+        "content": "SKU 1:\n• Description: Bond-Repair Leave-In Cream — Travel Size\n• Size: 75mL\n• Primary Channel (Phase 1): Salon Distribution\n• Secondary Channel (Phase 2): Ulta Beauty\n• Launch Stocking Quantity: 2,000 units\n• Unit of Measure: Each\n• UPC/Barcode: [To be confirmed]\n• Inner Pack / Case Configuration: [To be confirmed]\n\nSKU 2:\n• Description: Bond-Repair Leave-In Cream — Full Size\n• Size: 150mL\n• Primary Channel (Phase 1): Salon Distribution\n• Secondary Channel (Phase 2): Ulta Beauty\n• Launch Stocking Quantity: 5,000 units\n• Unit of Measure: Each\n• UPC/Barcode: [To be confirmed]\n• Inner Pack / Case Configuration: [To be confirmed]"
+      },
+      {
+        "heading": "Inventory Allocation by Channel",
+        "content": "Phase 1 — Salon Launch Allocation:\n• Full Size (150mL): 5,000 units → Salon channel\n• Travel Size (75mL): 2,000 units → Salon channel\n• Total Phase 1 Inventory Requirement: 7,000 units\n\nPhase 2 — Ulta Beauty Allocation (Month 6):\n• Full Size (150mL): [To be confirmed]\n• Travel Size (75mL): [To be confirmed]\n• Estimated Ulta store count at launch: [To be confirmed]\n• Units per door (planogram): [To be confirmed]\n\nQ4 Holiday Gift Set Allocation:\n• Gift set SKU(s): [To be confirmed]\n• Anticipated incremental units for gift sets: [To be confirmed]\n• Gift set production run date: [To be confirmed]"
+      },
+      {
+        "heading": "Reorder & Safety Stock Parameters",
+        "content": "The following parameters are recommended based on the 8–10 week active ingredient lead time and Q4 seasonality risk:\n\nFull Size (150mL):\n• Reorder Point: [To be confirmed — recommend setting at 8-week forward demand coverage]\n• Safety Stock Level: [To be confirmed — recommend minimum 4-week demand cover]\n• Maximum Stock Level: [To be confirmed]\n\nTravel Size (75mL):\n• Reorder Point: [To be confirmed]\n• Safety Stock Level: [To be confirmed — elevate ahead of Q4 for gift set inclusion]\n• Maximum Stock Level: [To be confirmed]\n\nGeneral Guidance:\n• Safety stock levels should be reviewed and elevated by end of Q2 each year in anticipation of Q4 holiday demand spikes\n• Reorder points must account for full manufacturing cycle time, not just ingredient lead time"
+      },
+      {
+        "heading": "Discontinuation & Excess Inventory Policy",
+        "content": "• Slow-moving inventory threshold: [To be confirmed]\n• Excess stock disposition process: [To be confirmed]\n• Shelf life of finished goods: [To be confirmed]\n• Returns policy for salon channel: [To be confirmed]\n• Returns policy for Ulta: Subject to Ulta vendor agreement — [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Seasonal & Promotional Demand Calendar — Bond-Repair Leave-In Cream",
+    "sections": [
+      {
+        "heading": "Annual Demand Event Overview",
+        "content": "The following demand events have been identified as significant planning considerations for the Bond-Repair Leave-In Cream line:\n\n• Q4 Holiday Season (October–December): Primary seasonal spike driven by holiday gift set inclusion. Both SKUs expected to see elevated demand. Travel size (75mL) is a strong candidate for gift set bundling.\n• Ulta Beauty Launch (Month 6 — estimated): Retail launch will generate a one-time stocking demand event distinct from organic replenishment demand.\n• Salon Launch (Month 1): Initial trade load-in across salon distribution network.\n\nAdditional promotional events to be confirmed:\n• New Year / Hair Resolutions (January): [To be confirmed — potential promotional opportunity]\n• Spring Refresh (March–April): [To be confirmed]\n• Back-to-School / Fall Refresh (August–September): [To be confirmed]\n• Ulta 21 Days of Beauty or promotional events: [To be confirmed — requires Ulta vendor calendar alignment]"
+      },
+      {
+        "heading": "Q4 Holiday Planning Detail",
+        "content": "Event: Holiday Gift Set Season\nDemand Classification: HIGH IMPACT — Confirmed seasonal spike\nImpacted SKUs: Travel Size (75mL) primarily; Full Size (150mL) secondarily\n\nPlanning Timeline for Q4 Readiness:\n• By End of Q1: Confirm gift set configurations, bundle SKUs, and BOM\n• By End of Q2: Lock Q4 volume forecast; place raw material POs for bis-aminopropyl dimaleate with EU supplier (accounting for 8–10 week lead time + buffer)\n• By Start of Q3 (July): Confirm production slot with contract manufacturer for holiday inventory\n• By End of Q3 (September): Finished goods for Q4 holiday sets in warehouse; safety stock for replenishment confirmed\n• October–December: Active selling season; monitor sell-through weekly\n\nEstimated Incremental Q4 Volume: [To be confirmed]\nGift Set Retail Price Point: [To be confirmed]\nRetailer(s) for Gift Set Distribution: Ulta Beauty + Salon Channel (if applicable)"
+      },
+      {
+        "heading": "Promotional Uplift Assumptions",
+        "content": "• Baseline weekly velocity per SKU (salon): [To be confirmed]\n• Baseline weekly velocity per SKU (Ulta): [To be confirmed]\n• Q4 uplift multiplier vs. baseline: [To be confirmed — industry benchmark for prestige haircare gift sets: 1.5x–3x baseline]\n• Ulta launch week uplift vs. steady-state: [To be confirmed — typical retail launch load-in: 2x–4x ongoing replenishment]\n\nNote: All uplift assumptions must be validated against final retailer commitments and historical analogs from comparable bond-repair or treatment product launches."
+      },
+      {
+        "heading": "Demand Planning Review Cadence",
+        "content": "Recommended review schedule:\n• Weekly: Short-term supply vs. demand alignment (rolling 6 weeks)\n• Monthly: Full SKU-level demand review; reorder point validation; supplier lead time check\n• Quarterly: Strategic forecast update; seasonal volume confirmation; Ulta performance review\n• Pre-Q4 (August): Dedicated holiday demand planning review with full cross-functional team (marketing, supply chain, sales, finance)"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

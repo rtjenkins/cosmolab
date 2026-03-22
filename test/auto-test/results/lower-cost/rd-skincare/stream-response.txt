@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your formulation discovery assistant. I'll be guiding you through a structured session to capture everything your team needs to move this skincare project forward efficiently.
+
+Let's get started.
+
+**What type of skincare product are we developing?** For example — a moisturizer, face serum, eye cream, toner, exfoliant, SPF product, body lotion, or something else?
+
+---
+Duration: 3864ms | Chars: 388

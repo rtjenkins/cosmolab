@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Engineering Retrofit Feasibility & Scope Document",
+    "sections": [
+      {
+        "heading": "Project Overview",
+        "content": "Project Type: Retrofit of existing cream-filling line\nProduct Format: Haircare cream in 150mL pump bottles\nTarget Throughput: 60 units per minute\nAnnual Production Volume: 300,000 units\nFacility Footprint Constraint: Maximum 15 ft x 30 ft (450 sq ft)"
+      },
+      {
+        "heading": "Retrofit Scope Summary",
+        "content": "The existing cream-filling line requires modification to accommodate 150mL pump bottle filling and capping. Key retrofit areas include:\n\n• Filling station: Upgrade or replace filling heads to handle cream viscosity and 150mL fill volume with appropriate dosing accuracy (target ±1% fill weight)\n• Conveyor system: Adjust lane guides, conveyor width, and infeed/outfeed systems to handle pump bottle geometry and stability\n• Capping/pump insertion station: Install or retrofit pump head insertion and torquing equipment compatible with standard 28mm or [To be confirmed] pump fitment diameter\n• Container handling: Modify starwheel, timing screws, and bottle guides for 150mL pump bottle dimensions (diameter and height [To be confirmed])\n• Labelling integration: Confirm existing labeller compatibility with pump bottle profile or specify upgrade requirements\n• Reject and QC systems: Ensure checkweigher and vision systems are calibrated for new container and fill parameters"
+      },
+      {
+        "heading": "Utilities Assessment",
+        "content": "Full utilities are confirmed as available at the line location. The following utility connections should be verified during detailed engineering:\n\n• Compressed air: Required for pneumatic fill heads, pump insertion tooling, and reject mechanisms — pressure and flow capacity to be confirmed against new equipment specifications\n• Electrical: 3-phase power supply capacity to be reviewed against new motor and control system loads\n• Water/CIP supply: Hot and cold water connections for Clean-In-Place circuits — flow rates and drainage capacity [To be confirmed]\n• Steam or hot water: If cream product requires heated filling, steam or hot water utility connection requirements [To be confirmed]\n• HVAC: Confirm zone classification and temperature/humidity control adequacy for cream product processing"
+      },
+      {
+        "heading": "Footprint & Layout Constraints",
+        "content": "Maximum available footprint: 15 ft x 30 ft (450 sq ft)\n\n• All retrofit equipment including filling, capping, conveyors, reject systems, and operator access must be contained within this envelope\n• Maintenance access clearances (minimum 24 inches recommended on service sides) must be factored into layout design\n• A detailed CAD layout drawing should be produced at detailed engineering stage to confirm fit\n• Equipment supplier dimensional drawings must be collected and overlaid against facility floor plan prior to procurement\n• Ceiling height clearance [To be confirmed] — relevant for pump insertion equipment if overhead gantry is required"
+      },
+      {
+        "heading": "Key Risks & Assumptions",
+        "content": "• Cream viscosity data (cP at filling temperature) must be provided to filling equipment supplier to confirm pump type and head configuration\n• Pump bottle dimensions (height, diameter, neck finish) [To be confirmed] — critical for all mechanical handling design\n• Existing line base frame and drive systems are assumed to be in serviceable condition; full mechanical assessment recommended prior to retrofit design freeze\n• Changeover time targets [To be confirmed] — will influence degree of quick-release tooling specified\n• No aseptic or clean-room requirements assumed; standard GMP manufacturing environment assumed"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Equipment Specification Document — 150mL Pump Bottle Cream Filling Line Retrofit",
+    "sections": [
+      {
+        "heading": "Document Purpose",
+        "content": "This document defines the minimum engineering and performance specifications for equipment to be procured or modified as part of the cream-filling line retrofit for 150mL pump bottle production."
+      },
+      {
+        "heading": "Filling System Specification",
+        "content": "• Fill volume: 150mL nominal\n• Fill accuracy: ±1% of target fill weight (to be confirmed against product density)\n• Product type: Haircare cream — viscosity range [To be confirmed] cP\n• Filling principle: Piston fill or gear pump fill recommended for cream viscosity — final selection subject to viscosity data\n• Number of fill heads: [To be confirmed] — sized to achieve 60 units/minute throughput with appropriate redundancy\n• Fill temperature capability: Ambient or heated jacket option [To be confirmed based on product formulation]\n• Product contact materials: 316L stainless steel, PTFE seals, or equivalent materials compatible with haircare cream formulation\n• CIP/SIP capability: Full CIP capability required; SIP [To be confirmed]\n• Drip containment: Anti-drip nozzles or shut-off mechanism required to prevent product waste and contamination"
+      },
+      {
+        "heading": "Pump Bottle Handling & Conveyor Specification",
+        "content": "• Container: 150mL pump bottle — material [To be confirmed: HDPE/PET/PP], dimensions [To be confirmed]\n• Conveyor type: Slat chain or flat-top belt conveyor suitable for pump bottle base stability\n• Conveyor speed: Variable speed drive, adjustable to achieve 60 units/minute line speed\n• Lane guides: Adjustable stainless steel guides to accommodate pump bottle footprint\n• Infeed: Unscrambler or manual infeed [To be confirmed based on volume justification]\n• Outfeed: Transfer to capping station via timing screw or starwheel\n• All product contact surfaces: 304 or 316 stainless steel or food/cosmetic-grade polymer"
+      },
+      {
+        "heading": "Pump Insertion & Capping System Specification",
+        "content": "• Pump fitment size: [To be confirmed] — typically 28mm or 33mm neck finish\n• Capping principle: Rotary chuck capper or snap-on press for pump fitment type\n• Torque specification: [To be confirmed] Nm — must be defined per pump supplier's assembly requirement\n• Capping speed: Minimum 60 units/minute in line with overall throughput target\n• Torque monitoring: In-line torque verification or statistical sampling capability recommended\n• Tooling changeability: Quick-release chuck tooling for future format flexibility [To be confirmed]"
+      },
+      {
+        "heading": "Checkweigher & Reject System Specification",
+        "content": "• Checkweigher: In-line dynamic checkweigher, IP65 rated\n• Weighing range: Suitable for 150mL filled pump bottle estimated gross weight [To be confirmed] g\n• Accuracy: ±1g or better\n• Reject mechanism: Pneumatic push or divert arm reject into locked reject bin\n• Vision system: [To be confirmed] — consider cap presence detection and label verification\n• Data logging: 21 CFR Part 11 compliant data logging capability if required by QA [To be confirmed]"
+      },
+      {
+        "heading": "Control System Specification",
+        "content": "• PLC: Allen-Bradley or Siemens platform [To be confirmed per site standard]\n• HMI: Colour touchscreen, minimum 10-inch display\n• Line speed control: Centralised variable speed control from HMI\n• Fault indication: Audible and visual alarms for fill faults, reject events, and line stoppages\n• Recipe management: Minimum 10 stored product recipes\n• Access control: Role-based operator access levels\n• Network connectivity: Ethernet/IP for SCADA or MES integration [To be confirmed]"
+      },
+      {
+        "heading": "General Equipment Standards",
+        "content": "• All equipment to comply with applicable machinery safety directives (CE marking or equivalent per jurisdiction)\n• IP65 minimum ingress protection for all electrical components in wash-down zones\n• Finish: Internal and external stainless steel surfaces to Ra ≤ 0.8 µm (product contact) and Ra ≤ 1.6 µm (non-product contact)\n• Documentation package to include: FAT protocol, installation drawings, P&IDs, electrical schematics, spare parts list, operating and maintenance manuals, and material certificates for product contact components"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Validation Master Plan — 150mL Pump Bottle Cream Filling Line Retrofit",
+    "sections": [
+      {
+        "heading": "Document Purpose & Scope",
+        "content": "This Validation Master Plan (VMP) defines the overall validation strategy for the retrofit of the cream-filling line to process 150mL pump bottles. It covers Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ) activities in accordance with current GMP expectations.\n\nScope: All retrofitted and newly installed equipment, utilities connections, and control systems forming part of the 150mL pump bottle filling line."
+      },
+      {
+        "heading": "Validation Approach & Phasing",
+        "content": "Phase 1 — Installation Qualification (IQ)\nObjective: Verify that all equipment has been installed correctly in accordance with approved drawings, manufacturer specifications, and site engineering standards.\n\nPhase 2 — Operational Qualification (OQ)\nObjective: Demonstrate that all equipment operates within defined parameters across its specified operating range, in the absence of product.\n\nPhase 3 — Performance Qualification (PQ)\nObjective: Demonstrate that the line performs consistently and reproducibly at commercial scale using actual product. PQ to be conducted on the first commercial batch.\n\nNote: IQ and OQ are required prior to any product trials. PQ will be executed on the first commercial production batch as confirmed in the discovery session."
+      },
+      {
+        "heading": "Installation Qualification (IQ) — Requirements",
+        "content": "The IQ protocol shall verify as a minimum:\n\n• Equipment identity: Serial numbers, model numbers, and supplier documentation match purchase order specifications\n• Installation drawings: As-installed configuration matches approved P&IDs, electrical schematics, and layout drawings\n• Utility connections: Compressed air, electrical, water/CIP, and any other utilities are connected per specification and are leak-free\n• Safety systems: Guards, interlocks, and emergency stop functions are installed and operable\n• Instrument calibration: All instruments (checkweigher, torque monitoring, temperature sensors if applicable) are calibrated with certificates traceable to national standards\n• Cleaning and lubricants: Equipment has been cleaned and food/cosmetic-grade lubricants used on product contact or adjacent mechanisms\n• Documentation: Supplier manuals, CE declarations, material certificates, and calibration certificates are received and filed\n\nIQ Completion Criteria: All IQ checks pass with no open critical or major deviations. Minor deviations resolved or risk-assessed prior to OQ commencement."
+      },
+      {
+        "heading": "Operational Qualification (OQ) — Requirements",
+        "content": "The OQ protocol shall verify as a minimum:\n\n• Line speed: Confirm line operates at 60 units/minute nominal speed; test at minimum, nominal, and maximum speed settings\n• Fill volume accuracy: Demonstrate fill accuracy of ±1% across the operating fill speed range using water or representative placebo [To be confirmed]\n• Capping function: Verify pump insertion and torque application at defined torque specification across full speed range\n• Checkweigher: Challenge with known accept and reject weights; confirm correct accept/pass and reject outcomes\n• Reject system: Verify rejected containers are diverted to reject bin with zero escape rate during challenge testing\n• CIP cycle: Execute and verify CIP cycle completion per defined cycle parameters (time, temperature, flow, conductivity) [To be confirmed]\n• Alarm and interlock testing: Trigger all defined alarm conditions and verify correct line response\n• HMI and recipe management: Verify recipe storage, recall, and access control functions\n• Emergency stop: Test all E-stop stations for correct line shutdown response\n\nOQ Acceptance Criteria: All critical parameters demonstrate capability within defined specification limits. Statistical basis for sample sizes to be defined in the OQ protocol (minimum n=3 runs recommended).\n\nOQ Completion Criteria: All OQ tests pass with no open critical deviations. Minor deviations resolved prior to PQ."
+      },
+      {
+        "heading": "Performance Qualification (PQ) — Requirements",
+        "content": "PQ will be executed during the first commercial production batch of the 150mL pump bottle haircare cream product.\n\nThe PQ protocol shall verify as a minimum:\n\n• Throughput: Line achieves 60 units/minute sustained throughput at commercial conditions\n• Fill weight consistency: Minimum 30 units sampled at defined intervals (start, middle, end of batch) and tested for fill weight — all results within ±1% of target\n• Pump fitment integrity: Torque verification on sampled units [To be confirmed sampling plan]\n• Checkweigher correlation: In-line checkweigher data correlated against manual off-line weight checks\n• Product quality: Filled product meets finished product specification including appearance, viscosity retention post-filling, and microbiological criteria [To be confirmed with QA]\n• Batch yield: Actual vs. theoretical yield within [To be confirmed] % tolerance\n• Line clearance: Confirm no previous product or material contamination\n• Operator training: All operators running PQ batch must have completed documented training on the retrofitted line\n\nPQ Acceptance Criteria: All critical quality attributes and process parameters meet defined specifications. PQ report to be reviewed and approved by QA, Engineering, and Production prior to routine commercial manufacture.\n\nNumber of PQ batches: 1 commercial batch as agreed. QA to confirm whether additional batches are required based on risk assessment."
+      },
+      {
+        "heading": "Roles & Responsibilities",
+        "content": "• Engineering: Author and execute IQ and OQ protocols; support PQ execution; manage supplier documentation\n• Quality Assurance: Review and approve all validation protocols and reports; define product quality acceptance criteria; final approval of PQ report\n• Production: Support OQ and PQ execution; provide operators for trial runs\n• Regulatory Affairs: Review VMP for compliance with applicable regional regulatory requirements [To be confirmed]\n• Validation Lead: [To be confirmed]"
+      },
+      {
+        "heading": "Deviations & Change Control",
+        "content": "• All deviations observed during IQ, OQ, and PQ must be documented, risk-assessed, and resolved before progression to the next phase or commercial release\n• Any changes to equipment, control software, or validated parameters post-PQ approval must be managed through the site Change Control procedure\n• Re-validation triggers to include: significant equipment modification, product formulation change affecting filling parameters, relocation of equipment, or recurring process failures"
+      },
+      {
+        "heading": "Validation Documentation",
+        "content": "The following documents shall be produced and archived as part of the validation lifecycle:\n\n• Validation Master Plan (this document)\n• IQ Protocol and IQ Report\n• OQ Protocol and OQ Report\n• PQ Protocol and PQ Report\n• Calibration certificates for all instruments\n• Deviation logs and resolution records\n• Training records for all operators\n• Final Validation Summary Report"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Line Capacity & Production Planning Analysis — 150mL Pump Bottle Haircare Cream",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document provides an engineering assessment of the line capacity, operational time requirements, and key production planning parameters to support annual volume targets for the 150mL pump bottle haircare cream line."
+      },
+      {
+        "heading": "Capacity Model",
+        "content": "Target throughput: 60 units per minute\nAnnual production target: 300,000 units\n\nCalculated annual production time required (at 100% efficiency):\n300,000 units ÷ 60 units/min = 5,000 minutes = 83.3 hours of net run time per year\n\nApplying an assumed Overall Equipment Effectiveness (OEE) factor:\n• At 85% OEE: 5,000 ÷ 0.85 = 5,882 minutes = 98.0 hours gross scheduled time\n• At 75% OEE: 5,000 ÷ 0.75 = 6,667 minutes = 111.1 hours gross scheduled time\n\nNote: OEE assumption [To be confirmed] based on actual line performance data post-commissioning. Losses to account for include changeover, CIP, minor stoppages, planned maintenance, and speed losses."
+      },
+      {
+        "heading": "Shift & Scheduling Assumptions",
+        "content": "• Annual production volume of 300,000 units at 60 units/minute is achievable within a single-shift operation, representing a low utilisation of available annual capacity\n• This line can accommodate significant volume growth before additional shifts are required\n• Number of scheduled production campaigns per year [To be confirmed] — impacts CIP frequency, changeover time allocation, and scheduling efficiency\n• Planned maintenance windows and shutdown periods [To be confirmed]"
+      },
+      {
+        "heading": "Changeover & Cleaning Time Estimates",
+        "content": "• Line changeover time (format change or product change): [To be confirmed] — estimated 1–2 hours for a same-format product change; longer for format tooling changes\n• CIP cycle duration: [To be confirmed] — typically 45–90 minutes for a cream filling line CIP\n• These non-productive times must be included in production scheduling to ensure capacity model reflects true available run time"
+      },
+      {
+        "heading": "Bottleneck Assessment",
+        "content": "At 60 units/minute, the most likely bottleneck operations are:\n\n• Filling heads: Number and cycle time of fill heads must be matched to line speed — confirm with filling equipment supplier\n• Pump insertion/capping: Capper speed must be rated at minimum 65–70 units/minute to provide buffer above nominal line speed\n• Checkweigher: Confirm dynamic weighing speed rating exceeds 60 units/minute at the filled bottle weight\n\nA detailed bottleneck analysis should be conducted at OQ stage using time-study data from the qualified line."
+      },
+      {
+        "heading": "Scalability Considerations",
+        "content": "• The 450 sq ft footprint (15 ft x 30 ft) constrains future line expansion options — any planned volume increase beyond current annual target should be flagged now to assess whether the layout can accommodate additional equipment\n• If annual volumes grow beyond approximately 600,000–700,000 units, a second shift or line speed increase would be required — line mechanical speed capability above 60 units/minute [To be confirmed with equipment supplier]\n• Infeed automation (unscrambler, palletiser integration) should be evaluated if annual volume targets increase significantly"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Factory Acceptance Test (FAT) & Site Acceptance Test (SAT) Plan — 150mL Pump Bottle Cream Filling Line Retrofit",
+    "sections": [
+      {
+        "heading": "Purpose & Scope",
+        "content": "This document defines the requirements and test criteria for the Factory Acceptance Test (FAT) to be conducted at the equipment supplier's facility, and the Site Acceptance Test (SAT) to be conducted following installation at the production site. Both FAT and SAT are prerequisites to commencing formal IQ/OQ validation activities."
+      },
+      {
+        "heading": "Factory Acceptance Test (FAT) Requirements",
+        "content": "The FAT shall be conducted at the equipment manufacturer's facility prior to shipment. CosmoLab Engineering and QA representatives should attend.\n\nFAT shall demonstrate as a minimum:\n\n• Mechanical build completeness against purchase order specification and approved drawings\n• All guarding, safety interlocks, and E-stops functional\n• Dry run at target speed of 60 units/minute using dummy bottles of equivalent dimensions to the 150mL pump bottle [To be confirmed — customer to supply bottle samples or approved stand-ins]\n• Fill volume demonstration using water or placebo — confirm ±1% fill accuracy at 60 units/minute\n• Capping/pump insertion demonstration at target torque and speed\n• Checkweigher and reject system function test\n• HMI navigation, recipe entry, and access control demonstration\n• CIP cycle simulation [To be confirmed if feasible at supplier site]\n• Review and acceptance of all documentation package items\n\nFAT Acceptance: Punch list of any outstanding items agreed and resolved prior to shipment, or accepted with agreed timelines if non-critical."
+      },
+      {
+        "heading": "Site Acceptance Test (SAT) Requirements",
+        "content": "The SAT shall be conducted following equipment installation within the 15 ft x 30 ft line footprint at the production facility.\n\nSAT shall demonstrate as a minimum:\n\n• Confirmation that equipment has been installed without transit damage\n• All utility connections made and verified (compressed air, electrical, water/CIP)\n• Dry run at line speed with dummy containers\n• Wet run with water or product placebo confirming fill accuracy is maintained at site\n• CIP cycle execution and verification on site\n• All alarms and interlocks functional in the installed configuration\n• Site network/SCADA connectivity [To be confirmed]\n\nSAT Acceptance: Successful SAT completion is the trigger for commencing formal IQ protocol execution. Any open SAT items must be resolved or risk-assessed before IQ begins."
+      },
+      {
+        "heading": "FAT/SAT Documentation Requirements",
+        "content": "The following documents must be available at or before FAT:\n\n• Final equipment drawings (mechanical, electrical, P&ID)\n• Material certificates for product contact components\n• Calibration certificates for all instruments\n• Operating and maintenance manuals (draft acceptable at FAT; final required before IQ)\n• Spare parts list and recommended initial stock\n• CE declaration of conformity (or equivalent per jurisdiction)\n• FAT protocol signed off by Engineering and QA prior to test execution"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

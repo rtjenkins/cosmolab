@@ -1,0 +1,46 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an R&D discovery session for your OTC drug product. What are we formulating?"
+  },
+  {
+    "role": "user",
+    "content": "A 1% hydrocortisone anti-itch cream — FDA OTC External Analgesic monograph."
+  },
+  {
+    "role": "assistant",
+    "content": "Target format and application?"
+  },
+  {
+    "role": "user",
+    "content": "Lightweight cream, fast-absorbing, for insect bites and minor skin irritations."
+  },
+  {
+    "role": "assistant",
+    "content": "Excipient constraints?"
+  },
+  {
+    "role": "user",
+    "content": "Fragrance-free, alcohol-free, no lanolin. Suitable for sensitive skin."
+  },
+  {
+    "role": "assistant",
+    "content": "Stability studies planned?"
+  },
+  {
+    "role": "user",
+    "content": "ICH Q1A accelerated (40°C/75% RH) and long-term (25°C/60% RH) for 24 months. API assay, degradants, pH, viscosity."
+  },
+  {
+    "role": "assistant",
+    "content": "Monograph vs NDA pathway and timeline?"
+  },
+  {
+    "role": "user",
+    "content": "Monograph pathway. Target first batch in 12 weeks."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

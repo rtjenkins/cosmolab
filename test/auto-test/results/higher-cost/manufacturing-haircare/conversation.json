@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Manufacturing discovery session for your haircare product. What are we producing?"
+  },
+  {
+    "role": "user",
+    "content": "A bond-repair leave-in cream in 150mL HDPE pump bottles."
+  },
+  {
+    "role": "assistant",
+    "content": "Target batch sizes?"
+  },
+  {
+    "role": "user",
+    "content": "Lab: 10kg. Pilot: 100kg. Commercial: 1,000kg."
+  },
+  {
+    "role": "assistant",
+    "content": "Mixing requirements or heat-sensitive ingredients?"
+  },
+  {
+    "role": "user",
+    "content": "Heat-sensitive actives added at cool-down below 40°C. Standard overhead mixing."
+  },
+  {
+    "role": "assistant",
+    "content": "Annual volume target?"
+  },
+  {
+    "role": "user",
+    "content": "300,000 units annually by year two."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

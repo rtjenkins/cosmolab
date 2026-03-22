@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Sales discovery session for a haircare opportunity. What's the client brand and product concept?"
+  },
+  {
+    "role": "user",
+    "content": "A salon professional brand called Revive. They want a bond-repair shampoo + conditioner system."
+  },
+  {
+    "role": "assistant",
+    "content": "Target consumer and retail price?"
+  },
+  {
+    "role": "user",
+    "content": "Salon clients and at-home users. Shampoo $28, conditioner $32 — prestige mass market."
+  },
+  {
+    "role": "assistant",
+    "content": "What claims are they targeting?"
+  },
+  {
+    "role": "user",
+    "content": "Bond repair, breakage reduction, frizz control. No drug claims."
+  },
+  {
+    "role": "assistant",
+    "content": "Initial volume and target market?"
+  },
+  {
+    "role": "user",
+    "content": "US and Canada. 5,000 units each SKU to start, scaling to 25,000 within 18 months."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

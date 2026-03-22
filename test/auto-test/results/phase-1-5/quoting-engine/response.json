@@ -1,0 +1,56 @@
+{
+  "quote": {
+    "productName": "SPF 50 Daily Moisturizer — No White Cast",
+    "clientBrand": "Soleil Studio",
+    "category": "Skincare",
+    "complexityScore": 3.8,
+    "complexityLabel": "Medium-High",
+    "complexityBreakdown": {
+      "actives": {
+        "score": 4,
+        "note": "Hybrid UV filter system — avobenzone + octisalate + zinc oxide; photostability testing required"
+      },
+      "regulatory": {
+        "score": 5,
+        "note": "US OTC drug product — in vivo SPF 50 testing, Drug Facts panel, FDA monograph compliance; high regulatory burden"
+      },
+      "format": {
+        "score": 3,
+        "note": "Gel-cream emulsion — standard emulsion process but UV filter incorporation requires optimization"
+      },
+      "packaging": {
+        "score": 3,
+        "note": "50mL pump bottle — standard packaging; compatibility testing required for OTC drug product"
+      },
+      "volume": {
+        "score": 2,
+        "note": "Low initial MOQ (3,000–5,000 units) — indie launch profile"
+      }
+    },
+    "developmentFeeRange": {
+      "low": 18000,
+      "high": 28000,
+      "currency": "USD"
+    },
+    "cogsRange": {
+      "low": 4.5,
+      "high": 7,
+      "unit": "per unit",
+      "atVolume": "5,000 units"
+    },
+    "moq": 3000,
+    "timeline": {
+      "prototypeWeeks": 6,
+      "formulaLockWeeks": 14,
+      "commercialLaunchWeeks": 36
+    },
+    "keyAssumptions": [
+      "In vivo SPF 50 testing ($8,000–$15,000) is included in the development fee range estimate",
+      "Client-sourced primary packaging (50mL pump bottle) — no tooling cost included",
+      "Assumes US-only regulatory scope — Health Canada registration not included",
+      "Broad-spectrum critical wavelength testing included in development scope",
+      "Formula iterations capped at 3 rounds before additional development fees apply"
+    ],
+    "disclaimer": "This is an indicative estimate based on a discovery conversation. Final pricing requires formal technical review, BOM costing, and capacity confirmation. OTC drug product development fees are higher than cosmetics due to regulatory testing requirements. Not a binding commitment."
+  }
+}

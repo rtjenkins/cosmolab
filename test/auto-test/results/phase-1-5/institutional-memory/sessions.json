@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1774058157090-abc123",
+    "type": "discovery",
+    "label": "Sales · Skincare",
+    "date": "2026-03-21T01:55:57.090Z",
+    "summary": "Sales discovery session for a brightening serum with niacinamide, tranexamic acid, and ascorbyl glucoside. Client brand: Aura Collective. DTC launch, 5,000-unit initial volume, 6-month timeline…",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! I'm the CosmoLab AI assistant. I'm here to help you get started on your new product development project. This quick conversation will take about 10 minutes, and at the end, I'll prepare a structured project brief that our formulation and commercial team can review.\n\nLet's start with the basics. Can you tell me the name of your brand and give me a one-line description of the product idea you have in mind?"
+      },
+      {
+        "role": "user",
+        "content": "My brand is called Soleil Studio. I want to develop a lightweight, daily SPF 50 moisturizer that doesn't leave a white cast — targeted at deeper skin tones."
+      },
+      {
+        "role": "assistant",
+        "content": "Great concept — an SPF 50 daily moisturizer with no white cast is a strong market need, and deeper skin tones are historically underserved in this space.\n\nA few important notes on this product type: SPF products are regulated as OTC drug products in the United States by the FDA, which means they require a Drug Facts panel, approved active sunscreen ingredients (typically zinc oxide, titanium dioxide, or chemical UV filters like avobenzone), and compliance with the FDA OTC monograph. If you're also planning to sell in Canada or the EU, there are different requirements in each market.\n\nWith that context — is the US your primary target market? And are you open to mineral-only actives, chemical UV filters, or a hybrid approach?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, primarily US. I'm open to a hybrid approach — mineral and chemical filters — as long as the formula is elegant and doesn't pill under makeup."
+      }
+    ],
+    "documentTitles": [
+      "Sales Discovery Report",
+      "Regulatory Pre-Screening Memo",
+      "Client Proposal Template",
+      "Project Charter"
+    ],
+    "meta": {
+      "team": "sales",
+      "category": "skincare"
+    }
+  },
+  {
+    "id": "1773971757091-def456",
+    "type": "portal",
+    "label": "Client Portal · Skincare",
+    "date": "2026-03-20T01:55:57.091Z",
+    "summary": "Hi! I'm the CosmoLab AI assistant. I'm here to help you get started on your new product development project. This quick conversation will take about 10 minutes…",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! I'm the CosmoLab AI assistant. I'm here to help you get started on your new product development project. This quick conversation will take about 10 minutes, and at the end, I'll prepare a structured project brief that our formulation and commercial team can review.\n\nLet's start with the basics. Can you tell me the name of your brand and give me a one-line description of the product idea you have in mind?"
+      },
+      {
+        "role": "user",
+        "content": "My brand is called Soleil Studio. I want to develop a lightweight, daily SPF 50 moisturizer that doesn't leave a white cast — targeted at deeper skin tones."
+      },
+      {
+        "role": "assistant",
+        "content": "Great concept — an SPF 50 daily moisturizer with no white cast is a strong market need, and deeper skin tones are historically underserved in this space.\n\nA few important notes on this product type: SPF products are regulated as OTC drug products in the United States by the FDA, which means they require a Drug Facts panel, approved active sunscreen ingredients (typically zinc oxide, titanium dioxide, or chemical UV filters like avobenzone), and compliance with the FDA OTC monograph. If you're also planning to sell in Canada or the EU, there are different requirements in each market.\n\nWith that context — is the US your primary target market? And are you open to mineral-only actives, chemical UV filters, or a hybrid approach?"
+      },
+      {
+        "role": "user",
+        "content": "Yes, primarily US. I'm open to a hybrid approach — mineral and chemical filters — as long as the formula is elegant and doesn't pill under makeup."
+      },
+      {
+        "role": "assistant",
+        "content": "Understood — hybrid UV filter system with a cosmetically elegant, non-pilling formula. That's very achievable.\n\nTell me about your target consumer a little more. You mentioned deeper skin tones — are you positioning this as a product specifically for melanin-rich skin, or as a broadly inclusive SPF that performs especially well on deeper complexions? And what's the price point you're targeting at retail?"
+      },
+      {
+        "role": "user",
+        "content": "It's specifically for melanin-rich skin — I want the brand to own that space. We're targeting $38–45 retail, clean beauty positioning, so no oxybenzone or octinoxate."
+      }
+    ],
+    "documentTitles": [
+      "Client Project Overview",
+      "Formulation Requirements",
+      "Regulatory & Compliance Summary",
+      "Commercial & Project Parameters"
+    ],
+    "meta": {
+      "category": "skincare",
+      "clientBrand": "Soleil Studio"
+    }
+  },
+  {
+    "id": "1773885357091-ghi789",
+    "type": "strategy",
+    "label": "Business Strategy Session",
+    "date": "2026-03-19T01:55:57.091Z",
+    "summary": "Hello, I'm CosmoLab AI — your strategy consultant for today's session. I'm here to build a complete picture of your company's current strategic position…",
+    "messages": [],
+    "documentTitles": [
+      "Strategic Situation Assessment",
+      "Growth Opportunity Matrix",
+      "Capability Gap Analysis",
+      "12-Month Strategic Priorities"
+    ],
+    "meta": {}
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Manufacturing Process Overview",
+    "sections": [
+      {
+        "heading": "Product Description",
+        "content": "Product Name: Gel-Cream Eye Cream\nFormat: Gel-cream emulsion\nPrimary Container: 15mL airless pump bottle\nBatch Sizes:\n• Laboratory scale: 5 kg\n• Pilot scale: 50 kg\n• Commercial scale: 500 kg"
+      },
+      {
+        "heading": "Key Active Ingredients",
+        "content": "The following heat-sensitive actives must be handled with care throughout the manufacturing process:\n• Caffeine\n• Vitamin K\n• Peptides (specific peptide complex to be confirmed)\n\nAll three actives are classified as heat-sensitive and must not be subjected to elevated temperatures during addition or processing. Maximum addition temperature: [To be confirmed — recommend ≤40°C as a starting guideline, pending stability data]."
+      },
+      {
+        "heading": "Process Flow Summary",
+        "content": "Step 1 — Phase Preparation: Prepare oil and water phases separately in designated vessels. Heat as required for emulsification base (excluding heat-sensitive actives).\n\nStep 2 — High-Shear Homogenization: Combine oil and water phases and subject to high-shear homogenization to form the gel-cream emulsion. Homogenization speed, duration, and temperature profile: [To be confirmed during lab-scale trials].\n\nStep 3 — Cool-Down with Overhead Mixing: Reduce batch temperature using cooling jacket or heat exchanger. Maintain gentle overhead mixing throughout cool-down to preserve emulsion integrity and ensure homogeneity.\n\nStep 4 — Addition of Heat-Sensitive Actives: Once batch has cooled to the confirmed safe addition temperature, introduce caffeine, Vitamin K, and peptides sequentially or as a pre-blend. Continue overhead mixing post-addition until fully incorporated.\n\nStep 5 — Final Checks Pre-Fill: Conduct in-process quality checks (pH, viscosity, appearance) before releasing batch to filling line.\n\nStep 6 — Filling: Fill at room temperature into 15mL airless pump bottles at a target line speed of 40 units per minute."
+      },
+      {
+        "heading": "Fill Operation Details",
+        "content": "Fill Temperature: Room temperature (approximately 20–25°C)\nContainer: 15mL airless pump bottle\nTarget Line Speed: 40 units per minute\nFilling Equipment Type: [To be confirmed — recommend airless-compatible piston or peristaltic filler]\nFill Volume Accuracy Target: [To be confirmed — recommend ±0.5% as starting tolerance]\nTarget Annual Output (Year 1): 120,000 units"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Batch Manufacturing Record (BMR) Template",
+    "sections": [
+      {
+        "heading": "Document Information",
+        "content": "Product Name: Gel-Cream Eye Cream\nContainer Size: 15mL airless pump bottle\nDocument Reference: [To be confirmed]\nVersion Number: 1.0\nEffective Date: [To be confirmed]\nPrepared By: [To be confirmed]\nReviewed By: [To be confirmed]\nApproved By: [To be confirmed]"
+      },
+      {
+        "heading": "Batch Information Header",
+        "content": "Batch Number: _______________\nBatch Scale: ☐ Lab (5 kg)   ☐ Pilot (50 kg)   ☐ Commercial (500 kg)\nTarget Batch Size: _______________\nActual Batch Size: _______________\nManufacture Date: _______________\nExpiry / Retest Date: _______________\nManufacturing Location: _______________\nManufactured By (Operator): _______________\nChecked By (Supervisor): _______________"
+      },
+      {
+        "heading": "Raw Material Dispensing Log",
+        "content": "All raw materials must be dispensed and verified by two operators before manufacturing begins.\n\n| Ingredient | INCI / Grade | Target Weight (g) | Actual Weight (g) | Lot Number | Dispensed By | Verified By |\n|---|---|---|---|---|---|---|\n| [Water Phase components] | | | | | | |\n| [Oil Phase components] | | | | | | |\n| Caffeine | [Grade TBC] | | | | | |\n| Vitamin K | [Grade TBC] | | | | | |\n| Peptide Complex | [Grade TBC] | | | | | |\n| [Additional components] | | | | | | |\n\nNote: Specific ingredient quantities, grades, and INCI names to be confirmed from approved formula."
+      },
+      {
+        "heading": "Manufacturing Steps and Sign-Off",
+        "content": "Step 1 — Phase Preparation\n• Prepare water phase in Vessel A. Heat to [Temperature TBC]°C.\n• Prepare oil phase in Vessel B. Heat to [Temperature TBC]°C.\n• Record actual temperatures achieved.\nOperator: _______________ Date/Time: _______________\n\nStep 2 — High-Shear Homogenization\n• Combine phases and begin high-shear homogenization.\n• Homogenizer Speed: [To be confirmed] RPM\n• Duration: [To be confirmed] minutes\n• Temperature during homogenization: [To be confirmed]°C\n• Record actual speed, time, and temperature.\nOperator: _______________ Date/Time: _______________\n\nStep 3 — Cool-Down Phase\n• Begin cool-down with overhead mixer engaged.\n• Overhead Mixer Speed: [To be confirmed] RPM\n• Target Temperature for Active Addition: ≤[To be confirmed]°C\n• Record time cool-down initiated and temperature at active addition.\nOperator: _______________ Date/Time: _______________\n\nStep 4 — Addition of Heat-Sensitive Actives\n• Confirm batch temperature is at or below active addition threshold before proceeding.\n• Add Caffeine: Actual temp at addition: ___°C  Time: ___\n• Add Vitamin K: Actual temp at addition: ___°C  Time: ___\n• Add Peptide Complex: Actual temp at addition: ___°C  Time: ___\n• Continue overhead mixing for [To be confirmed] minutes post-addition.\nOperator: _______________ Date/Time: _______________\n\nStep 5 — In-Process Quality Checks\n• pH: Target [TBC]  Actual: ___\n• Viscosity: Target [TBC] cPs  Actual: ___\n• Appearance: Target: clear/homogeneous gel-cream  Actual: ___\n• Pass / Fail: ___\nChecked By: _______________ Date/Time: _______________\n\nStep 6 — Transfer to Filling\n• Batch released to filling line at: ___°C\n• Transfer method: [To be confirmed]\n• Transfer completion time: ___\nOperator: _______________ Date/Time: _______________\n\nStep 7 — Filling Operation\n• Fill Temperature: Room temperature (20–25°C)\n• Container: 15mL airless pump bottle\n• Target Line Speed: 40 units/min   Actual: ___\n• Target Fill Weight: [To be confirmed] g   Actual (sample checks): ___\n• Units Filled (Total): ___\n• Batch Yield: ___%\nOperator: _______________ Date/Time: _______________"
+      },
+      {
+        "heading": "Batch Disposition",
+        "content": "Final Batch Yield: _______________ kg / _______________ units\nTheoretical Yield: _______________ kg / _______________ units\nYield Percentage: ___%\nRetain Samples Taken: ☐ Yes  ☐ No  Quantity: ___\nBatch Released: ☐ Yes  ☐ No\nRelease Authorized By: _______________ Date: _______________"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Equipment Specification and Requirements",
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "This document outlines the equipment requirements for manufacturing the Gel-Cream Eye Cream across laboratory, pilot, and commercial batch scales. Equipment specifications should be validated at each scale prior to formal production."
+      },
+      {
+        "heading": "Mixing and Emulsification Equipment",
+        "content": "High-Shear Homogenizer\n• Required at: Lab (5 kg), Pilot (50 kg), and Commercial (500 kg) scales\n• Purpose: Emulsification of oil and water phases into gel-cream base\n• Capacity Requirements:\n  - Lab: ≥5 kg capacity vessel\n  - Pilot: ≥50 kg capacity vessel\n  - Commercial: ≥500 kg capacity vessel\n• Key Specifications: Variable speed control, CIP/SIP compatibility, temperature monitoring capability, stainless steel contact surfaces (316L recommended)\n• Rotor-stator configuration: [To be confirmed during process development]\n• Speed range required: [To be confirmed]\n\nOverhead Mixer\n• Purpose: Gentle agitation during cool-down phase and post-active addition\n• Must be capable of operation at low shear to protect heat-sensitive actives (caffeine, Vitamin K, peptides)\n• Variable speed with torque monitoring: Recommended\n• Anchor or paddle impeller: [To be confirmed based on viscosity profile]\n• Must be compatible with same vessels as homogenizer, or transfer to dedicated cool-down vessel required: [To be confirmed]"
+      },
+      {
+        "heading": "Temperature Control Equipment",
+        "content": "• Jacketed vessels with heating and cooling capability required for emulsification and cool-down stages\n• Cooling rate control is critical — rapid cooling may cause emulsion instability; controlled cool-down profile to be established during lab trials\n• In-line or immersed temperature probes (calibrated) required at all scales\n• Target active addition temperature: [To be confirmed — ≤40°C recommended as starting point]\n• Room temperature filling environment: 20–25°C; HVAC control in filling area required"
+      },
+      {
+        "heading": "Filling Line Equipment",
+        "content": "Filler Type: Airless-compatible filling machine\n• Recommended type: Piston filler or peristaltic pump filler with airless bottle compatibility\n• Target Line Speed: 40 units per minute\n• Fill Volume: 15 mL\n• Fill Accuracy Target: ±0.5% (to be confirmed)\n• Must handle gel-cream viscosity without shear degradation\n• In-line checkweighing: Recommended for fill weight verification\n• Container handling: Designed for airless pump bottle format (upright orientation, pump-down filling or bottom-up as appropriate for airless mechanism)\n\nCapping / Pump Assembly Equipment\n• Airless pump insertion and torquing station: [To be confirmed — manual or automated]\n• Torque specification: [To be confirmed]\n\nLabeling Equipment\n• [To be confirmed — label format, applicator type]\n\nAnnual Volume Requirement (Year 1): 120,000 units\n• At 40 units/minute and an assumed [To be confirmed] operating hours per day, estimated production days required: [To be confirmed based on OEE targets]"
+      },
+      {
+        "heading": "Cleaning and Sanitization Equipment",
+        "content": "• CIP (Clean-In-Place) system compatibility required for all product-contact equipment at pilot and commercial scales\n• Lab-scale: Manual cleaning acceptable with validated cleaning procedure\n• Cleaning validation requirements: [To be confirmed with QA — particularly important given peptide actives which may require specific analytical methods for residue testing]\n• Cleaning agents and concentrations: [To be confirmed]"
+      },
+      {
+        "heading": "Calibration Requirements",
+        "content": "The following instruments must be on a calibrated schedule:\n• Temperature probes / thermocouples\n• Homogenizer speed controllers (tachometers)\n• Overhead mixer speed controllers\n• Filling machine dosing system\n• In-line checkweigher\n• pH meters (for in-process testing)\n• Viscometers (for in-process testing)\n• Balance / scales (all sizes used in dispensing and fill weight checks)"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "In-Process Quality Control (IPQC) Plan",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document defines the in-process quality control checks to be performed during manufacturing of the Gel-Cream Eye Cream (15mL airless pump bottle). These checks are designed to detect deviations early and protect the integrity of heat-sensitive actives including caffeine, Vitamin K, and peptides."
+      },
+      {
+        "heading": "Critical Process Parameters (CPPs)",
+        "content": "The following parameters have been identified as critical based on the manufacturing process:\n\n• Homogenization speed and duration — affects emulsion droplet size and stability\n• Temperature at active addition — must not exceed safe threshold to protect caffeine, Vitamin K, and peptides\n• Cool-down rate — affects emulsion structure and active integrity\n• Overhead mixing speed post-active addition — must be low-shear to avoid peptide degradation\n• Fill temperature — room temperature (20–25°C) must be maintained\n• Fill weight / fill volume accuracy — directly impacts product dose"
+      },
+      {
+        "heading": "In-Process Test Schedule",
+        "content": "PHASE PREPARATION\n• Test: Visual appearance of each phase (clarity, color, absence of undissolved material)\n• Frequency: Each batch, each phase\n• Acceptance Criteria: [To be confirmed]\n• Operator action if OOS: Investigate undissolved materials before proceeding\n\nPRE-ACTIVE ADDITION (COOL-DOWN)\n• Test: Batch temperature\n• Frequency: Continuous monitoring; record at time of active addition\n• Acceptance Criteria: ≤[To be confirmed]°C\n• Operator action if OOS: Continue cooling; do not add actives above threshold\n\nPOST-HOMOGENIZATION (PRE-ACTIVE ADDITION)\n• Test: pH\n• Frequency: Once per batch\n• Acceptance Criteria: [To be confirmed]\n• Test: Viscosity\n• Frequency: Once per batch\n• Acceptance Criteria: [To be confirmed] cPs\n• Test: Visual appearance (homogeneity, color, phase separation)\n• Frequency: Once per batch\n• Acceptance Criteria: Uniform, smooth gel-cream, no visible phase separation\n\nPOST-ACTIVE ADDITION\n• Test: pH\n• Frequency: Once per batch\n• Acceptance Criteria: [To be confirmed — delta vs pre-addition acceptable range TBC]\n• Test: Viscosity\n• Frequency: Once per batch\n• Acceptance Criteria: [To be confirmed]\n• Test: Appearance\n• Frequency: Once per batch\n• Acceptance Criteria: Uniform, no particulates, consistent with standard\n\nFILLING LINE\n• Test: Fill weight check\n• Frequency: At line start, every [To be confirmed] units, at line stop, and after any interruption\n• Acceptance Criteria: [To be confirmed] g ± 0.5% (target tolerance TBC)\n• Test: Pump functionality check (actuation, dispensing, no leakage)\n• Frequency: 100% visual or [To be confirmed] AQL sampling\n• Acceptance Criteria: Full actuation, no leakage, clean dispense\n• Test: Closure / pump torque\n• Frequency: [To be confirmed]\n• Acceptance Criteria: [To be confirmed] Nm\n• Test: Container appearance (no damage, correct label orientation)\n• Frequency: [To be confirmed] AQL level\n• Acceptance Criteria: No visible defects per approved standard"
+      },
+      {
+        "heading": "Out-of-Specification (OOS) Procedure Summary",
+        "content": "• Any OOS result must be immediately reported to the Batch Supervisor.\n• Production should be placed on hold pending investigation.\n• Root cause investigation must be documented.\n• Disposition of affected batch or batch segment to be determined by QA.\n• All OOS events must be recorded in the BMR and linked to a deviation report.\n• Formal OOS SOP reference: [To be confirmed]"
+      },
+      {
+        "heading": "Retain Samples",
+        "content": "• Retain samples must be taken at the end of every batch.\n• Retain quantity: [To be confirmed — recommend minimum 2x full application quantity for stability reference]\n• Storage conditions: [To be confirmed — recommend ambient controlled storage matching product shelf-life conditions]\n• Retain period: [To be confirmed — typically product shelf life + 1 year for cosmetics; verify with RA]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Scale-Up and Technology Transfer Plan",
+    "sections": [
+      {
+        "heading": "Purpose and Scope",
+        "content": "This plan outlines the approach for scaling the Gel-Cream Eye Cream from laboratory (5 kg) through pilot (50 kg) to commercial (500 kg) manufacturing. It defines key scale-up considerations, transfer milestones, and risk areas specific to this formulation and process."
+      },
+      {
+        "heading": "Scale-Up Stages",
+        "content": "Stage 1 — Laboratory Scale (5 kg)\n• Objective: Establish proof of concept, define process parameters, confirm active addition temperature windows\n• Key deliverables: Preliminary formula, homogenization parameters, cool-down profile, active addition sequence, initial in-process specifications\n• Acceptance criteria: Meets target appearance, pH, viscosity; actives incorporated without visible degradation\n\nStage 2 — Pilot Scale (50 kg)\n• Objective: Confirm process scalability at 10× scale; validate equipment parameters; generate stability samples\n• Key deliverables: Pilot BMR, scale-up process parameters, formal IPQC results, packaging compatibility data with 15mL airless pump bottle\n• Key risks at this stage:\n  - Heat distribution in larger vessel may alter cool-down rate — monitor closely\n  - High-shear homogenizer energy input per unit mass may differ — re-optimize speed/time\n  - Peptide shear sensitivity should be re-assessed at larger overhead mixer scale\n• Acceptance criteria: Meets full IPQC specification; yield ≥[To be confirmed]%\n\nStage 3 — Commercial Scale (500 kg)\n• Objective: Confirm reproducibility at full commercial scale; qualify filling line at 40 units/minute; validate cleaning procedures\n• Key deliverables: Commercial BMR, process validation protocol and report (3 consecutive batches recommended), filling line qualification, cleaning validation\n• Acceptance criteria: Three consecutive batches meeting full specification; fill weight Cpk ≥[To be confirmed]; yield ≥[To be confirmed]%"
+      },
+      {
+        "heading": "Critical Scale-Up Considerations",
+        "content": "Heat-Sensitive Actives Management\n• Caffeine, Vitamin K, and peptides must be added only after confirmed cool-down at all scales\n• As vessel size increases, cool-down time will increase — cooling jacket efficiency and surface-area-to-volume ratio must be assessed\n• A documented, validated temperature profile for cool-down must be established at each scale\n\nHigh-Shear Homogenization\n• Specific energy input (kJ/kg) should be maintained as close as possible across scales, not simply replicating RPM or time\n• Emulsion droplet size analysis (e.g., laser diffraction) is recommended as a scale-up marker\n• Homogenization parameters at commercial scale: [To be confirmed during pilot]\n\nOverhead Mixing During Cool-Down\n• Impeller geometry and tip speed should be assessed at each scale to ensure consistent, low-shear mixing\n• Peptides in particular are susceptible to mechanical shear — mixing speed should be the minimum required to maintain homogeneity\n\nFilling Line Qualification\n• Airless pump bottle filling at 40 units/minute requires line qualification with actual product at commercial viscosity\n• Fill weight accuracy (Cpk) must be demonstrated across line start, mid-run, and end of batch\n• Line speed may need adjustment based on actual gel-cream flow characteristics: [To be confirmed]"
+      },
+      {
+        "heading": "Technology Transfer Documentation Requirements",
+        "content": "The following documents must be completed and approved prior to each scale transition:\n• Updated Batch Manufacturing Record (BMR) for new scale\n• Equipment qualification records (IQ/OQ/PQ) for any new equipment\n• Analytical method transfer confirmation (where applicable)\n• Risk assessment for the scale transition\n• Training records for operators at the receiving site or scale\n• Change control record: [To be confirmed — if moving between sites or manufacturing units]"
+      },
+      {
+        "heading": "Annual Volume Planning",
+        "content": "Year 1 Commercial Target: 120,000 units\nContainer: 15mL airless pump bottle\nFill rate: 40 units/minute\nEstimated run time per 500 kg batch: [To be confirmed — depends on fill weight per unit]\nEstimated number of commercial batches required (Year 1): [To be confirmed]\nProduction scheduling, campaign planning, and equipment booking: [To be confirmed with Operations]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Packaging and Container Compatibility Assessment",
+    "sections": [
+      {
+        "heading": "Primary Packaging Description",
+        "content": "Container Type: Airless pump bottle\nNominal Volume: 15 mL\nMaterial of Construction: [To be confirmed — typically PP body with PE inner bag or piston for airless mechanism]\nPump Type: Airless (piston-driven or bag-on-valve type): [To be confirmed]\nDose Volume Per Actuation: [To be confirmed]\nColor / Finish: [To be confirmed]\nSupplier: [To be confirmed]\nSupplier Reference / Component Code: [To be confirmed]"
+      },
+      {
+        "heading": "Compatibility Considerations",
+        "content": "Airless System and Gel-Cream Viscosity\n• Airless pump systems are viscosity-sensitive — the gel-cream must be within the pump's operable viscosity range\n• Target viscosity at room temperature (fill and use condition): [To be confirmed]\n• Pump manufacturer's recommended viscosity range: [To be confirmed from supplier]\n• If viscosity is outside pump range, formulation or pump selection adjustment will be required\n\nActive Ingredient Compatibility with Container\n• Caffeine: Generally compatible with PP/PE packaging — [Confirm with supplier]\n• Vitamin K: Light-sensitive; consider whether container provides adequate UV protection (opaque or UV-blocking packaging recommended): [To be confirmed]\n• Peptides: Confirm no interaction with inner piston or bag material — adsorption to container surfaces is a known risk with some peptides: [To be confirmed via compatibility study]\n\nFill at Room Temperature\n• No hot-fill concerns for the container\n• Room temperature fill is compatible with standard airless pump bottle specifications"
+      },
+      {
+        "heading": "Packaging Compatibility Testing Requirements",
+        "content": "The following compatibility and performance tests should be conducted prior to commercial launch:\n\n• Extractables and leachables study: [To be confirmed — assess migration from container/pump materials into the gel-cream formulation]\n• Pump actuation performance: Dose weight per actuation, actuation force, number of actuations to prime, total actuations delivered\n• Product recovery rate: % of product deliverable from airless container (target typically ≥90%): [To be confirmed]\n• Stability testing in primary container: Minimum 12-month real-time + accelerated (40°C/75% RH): [To be confirmed with RA/QA]\n• Drop and transport testing: [To be confirmed]\n• Seal / closure integrity testing: [To be confirmed]"
+      },
+      {
+        "heading": "Secondary and Tertiary Packaging",
+        "content": "Secondary Packaging (carton/box): [To be confirmed]\nTertiary Packaging (shipper/case configuration): [To be confirmed]\nUnits per case: [To be confirmed]\nStorage and shipping conditions: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

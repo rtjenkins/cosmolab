@@ -1,0 +1,16 @@
+# Welcome to CosmoLab AI — Quality Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be helping your QA/QC team gather the information needed to build out your full quality documentation package — specs, CoA templates, stability protocols, and more.
+
+Since we're working on an **OTC Drug product**, we'll make sure to cover FDA 21 CFR 211 GMP requirements, monograph compliance, Drug Facts labeling, and everything your quality team needs to stay audit-ready.
+
+Let's get started.
+
+---
+
+**First question:**
+
+What is the OTC drug product you're developing or manufacturing? Please describe it — including the **dosage form** (e.g., cream, gel, shampoo, spray) and its **intended use or drug claim** (e.g., antifungal, sunscreen SPF, acne treatment, dandruff control).
+
+---
+Duration: 5946ms | Chars: 809

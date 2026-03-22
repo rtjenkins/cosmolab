@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for contract manufacturing. I'm here to help your QA/QC team capture everything needed to build out your quality documentation suite for this skincare project.
+
+Let's get started.
+
+**First question:** What type of skincare product are we working with — and can you describe its intended use and format? For example, is this a moisturizing cream, a serum, a cleansing balm, a toner — and how is it applied or used by the consumer?
+
+---
+Duration: 3500ms | Chars: 478

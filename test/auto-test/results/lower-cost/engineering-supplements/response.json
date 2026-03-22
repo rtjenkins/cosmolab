@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Engineering Feasibility Assessment",
+    "sections": [
+      {
+        "heading": "Project Overview",
+        "content": "Project Type: New line addition in existing facility\nProduct Format: 15mL airless pump\nProduct Characteristics: Gel-cream viscosity, room temperature fill\nTarget Throughput: 2,400 units/hour\nAnnual Volume: 120,000 units\nFacility Type: cGMP-compliant manufacturing facility"
+      },
+      {
+        "heading": "Feasibility Summary",
+        "content": "Based on the discovery session, the proposed new line addition is assessed as technically feasible within the stated constraints. The following key parameters have been evaluated:\n\n• Throughput of 2,400 units/hour is achievable with a mid-range automated filling and capping system configured for 15mL airless pumps.\n• Room temperature fill eliminates the need for heated jacketed vessels or hot-fill equipment, simplifying the line configuration.\n• Gel-cream viscosity (typically 5,000–80,000 cP) is compatible with positive displacement pump filling technology; exact viscosity validation required.\n• Annual volume of 120,000 units equates to approximately 50 units/hour amortized across a standard production schedule, suggesting the line will not run at full capacity continuously — this should be factored into OEE planning.\n• No steam utility at the fill location eliminates CIP steam sterilization options; alternative sanitization methods (e.g., chemical CIP or hot water flush) must be confirmed.\n• Available footprint of 20x40 feet (800 sq ft) with 14-foot ceiling clearance is adequate for a standard linear filling line including accumulation, filling, capping, labeling, and cartoning modules."
+      },
+      {
+        "heading": "Key Risks and Constraints",
+        "content": "• Absence of steam utility limits CIP/SIP options — engineering must design an appropriate validated cleaning method using available utilities (compressed air and chilled water).\n• Gel-cream viscosity requires careful pump selection and validation; shear-sensitive formulations may require low-shear filling heads.\n• Airless pump components (dip tube, piston, actuator) require precise torque and insertion force specifications for automated assembly — supplier coordination required early.\n• Full IQ/OQ/PQ validation scope will extend project timeline; validation planning must begin concurrent with equipment procurement.\n• Existing facility integration points (electrical, compressed air supply pressure and volume, drainage) must be surveyed and confirmed before equipment specification is finalized."
+      },
+      {
+        "heading": "Recommended Next Steps",
+        "content": "• Conduct formulation viscosity testing and provide cP range to filling equipment vendors.\n• Commission a utility survey at the target location to confirm compressed air pressure (PSI), flow rate (SCFM), and chilled water capacity.\n• Engage airless pump component supplier to obtain torque and insertion specifications for automated handling.\n• Initiate equipment vendor RFQ process based on the Equipment Specification document.\n• Assign validation team and begin User Requirements Specification (URS) development in parallel."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Equipment Specification Document",
+    "sections": [
+      {
+        "heading": "Scope",
+        "content": "This document defines the equipment requirements for a new filling line to be installed in an existing cGMP facility. The line is intended to fill, assemble, and label 15mL airless pump units containing a gel-cream formulation at room temperature."
+      },
+      {
+        "heading": "Line Performance Requirements",
+        "content": "• Rated throughput: 2,400 units/hour (minimum)\n• Annual production volume: 120,000 units\n• Product format: 15mL airless pump bottle\n• Fill temperature: Ambient / room temperature (no heating required)\n• Fill accuracy: ±0.5% of target fill weight (to be confirmed based on formulation density)\n• Line OEE target: [To be confirmed]\n• Reject rate target: [To be confirmed]"
+      },
+      {
+        "heading": "Filling System",
+        "content": "• Type: Positive displacement filling system (gear pump or peristaltic pump) suitable for gel-cream viscosity products\n• Viscosity range: [To be confirmed — formulation testing required; expected range 5,000–80,000 cP]\n• Fill heads: [To be confirmed — single or multi-head based on final throughput analysis]\n• Filling nozzle: Bottom-up fill or diving nozzle recommended to minimize air entrapment and foaming\n• Contact parts material: 316L stainless steel or FDA-compliant elastomers (EPDM or silicone) — material compatibility with formulation to be confirmed\n• Changeover: Tool-free or minimal-tool changeover preferred for product contact parts\n• CIP compatibility: Required — compatible with chemical CIP cleaning protocol (no steam available at location)"
+      },
+      {
+        "heading": "Airless Pump Assembly",
+        "content": "• Automated or semi-automated pump insertion and crimping/torquing station required\n• Torque specifications: Per airless pump component supplier specifications [To be confirmed]\n• Insertion force: Per airless pump component supplier specifications [To be confirmed]\n• Vision system or torque verification recommended for in-line quality assurance\n• Compatibility with standard 15mL airless pump bottle neck finishes [To be confirmed with packaging supplier]"
+      },
+      {
+        "heading": "Labeling",
+        "content": "• Label type: [To be confirmed — pressure-sensitive, shrink sleeve, or other]\n• Label application: Inline labeling system compatible with 15mL round or oval airless pump bottle profile\n• Print and apply or pre-printed label: [To be confirmed]\n• Barcode / lot number serialization: [To be confirmed]"
+      },
+      {
+        "heading": "Utilities Required",
+        "content": "• Compressed air: Required for pneumatic conveyors, actuators, and capping heads — supply pressure and flow rate to be confirmed against facility survey\n• Chilled water: Available and to be used for product temperature control if needed during extended production runs\n• Electricity: 480V 3-phase [To be confirmed against facility panel capacity]\n• Steam: Not available at this location — cleaning and sanitization system must be designed around chemical CIP or hot water\n• Drain: Floor drain required at filling station — confirm location with facility team\n• Compressed air quality: ISO 8573-1 Class [To be confirmed] — oil-free air recommended for product-contact pneumatics"
+      },
+      {
+        "heading": "Footprint and Installation",
+        "content": "• Available floor space: 20 feet x 40 feet (800 sq ft)\n• Ceiling clearance: 14 feet\n• Line orientation: Linear layout recommended given footprint dimensions\n• Equipment arrangement (suggested, subject to detailed layout): Bottle unscrambler → Filling station → Pump assembly station → Capping/torquing station → Checkweigher → Labeler → Accumulation table / outfeed conveyor\n• Aisle clearance: Minimum 36 inches on operator-access sides per cGMP ergonomic and safety guidelines\n• Equipment height: All equipment must remain within 14-foot ceiling clearance including any overhead conveyors or platforms"
+      },
+      {
+        "heading": "Control System",
+        "content": "• PLC-based control system with HMI touchscreen interface\n• Audit trail and electronic batch record capability preferred for cGMP compliance\n• 21 CFR Part 11 compliance: [To be confirmed based on data recording requirements]\n• Recipe management for multiple SKUs: [To be confirmed]\n• Integration with facility MES or ERP: [To be confirmed]\n• Alarm and fault logging with timestamps required"
+      },
+      {
+        "heading": "Materials of Construction",
+        "content": "• All product-contact surfaces: 316L stainless steel or validated FDA-compliant elastomers\n• Non-product-contact structural components: 304 stainless steel or powder-coated carbon steel\n• Surfaces must be crevice-free, electropolished where required, and cleanable to cGMP standards"
+      },
+      {
+        "heading": "Documentation Requirements",
+        "content": "• Factory Acceptance Test (FAT) protocol and report\n• Site Acceptance Test (SAT) protocol and report\n• IQ, OQ, and PQ protocols and execution reports (see Validation Master Plan)\n• Spare parts list\n• Preventive maintenance schedule\n• Operator and maintenance manuals\n• P&ID drawings (if applicable)\n• Equipment wiring diagrams and electrical schematics\n• Material certifications for product-contact components (3.1 mill certs for stainless steel)"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Facility Integration Plan",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document outlines the integration requirements for installing a new 15mL airless pump filling line within the existing cGMP manufacturing facility. It identifies the interface points between the new line and existing facility infrastructure, and defines actions required to support installation and qualification."
+      },
+      {
+        "heading": "Facility Location and Space Allocation",
+        "content": "• Location: Existing facility — specific room/zone [To be confirmed]\n• Allocated footprint: 20 feet x 40 feet (800 sq ft)\n• Ceiling clearance: 14 feet\n• Floor loading capacity: Must be verified by structural engineer prior to equipment placement — filling equipment with bulk product vessels may exceed standard floor loading\n• Floor finish: Must be cGMP-compliant, chemical-resistant, and cleanable — inspect existing floor for cracks or damage prior to installation\n• Drainage: Confirm floor drain location and capacity for CIP discharge and spill containment"
+      },
+      {
+        "heading": "Utility Integration",
+        "content": "Compressed Air:\n• Confirm existing compressed air header pressure and available flow capacity at the target location\n• Install dedicated drop with isolation valve, pressure regulator, filter, and pressure gauge\n• Compressed air quality specification to be defined and tested (recommend oil-free, dried air for product-contact applications)\n• Validate compressed air supply as part of IQ scope\n\nChilled Water:\n• Confirm chilled water supply and return connection points closest to the new line location\n• Determine available flow rate and temperature range\n• Install isolation valves and flow meters for the new line branch\n• If chilled water is used for product temperature control during fill, include in OQ scope\n\nElectrical:\n• Conduct load calculation for all new line equipment\n• Confirm available capacity at existing electrical panel or determine if a sub-panel is required\n• Coordinate with facility electrical team for panel assignment, breaker sizing, and conduit routing\n• Grounding and bonding requirements to be addressed per NEC and cGMP standards\n\nSteam:\n• Not available at this location — no steam integration required\n• Cleaning and sanitization design must rely on chemical CIP and/or hot water; confirm hot water availability and temperature if applicable"
+      },
+      {
+        "heading": "HVAC and Environmental Controls",
+        "content": "• Confirm room classification (e.g., controlled non-classified, ISO class) applicable to gel-cream topical product filling\n• Verify existing HVAC system capacity to maintain environmental conditions after addition of new heat-generating equipment\n• Temperature and humidity control requirements: [To be confirmed based on product and regulatory requirements]\n• Pressure differential to adjacent areas: [To be confirmed]\n• If filling area requires any upgrade in classification, initiate change control and re-qualification of HVAC system"
+      },
+      {
+        "heading": "Material Flow and Logistics",
+        "content": "• Inbound materials (bulk product, bottles, pumps, caps, labels): Define staging area within or adjacent to the 20x40 footprint\n• Finished goods outfeed: Confirm path to packing/warehousing area — aisle width and cart/pallet accessibility\n• Waste and rework streams: Define reject bin locations and waste disposal routes\n• Cleaning materials and equipment storage: Designate a location within or near the line for CIP equipment, cleaning agents, and PPE"
+      },
+      {
+        "heading": "Change Control Requirements",
+        "content": "• A formal facility change control record must be initiated prior to any construction, utility modification, or equipment installation\n• Impact assessment must include: HVAC re-qualification, compressed air system re-qualification, electrical safety review, and any affected existing validated systems\n• Document all physical changes to the facility in updated as-built drawings\n• Notify QA team to review change control scope before work begins"
+      },
+      {
+        "heading": "Safety and Ergonomics",
+        "content": "• Operator workstations must comply with ergonomic guidelines — confirm standing/seated work heights for filling and assembly stations\n• Emergency stop buttons must be accessible from all operator positions\n• Machine guarding: All moving parts must be guarded per OSHA 1910.212 and equipment manufacturer standards\n• Chemical handling: CIP chemicals and sanitizing agents require appropriate secondary containment and SDS review\n• Emergency egress paths must not be blocked by new line footprint — confirm with EHS team"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Validation Master Plan (VMP)",
+    "sections": [
+      {
+        "heading": "Purpose and Scope",
+        "content": "This Validation Master Plan (VMP) defines the overall validation strategy for the new 15mL airless pump filling line installed in the existing cGMP facility. It covers Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ) activities required to demonstrate that the line is installed correctly, operates as intended, and consistently produces product meeting predefined specifications."
+      },
+      {
+        "heading": "Regulatory Basis",
+        "content": "• FDA 21 CFR Part 211 — Current Good Manufacturing Practice for Finished Pharmaceuticals / Cosmetics (as applicable)\n• FDA Guidance for Industry: Process Validation — General Principles and Practices (January 2011)\n• ICH Q10 — Pharmaceutical Quality System (as applicable)\n• Facility SOPs and Quality Management System requirements\n\nNote: The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      },
+      {
+        "heading": "Validation Team and Responsibilities",
+        "content": "• Validation Lead: [To be confirmed]\n• Engineering Representative: Responsible for equipment installation, utility connections, and technical support during qualification\n• Quality Assurance: Protocol approval, execution oversight, deviation management, and final report approval\n• Operations / Production: Operator training, SAT participation, PQ execution support\n• Equipment Vendor: FAT execution, documentation package, and on-site support during SAT and IQ\n• Regulatory Affairs: Review of validation strategy and GMP compliance assessment"
+      },
+      {
+        "heading": "Validation Phases Overview",
+        "content": "Phase 1 — Factory Acceptance Test (FAT):\n• Conducted at equipment vendor facility prior to shipment\n• Verifies equipment meets URS and equipment specification requirements\n• Includes mechanical inspection, control system testing, fill accuracy testing with water or simulated product, and documentation review\n• FAT report must be approved before equipment ships\n\nPhase 2 — Site Acceptance Test (SAT):\n• Conducted after equipment delivery and installation at facility\n• Verifies equipment integrity was maintained during shipping and installation\n• Confirms utility connections and basic operational function at site\n\nPhase 3 — Installation Qualification (IQ):\n• Verifies equipment is installed according to approved design specifications and vendor recommendations\n• Key IQ elements:\n  - Equipment identification (serial numbers, model numbers)\n  - Utility connection verification (compressed air, chilled water, electrical)\n  - Calibration status of all instruments (pressure gauges, temperature sensors, checkweighers, torque sensors)\n  - Critical documentation on file (drawings, manuals, material certs)\n  - Software version documentation and 21 CFR Part 11 assessment (if applicable)\n\nPhase 4 — Operational Qualification (OQ):\n• Verifies equipment operates correctly across its defined operating range in the absence of product\n• Key OQ elements:\n  - Fill weight accuracy testing across min/mid/max fill parameters\n  - Pump speed and fill volume correlation\n  - Capping/torque system verification at specified torque settings\n  - Alarm and interlock testing\n  - CIP cycle verification (chemical CIP or hot water flush — no steam available)\n  - HMI and control system function testing\n  - Compressed air pressure and flow adequacy testing\n\nPhase 5 — Performance Qualification (PQ):\n• Verifies the line consistently performs to specification under actual production conditions using commercial product and components\n• Minimum three consecutive successful production runs recommended\n• Key PQ elements:\n  - Fill weight accuracy (±0.5% target — [To be confirmed]) across production run\n  - Pump assembly torque consistency\n  - Line speed confirmation at 2,400 units/hour\n  - Reject rate and OEE measurement\n  - In-process and finished product testing per product specification\n  - Operator training verification\n  - Cleaning validation linkage (confirm cleaning effectiveness for gel-cream product)"
+      },
+      {
+        "heading": "Validation Documentation Requirements",
+        "content": "The following documents are required to complete the validation lifecycle:\n\n• User Requirements Specification (URS)\n• Equipment Specification\n• Validation Master Plan (this document)\n• FAT Protocol and Report\n• SAT Protocol and Report\n• IQ Protocol and Report\n• OQ Protocol and Report\n• PQ Protocol and Report\n• Calibration records for all critical instruments\n• Cleaning Validation Protocol and Report (linked to this line)\n• Training records for all operators and technicians\n• Deviation log and corrective action records (if applicable)\n• Final Validation Summary Report"
+      },
+      {
+        "heading": "Critical Instruments Requiring Calibration",
+        "content": "• Checkweigher (fill weight verification)\n• Torque monitoring system (pump assembly station)\n• Compressed air pressure gauges\n• Chilled water flow meter and temperature sensor (if used for temperature control)\n• HMI system clock (for audit trail and batch record timestamp accuracy)\n• Any thermometers or environmental monitoring instruments in the fill area\n• [Additional instruments to be confirmed following equipment specification finalization]"
+      },
+      {
+        "heading": "Cleaning Validation Linkage",
+        "content": "• A dedicated Cleaning Validation study is required for the new line due to the gel-cream product matrix\n• Cleaning method: Chemical CIP or manual clean using validated detergent and rinse cycle (no steam available)\n• Cleaning validation must establish:\n  - Worst-case product residue limits\n  - Validated cleaning agent, concentration, contact time, and temperature\n  - Rinse water and/or swab sampling locations and acceptance criteria\n  - Microbiological cleanliness criteria post-cleaning\n• Cleaning validation protocol to be developed as a separate document linked to this VMP"
+      },
+      {
+        "heading": "Acceptance Criteria Summary",
+        "content": "• IQ: All equipment installed per specification; all calibrations current; all required documentation on file\n• OQ: All functional tests pass within defined operating ranges; all alarms and interlocks function as specified\n• PQ: Three consecutive runs meet fill weight accuracy (±0.5% [To be confirmed]), throughput (2,400 units/hour), and finished product specifications\n• Any deviation from acceptance criteria must be documented, investigated, and resolved prior to line release"
+      },
+      {
+        "heading": "Timeline",
+        "content": "• URS Development: [To be confirmed]\n• Equipment Procurement and FAT: [To be confirmed]\n• Equipment Delivery and SAT: [To be confirmed]\n• IQ Execution: [To be confirmed]\n• OQ Execution: [To be confirmed]\n• PQ Execution: [To be confirmed]\n• Validation Summary Report and Line Release: [To be confirmed]\n\nNote: Validation activities must be planned concurrently with equipment procurement to avoid timeline delays. Estimated total validation cycle from equipment delivery to line release is typically 8–16 weeks depending on protocol complexity and deviation management."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Line Layout and Material Flow Diagram — Women's Beauty Collagen Capsules — Encapsulation Line (Supplement)",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document provides a narrative specification for the physical layout of the new 15mL airless pump filling line and the material flow sequence. A formal CAD drawing should be developed by the facility engineering team based on this specification."
+      },
+      {
+        "heading": "Available Space Summary",
+        "content": "• Floor space: 20 feet (width) x 40 feet (length) = 800 sq ft\n• Ceiling clearance: 14 feet\n• Line orientation: Linear (recommended) — long axis aligned with 40-foot dimension\n• Utilities entry points: [To be confirmed following facility survey]"
+      },
+      {
+        "heading": "Proposed Line Sequence",
+        "content": "The following equipment sequence is recommended based on the product format, throughput, and available footprint. All positions are approximate and subject to detailed engineering layout:\n\nStation 1 — Bottle Unscrambler / Infeed:\n• Location: Operator infeed end of line (40-foot axis, entry point)\n• Function: Orients and singulates 15mL airless pump bottles from bulk hopper or tray\n• Estimated footprint: 4 x 4 feet\n\nStation 2 — Filling Station:\n• Location: Adjacent to unscrambler, operator-accessible on both sides\n• Function: Positive displacement filling of gel-cream product at room temperature\n• Includes: Product supply vessel/hopper, filling pump, fill head(s), drip tray, CIP connections\n• Estimated footprint: 6 x 6 feet\n\nStation 3 — Pump Insertion / Assembly Station:\n• Location: Downstream of filling station\n• Function: Automated or semi-automated insertion and torquing of airless pump mechanism\n• Estimated footprint: 4 x 4 feet\n\nStation 4 — Checkweigher:\n• Location: Immediately downstream of pump assembly\n• Function: 100% in-line weight verification; auto-reject of out-of-specification units\n• Estimated footprint: 3 x 2 feet\n\nStation 5 — Labeling Station:\n• Location: Mid-line\n• Function: Application of pressure-sensitive label [To be confirmed] to 15mL bottle\n• Estimated footprint: 4 x 3 feet\n\nStation 6 — Vision Inspection (Optional but Recommended):\n• Location: Downstream of labeler\n• Function: Label placement, print quality, and cap presence verification\n• Estimated footprint: 3 x 2 feet\n\nStation 7 — Accumulation Table / Outfeed:\n• Location: Terminal end of 40-foot axis\n• Function: Temporary accumulation of filled, labeled units prior to manual or automated cartoning/packing\n• Estimated footprint: 6 x 4 feet\n\nTotal estimated line length: Approximately 30–35 feet along 40-foot axis, leaving 5–10 feet for utility access, end-of-line staging, and buffer space."
+      },
+      {
+        "heading": "Operator Positions",
+        "content": "• Operator 1: Infeed — bottle loading, unscrambler monitoring, bulk component replenishment\n• Operator 2: Fill station — product level monitoring, in-process checks, CIP initiation\n• Operator 3: Outfeed / packing — accumulation table clearance, visual inspection, case packing\n• Additional operators: [To be confirmed based on final automation level]"
+      },
+      {
+        "heading": "Material Flow — Inbound",
+        "content": "• Empty 15mL airless pump bottles: Staged on pallet or shelf at infeed end; fed to unscrambler\n• Bulk gel-cream product: Transferred from compounding/holding vessel to line-side product hopper via pump or gravity feed — transfer method [To be confirmed]\n• Airless pump components (pump, dip tube, actuator): Staged at pump assembly station in trays or vibratory bowl feeder\n• Labels: Loaded onto label roll holder at labeling station"
+      },
+      {
+        "heading": "Material Flow — Outbound",
+        "content": "• Finished filled and labeled units: Exit accumulation table to manual packing or downstream cartoner\n• Rejected units: Diverted to dedicated reject bin at checkweigher and/or vision station; segregated and dispositioned per SOP\n• CIP waste / rinse water: Directed to floor drain at filling station\n• Waste packaging materials: Disposed via normal solid waste stream"
+      },
+      {
+        "heading": "Aisle and Access Requirements",
+        "content": "• Minimum 36-inch operator access aisle on primary operator side of line\n• Minimum 24-inch maintenance access on secondary side of line\n• Emergency stop access: Within reach of all operator positions\n• Forklift or pallet jack access: Required at infeed staging area — confirm aisle width to facility entrance"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Utilities Requirements Specification",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document defines the utility requirements for the new 15mL airless pump filling line and serves as the basis for facility utility survey, capacity confirmation, and installation design."
+      },
+      {
+        "heading": "Compressed Air",
+        "content": "• Status: Available at facility location — capacity to be confirmed\n• Required use on new line:\n  - Pneumatic actuators (bottle handling, pump assembly, capping)\n  - Pneumatic conveyors (if applicable)\n  - Air purge / blowoff (if required for bottle cleaning before fill)\n• Recommended supply pressure: 90–100 PSI at point of use (confirm with equipment vendor)\n• Recommended flow rate: [To be confirmed following equipment vendor specification]\n• Air quality: Oil-free, dried compressed air recommended (ISO 8573-1 Class 1:4:1 or per equipment vendor requirement)\n• Connection: Dedicated drop from existing compressed air header with isolation valve, pressure regulator, coalescing filter, dryer (if not already on main system), and pressure gauge\n• Validation requirement: Compressed air quality and supply pressure to be verified during IQ"
+      },
+      {
+        "heading": "Chilled Water",
+        "content": "• Status: Available at facility location — capacity to be confirmed\n• Required use on new line:\n  - Product temperature control during extended production runs (if needed for gel-cream stability)\n  - Jacketed hopper/vessel cooling (if applicable — to be confirmed based on formulation thermal sensitivity)\n• Supply temperature: [To be confirmed — typically 45–55°F for cosmetic manufacturing applications]\n• Flow rate required: [To be confirmed following equipment design]\n• Connection: Branch from existing chilled water supply and return headers with isolation valves and balancing valve\n• If chilled water is used for product contact (jacketed vessel), confirm material compatibility and include in IQ/OQ scope"
+      },
+      {
+        "heading": "Electrical",
+        "content": "• Required voltage: 480V 3-phase, 60Hz (confirm with equipment vendor; some auxiliaries may require 120V single-phase)\n• Total estimated connected load: [To be confirmed following equipment specification — typically 15–40 kVA for a line of this scale]\n• Panel capacity: Existing facility electrical panel capacity at location must be surveyed and confirmed\n• Sub-panel: May be required depending on existing capacity — engineering to assess\n• Grounding and bonding: All equipment must be properly grounded per NEC requirements\n• Emergency stop circuit: Hardwired e-stop loop across all line stations — must disconnect power to all motion systems\n• UPS / power conditioning: [To be confirmed — consider for PLC and HMI systems to prevent data loss on power interruption]"
+      },
+      {
+        "heading": "Steam",
+        "content": "• Status: NOT available at this facility location\n• Impact: CIP and sanitization systems must be designed using chemical cleaning agents and/or hot water\n• Hot water availability: [To be confirmed — if hot water is available, confirm supply temperature and flow rate for potential use in cleaning]\n• Action required: Cleaning validation must be designed around non-steam methods; document in Cleaning Validation Protocol"
+      },
+      {
+        "heading": "Drainage",
+        "content": "• Floor drain required at or near filling station for CIP discharge, product spillage, and rinse water\n• Drain capacity and location: [To be confirmed following facility survey]\n• Drain material compatibility: Must be resistant to cleaning agents used in CIP process\n• Stainless steel drip trays with drain connections should be incorporated at the filling station"
+      },
+      {
+        "heading": "HVAC",
+        "content": "• Room temperature control: [To be confirmed — typically 68–72°F for cosmetic fill operations]\n• Relative humidity: [To be confirmed]\n• Room air changes per hour: [To be confirmed based on room classification]\n• Heat load from new equipment: [To be confirmed — HVAC engineer to assess impact of new equipment on existing system capacity]\n• Positive/negative pressure: [To be confirmed based on room classification and adjacent areas]"
+      },
+      {
+        "heading": "Utility Survey Action Items",
+        "content": "Before equipment procurement is finalized, the following utility survey actions must be completed:\n\n• Measure compressed air pressure and flow rate at nearest header tap point\n• Measure chilled water supply temperature and available flow\n• Inspect existing electrical panel for available capacity and breaker space\n• Confirm floor drain location, size, and discharge capacity\n• Confirm hot water availability and temperature (as alternative to steam for cleaning)\n• Review HVAC capacity with building services or HVAC contractor\n• Document all findings in a Utility Survey Report and resolve any gaps prior to equipment order"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

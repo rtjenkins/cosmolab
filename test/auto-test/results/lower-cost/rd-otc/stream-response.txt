@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for formulation and product development. I'll be guiding you through a structured session to capture everything our team needs to develop your OTC Drug product.
+
+Let's get started.
+
+**First question:** What type of OTC Drug product are you looking to develop? For example, are we talking about a topical product like an acne treatment, sunscreen, antifungal, or wound care product — or something else like an oral product such as a cough syrup, antacid, or oral analgesic?
+
+---
+Duration: 3734ms | Chars: 521

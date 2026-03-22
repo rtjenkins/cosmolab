@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions so we can build out everything your team needs — from the formulation brief to a client proposal.
+
+Let's get started.
+
+**First question:** Can you tell me the name of the brand or client you're working with, and give me a brief overview of who they are? For example, are they an established brand looking to expand, or a new brand coming to market for the first time?
+
+---
+Duration: 2679ms | Chars: 495

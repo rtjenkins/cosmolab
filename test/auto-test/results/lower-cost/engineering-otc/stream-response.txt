@@ -1,0 +1,14 @@
+# Welcome to CosmoLab AI — Engineering Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant. I'll be walking you through a structured session to help the Engineering team capture everything needed for equipment specs, process flow, facility requirements, and a validation plan for your OTC Drug product.
+
+Let's get started.
+
+---
+
+**First question:**
+
+What is the OTC Drug product you're developing or manufacturing? Please give me a brief description — the product type (e.g., topical cream, oral liquid, medicated shampoo, eye drops), its intended use, and whether this is a **new product line** or a **retrofit of an existing line**.
+
+---
+Duration: 5858ms | Chars: 650

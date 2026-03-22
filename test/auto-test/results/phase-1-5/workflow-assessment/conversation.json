@@ -1,0 +1,150 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. I'm here to conduct a Cross-Team Workflow Assessment for your organisation. Over the next 20–25 minutes, we'll systematically walk through all 9 critical cross-team handoffs — I'll score each one on a Handoff Tightness Scale from 1 (broken) to 5 (fully automated), and at the end I'll generate a prioritised roadmap for improvement.\n\nLet's start at the very beginning of your project lifecycle. When a Sales rep closes a new client project — what triggers the handoff to your R&D / Formulation team? How does R&D find out a new project exists?"
+  },
+  {
+    "role": "user",
+    "content": "Honestly it's pretty informal. The Sales rep usually sends an email to our VP of R&D with a summary of what the client wants. Sometimes it's detailed, sometimes it's just a one-liner. There's no standard format."
+  },
+  {
+    "role": "assistant",
+    "content": "Got it — email-based and variable in completeness. When R&D receives that email, do they typically have everything they need to start scoping the project, or do they usually have to go back to Sales with follow-up questions?"
+  },
+  {
+    "role": "user",
+    "content": "They almost always go back. I'd say 80% of the time there are missing details — target markets, desired claims, benchmark products, packaging constraints. It causes a lot of back-and-forth before R&D can even start."
+  },
+  {
+    "role": "assistant",
+    "content": "That's a significant rework rate. Is there any documentation trail — can you go back and find what was originally agreed between Sales and R&D for a project from 18 months ago?"
+  },
+  {
+    "role": "user",
+    "content": "Not reliably. It's buried in email threads. If the Sales rep has left the company, it's very hard to reconstruct what was originally agreed."
+  },
+  {
+    "role": "assistant",
+    "content": "Understood — that's a knowledge continuity risk as well. Now let's look at the Sales → Demand Planning handoff. When a client project is confirmed with a volume commitment and timeline, how does that information reach your Demand Planning team?"
+  },
+  {
+    "role": "user",
+    "content": "Same issue — it's usually a Slack message or email to the Planning manager. There's no formal intake. The planner often finds out about a new launch a week after Sales has already committed a date to the client."
+  },
+  {
+    "role": "assistant",
+    "content": "So there's a timing lag between commitment and Planning being informed — and sometimes Planning is working backwards against a date they didn't set. How do they handle the volume assumptions — is there any documented forecast or is it verbal?"
+  },
+  {
+    "role": "user",
+    "content": "Usually verbal or a number in the email. No structured forecast document. The planner builds their own spreadsheet from there."
+  },
+  {
+    "role": "assistant",
+    "content": "Noted. Let's move to R&D → Manufacturing. When a formula is locked and ready for scale-up, how does Manufacturing receive the handover?"
+  },
+  {
+    "role": "user",
+    "content": "We have a formula handover packet — a Word template that R&D fills out. It includes the formula, BOM, manufacturing notes, and key process parameters. Manufacturing reviews it and signs off before scale-up starts."
+  },
+  {
+    "role": "assistant",
+    "content": "That's meaningfully more structured. Is the template consistently used, or does it vary by formulator?"
+  },
+  {
+    "role": "user",
+    "content": "It's pretty consistently used — we've had that process for about 3 years. The main gap is that the template doesn't always get updated when there are late formula tweaks. Manufacturing sometimes works off a version that's been superseded."
+  },
+  {
+    "role": "assistant",
+    "content": "Version control is a known risk then. Moving on — when R&D identifies that a new product requires new equipment or line modifications, how does Engineering get involved?"
+  },
+  {
+    "role": "user",
+    "content": "We have a formal Engineering Change Request form that R&D submits. Engineering reviews it, assigns an engineer, and we have a formal kickoff meeting. That process is actually pretty solid."
+  },
+  {
+    "role": "assistant",
+    "content": "Good — that sounds like one of the tighter handoffs. Is there a defined SLA for Engineering to respond to a new request?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, 5 business days for initial assessment. They hit that most of the time."
+  },
+  {
+    "role": "assistant",
+    "content": "Strong. Now R&D → Quality. When does QA/QC get brought into a new product — and how do they receive the testing requirements from R&D?"
+  },
+  {
+    "role": "user",
+    "content": "It's informal. R&D usually sends Quality an email when they're approaching formula lock asking them to set up a QC plan. There's no standard template — QA has to go back and forth to understand what claims are being made and what markets are targeted."
+  },
+  {
+    "role": "assistant",
+    "content": "So similar to the Sales → R&D dynamic — lots of back-and-forth before Quality can actually start their work. Is there a risk that Quality's involvement comes too late in the development cycle?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, definitely. We've had situations where QA flags a regulatory issue at formula lock that could have been caught at brief stage. It's a timing problem."
+  },
+  {
+    "role": "assistant",
+    "content": "Understood. Now Manufacturing → Quality. During and after production, how does batch information flow to the Quality team for release?"
+  },
+  {
+    "role": "user",
+    "content": "We use a physical batch record — operators fill it out on the floor, supervisors sign it, and then QA does a full batch record review before releasing. It's thorough but slow — batch record review can take 3–5 days."
+  },
+  {
+    "role": "assistant",
+    "content": "Is the batch record a paper document, or has any of it been digitised?"
+  },
+  {
+    "role": "user",
+    "content": "Still paper. We've talked about going electronic but haven't done it yet. The review process is manual and any discrepancies require physical annotation."
+  },
+  {
+    "role": "assistant",
+    "content": "Got it — structured process, but paper-based creates throughput constraints. Let's look at Demand Planning → Manufacturing. How does the production schedule reach the shop floor?"
+  },
+  {
+    "role": "user",
+    "content": "We have a weekly S&OP meeting where Planning presents the 4-week rolling schedule. It gets entered into our ERP after the meeting. Manufacturing supervisors access it from ERP."
+  },
+  {
+    "role": "assistant",
+    "content": "That's reasonably structured. Are there situations where the schedule changes mid-week and Manufacturing doesn't find out quickly enough?"
+  },
+  {
+    "role": "user",
+    "content": "Yes — if a client expedites an order, the change goes into ERP but Manufacturing supervisors don't always check ERP in real time. They rely on Planning emailing or calling them about urgent changes."
+  },
+  {
+    "role": "assistant",
+    "content": "So the ERP is the system of record but real-time communication still relies on email and phone. Now Demand Planning → Procurement for raw materials. How does Procurement know when to buy?"
+  },
+  {
+    "role": "user",
+    "content": "Planning generates a weekly material requirements report from ERP and emails it to the Procurement team. Procurement reviews it and places orders. It mostly works but there's sometimes a 2–3 day lag between the report being generated and orders being placed for long-lead-time items."
+  },
+  {
+    "role": "assistant",
+    "content": "And finally — Quality to All Teams for non-conformances. When a batch fails or a deviation is identified, how does that information escalate and reach the relevant teams?"
+  },
+  {
+    "role": "user",
+    "content": "We have a deviation log in our QMS, but the notification process is manual. QA fills out the NC form and then emails the relevant department head. There's no automatic alert. Sometimes it takes a day or two for Manufacturing or R&D to find out about a batch that's been put on hold."
+  },
+  {
+    "role": "assistant",
+    "content": "So the QMS exists but escalation is manual and inconsistent. Are there situations where a deviation in one batch affects other batches in production — and the impacted teams don't find out fast enough?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, that's happened. A raw material OOS result sat in QA for a day before Manufacturing was told to stop using the affected lot. Some of it had already been consumed."
+  },
+  {
+    "role": "assistant",
+    "content": "That's the clearest example of a high-impact broken flow — one where the lag has direct quality and cost consequences.\n\nI have everything I need. Type 'generate' to create your assessment reports."
+  }
+]

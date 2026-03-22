@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an Engineering discovery session for your supplement line. New line or retrofit?"
+  },
+  {
+    "role": "user",
+    "content": "New supplement encapsulation and bottling line in our 21 CFR Part 111 registered facility."
+  },
+  {
+    "role": "assistant",
+    "content": "Target throughput and annual volume?"
+  },
+  {
+    "role": "user",
+    "content": "Encapsulation at 100,000 capsules/hour. Bottling at 80 bottles/minute. 2 million capsules annually."
+  },
+  {
+    "role": "assistant",
+    "content": "Utilities and footprint?"
+  },
+  {
+    "role": "user",
+    "content": "Compressed air, temperature-controlled room (18-22°C, RH <50%). 25x50 foot footprint available."
+  },
+  {
+    "role": "assistant",
+    "content": "Validation requirements?"
+  },
+  {
+    "role": "user",
+    "content": "IQ/OQ/PQ per 21 CFR 111 analogues. Weight verification and metal detection validation required."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

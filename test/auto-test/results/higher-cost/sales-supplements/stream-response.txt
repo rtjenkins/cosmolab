@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'm here to help the Sales team capture everything needed to move this dietary supplement project forward — from formulation brief to client proposal.
+
+Let's dive right in.
+
+**First question:** Can you tell me about the client's brand? Who are they — are they an established brand looking to expand their supplement line, a startup launching their first product, or something else entirely?
+
+---
+Duration: 3325ms | Chars: 460

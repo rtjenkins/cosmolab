@@ -1,0 +1,37 @@
+{
+  "documents": [
+    {
+      "title": "Technical Formulation Brief — Luminance Brightening Serum (Indie Brand: Aura Collective)",
+      "sections": [
+        {
+          "heading": "Project Overview",
+          "content": "Client brand: Aura Collective (indie brand, DTC-first, clean beauty positioning)\nProduct concept: Lightweight brightening serum with visible dark spot reduction\nTarget consumer: Women 28–45, hyperpigmentation concerns, clean beauty committed\nProduct category: Skincare — face serum"
+        },
+        {
+          "heading": "Product Specifications",
+          "content": "Format/texture: Lightweight water-based serum; fast-absorbing, non-greasy finish\nKey actives and target concentrations:\n• Niacinamide — 5% (brightening, pore minimizing)\n• Tranexamic acid — 3% (dark spot reduction)\n• Vitamin C (ascorbyl glucoside, stable form) — 2–3%\n• Hyaluronic acid (low and high MW) — 1% combined\nFragrance: Fragrance-free (client hard requirement — clean beauty positioning)\nColor: Clear to very slightly pale yellow — no added color\nKey claims to support: Reduces appearance of dark spots in 8 weeks, brightens skin tone, minimizes pores"
+        },
+        {
+          "heading": "Regulatory & Market Requirements",
+          "content": "Target launch markets: United States (primary), Canada (secondary launch, 6 months post-US)\nUS: FDA MoCRA compliance — cosmetic product; no drug claims; safety substantiation required\nCanada: Health Canada Cosmetic Regulations — INCI labeling, bilingual label (English/French)\nClaim substantiation required: '8-week dark spot reduction' claim requires clinical or consumer perception study\nNo market-specific restricted ingredient concerns identified for niacinamide or tranexamic acid at target concentrations — confirm ascorbyl glucoside status in Canada"
+        },
+        {
+          "heading": "Packaging Constraints",
+          "content": "Primary container: 30mL glass dropper bottle (client has sourced — R&D to confirm compatibility)\nClosure: Pipette dropper\nKey constraint: Glass packaging — formula must be tested for glass interaction; pH management critical\nNo aerosol or pressurized packaging"
+        },
+        {
+          "heading": "Development Parameters",
+          "content": "Target shelf life: 24 months from manufacture date\nTarget pH: 5.5–6.0 (optimal for niacinamide stability and skin compatibility)\nKnown exclusions: No parabens, no synthetic fragrance, no mineral oil, no silicones (clean beauty formulation standard)\nBenchmark products provided by client: The Ordinary Niacinamide 10% + Zinc 1%, Paula's Choice 10% Niacinamide Booster\nClient note: Does NOT want to match benchmark exactly — wants a more sophisticated, skin-feel-optimized formula at lower niacinamide concentration with tranexamic acid synergy"
+        },
+        {
+          "heading": "Commercial Context",
+          "content": "Estimated launch volume: 5,000 units (initial), scaling to 15,000–20,000 units/month by month 6\nTarget launch date: 6 months from project start\nBudget: Development fee budget not disclosed; client is cost-sensitive on COGS — target formula cost under $4.50/unit at 10,000 unit scale\nTimeline pressure: Client has a retail pitch in 7 months — formula lock required by week 8"
+        },
+        {
+          "heading": "Open Questions for R&D",
+          "content": "• Confirm ascorbyl glucoside stability at target pH with niacinamide — niacin flush risk at pH above 6.5\n• Assess tranexamic acid supplier options and lead time — confirm availability at required purity\n• Confirm glass bottle compatibility — pH and any potential for leaching\n• Determine whether 8-week claim requires partnered clinical study or consumer panel — flag to Sales to discuss with client\n• Confirm preservative system compatible with clean beauty positioning (no phenoxyethanol preference from client — to confirm)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Welcome to CosmoLab AI Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Demand Planning team build out your forecast, inventory plan, and S&OP inputs for this OTC Drug product.
+
+This should take about 10–15 minutes. I'll go one topic at a time so we can make sure we capture everything accurately.
+
+---
+
+Let's start with the basics:
+
+**What is the name of this product, and can you give me a brief description — what does it do, and what is the active ingredient?**
+
+---
+Duration: 4585ms | Chars: 577

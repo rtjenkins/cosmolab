@@ -1,0 +1,76 @@
+{
+  "documents": [
+    {
+      "title": "Client Project Overview",
+      "sections": [
+        {
+          "heading": "Brand & Contact Information",
+          "content": "Brand name: Soleil Studio\nProject type: New product development — first formulation project\nBrand stage: New / pre-launch\nDistribution: DTC (own website) + boutique retail\nTarget retail price: $38–45 USD"
+        },
+        {
+          "heading": "Product Concept",
+          "content": "Product type: SPF 50 daily moisturizer — no white cast\nTarget consumer: Melanin-rich / deeper skin tones\nPositioning: Premium, clean beauty SPF brand owning the melanin-rich skin space\nTexture benchmark: Fenty Skin Hydra Vizor — gel-cream, lightweight hybrid\nContainer: 50mL pump bottle"
+        },
+        {
+          "heading": "Key Requirements Summary",
+          "content": "• Hybrid UV filter system: avobenzone + supporting chemical filters + zinc oxide under 10%\n• Excluded UV actives: No oxybenzone, no octinoxate\n• Excluded ingredients: No silicones, no mineral oil, no synthetic fragrance\n• Claims: SPF 50 broad-spectrum, no white cast on melanin-rich skin\n• Regulatory classification: US OTC drug product — FDA sunscreen monograph"
+        }
+      ]
+    },
+    {
+      "title": "Formulation Requirements",
+      "sections": [
+        {
+          "heading": "UV Filter Strategy",
+          "content": "Target SPF: 50 (broad-spectrum)\nFilter approach: Hybrid mineral/chemical system\nPreferred actives: Avobenzone + octisalate + low-level zinc oxide (<10%)\nExcluded actives: Oxybenzone, octinoxate (client hard requirement — clean beauty positioning and global market compliance)\nWhite cast mitigation: Zinc oxide at sub-10% with chemical filter co-system; consider coated zinc particles for further white cast reduction"
+        },
+        {
+          "heading": "Texture & Skin Feel",
+          "content": "Target texture: Gel-cream hybrid — lightweight, fast-absorbing, non-greasy\nBenchmark: Fenty Skin Hydra Vizor SPF 30\nKey performance requirement: Must not pill under makeup — critical for daily wear claim\nExclusions: No silicones (dimethicone, cyclomethicone), no mineral oil\nSuggested texture-building approach: Hydroxyethyl cellulose, hyaluronic acid, glycerin-forward humectant system"
+        },
+        {
+          "heading": "Fragrance & Preservation",
+          "content": "Fragrance: Fragrance-free (no synthetic fragrance per client requirement)\nPreservation: Broad-spectrum preservative system compatible with OTC drug product requirements\nNote: Preservative selection must be reviewed in context of FDA OTC monograph compliance"
+        },
+        {
+          "heading": "Development Notes",
+          "content": "Target pH: 6.0–7.0 (compatible with skin and UV filter stability)\nStability testing: ICH-compliant accelerated stability required for OTC drug product\nSPF testing: Required — in vivo SPF 50 testing per FDA protocol (FDA 2011 Final Rule)\nCritical path item: SPF testing timeline typically 8–12 weeks — must be initiated early in development"
+        }
+      ]
+    },
+    {
+      "title": "Regulatory & Compliance Summary",
+      "sections": [
+        {
+          "heading": "US Regulatory Classification",
+          "content": "Classification: OTC drug product — FDA sunscreen monograph (21 CFR Part 352 / 2019 Proposed Rule)\nRequired labeling: Drug Facts panel — mandatory format per FDA\nActive ingredient disclosure: Required with concentration (e.g., Avobenzone 3%, Zinc Oxide 9%)\nSPF claim: SPF 50 — requires in vivo testing per FDA 2011 Final Rule\nBroad-spectrum claim: Requires passing Critical Wavelength test (≥370 nm)\nMoCRA compliance: Required as an OTC drug product sold in the US"
+        },
+        {
+          "heading": "Key Regulatory Actions Required",
+          "content": "1. Select UV actives from FDA-approved sunscreen monograph list — confirm avobenzone + zinc system is within permitted concentrations\n2. Commission in vivo SPF 50 testing (FDA-accredited lab) — budget 8–12 weeks and $8,000–$15,000 for testing\n3. Prepare Drug Facts panel per FDA format requirements\n4. Safety substantiation dossier — required under MoCRA\n5. If Canada launch planned: Register with Health Canada; bilingual label required; different active ingredient allowances apply"
+        },
+        {
+          "heading": "Clean Beauty Compliance",
+          "content": "Client clean beauty commitments:\n• No oxybenzone (also banned in Hawaii, Key West, Palau — avoidance provides market flexibility)\n• No octinoxate (EU restricted; avoiding provides EU-compatible formulation option)\n• No silicones, no mineral oil, no synthetic fragrance\nNote: These exclusions are cosmetic positioning commitments — they must be documented in the formulation brief and verified at every formula revision"
+        }
+      ]
+    },
+    {
+      "title": "Commercial & Project Parameters",
+      "sections": [
+        {
+          "heading": "Volume & Timeline",
+          "content": "Initial production quantity: 3,000–5,000 units\nExpected scale: DTC + boutique retail; potential for broader retail in Year 2\nTarget launch: 9 months from project start\nBrand experience: First formulation project — client will need guidance through process milestones"
+        },
+        {
+          "heading": "Indicative Project Milestones",
+          "content": "Month 1–2: Formulation development — prototype iterations\nMonth 3: SPF testing commissioned (in vivo — FDA lab)\nMonth 4: Formula lock — stability study initiated\nMonth 5–6: Packaging compatibility, label development (Drug Facts panel)\nMonth 7: SPF test results received; adjust if needed\nMonth 8: Regulatory review, final stability check\nMonth 9: Commercial production — launch"
+        },
+        {
+          "heading": "Open Items for Commercial Team",
+          "content": "• SPF testing cost and timeline to be scoped and communicated to client early — this is the key critical path item\n• Client has not confirmed packaging supplier — coordination needed on 50mL pump bottle lead time\n• MOQ and COGS estimate to be provided once formula is closer to lock\n• Client is first-time brand — recommend assigning a client success contact to guide them through milestones"
+        }
+      ]
+    }
+  ]
+}

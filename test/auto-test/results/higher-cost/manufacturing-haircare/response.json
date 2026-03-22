@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Manufacturing Process Overview",
+    "sections": [
+      {
+        "heading": "Product Description",
+        "content": "Product Name: Bond-Repair Leave-In Cream\nProduct Form: Leave-in cream (rinse-off free)\nPrimary Packaging: 150mL HDPE pump bottle\nProduct Category: Haircare – Repair & Treatment"
+      },
+      {
+        "heading": "Batch Scale Summary",
+        "content": "The following batch scales have been defined for this product:\n\n• Laboratory Scale: 10 kg\n• Pilot Scale: 100 kg\n• Commercial Scale: 1,000 kg\n\nScale-up ratios should be validated at each stage before progression. Equipment selection must be appropriate to each batch size, with particular attention to mixing geometry and heat transfer efficiency as scale increases."
+      },
+      {
+        "heading": "Process Overview",
+        "content": "The manufacturing process for the Bond-Repair Leave-In Cream follows a standard emulsion or cream manufacturing workflow with a critical cool-down addition step for heat-sensitive bond-repair actives.\n\nHigh-level process stages:\n1. Raw material dispensing and quality checks\n2. Main phase preparation (water and oil phases as applicable)\n3. Overhead mixing and homogenisation\n4. Cool-down phase\n5. Addition of heat-sensitive actives at or below 40°C\n6. Final mixing and quality adjustment\n7. In-process quality control (IPC) testing\n8. Bulk hold prior to filling\n9. Filling into 150mL HDPE pump bottles\n10. Capping, labelling, and packaging\n11. Final QC release"
+      },
+      {
+        "heading": "Mixing Requirements",
+        "content": "Mixing Method: Standard overhead mixing\nMixer Type: Overhead anchor or paddle mixer [specific equipment model to be confirmed per site]\nHomogeniser: [To be confirmed — assess need based on final formula viscosity]\n\nKey mixing parameters:\n• Mixing speed: [To be confirmed based on formula development data]\n• Mixing duration per stage: [To be confirmed]\n• Vessel type: Jacketed stainless steel vessel recommended for temperature control\n• Deaeration: [To be confirmed — assess if vacuum mixing is required]"
+      },
+      {
+        "heading": "Heat-Sensitive Active Addition Protocol",
+        "content": "Critical Process Parameter: Bond-repair actives must be added only when the bulk batch temperature has cooled to 40°C or below.\n\n• Premix or pre-dissolve actives as required prior to addition [method to be confirmed by formulation team]\n• Verify batch temperature using calibrated in-line thermometer or thermocouple before addition\n• Add actives slowly with continued overhead mixing\n• Avoid high-shear mixing after active addition unless validated to be safe\n• Record temperature at time of addition in the batch manufacturing record (BMR)\n\nFailure to observe this temperature limit may result in degradation of bond-repair actives and reduced product efficacy."
+      },
+      {
+        "heading": "Annual Volume Planning",
+        "content": "Target Annual Volume: 300,000 units by Year 2\nUnit Size: 150mL per unit\nTotal Annual Volume (Year 2): 300,000 × 150mL = 45,000,000mL = 45,000 litres\n\nAssuming 1,000 kg commercial batches and approximate bulk density [to be confirmed]:\n• Estimated batches per year: approximately 45–50 commercial batches [to be confirmed once bulk density and fill weight are established]\n\nProduction planning should account for:\n• Equipment availability and maintenance downtime\n• Raw material lead times\n• Filling line capacity for 150mL HDPE pump bottles\n• Seasonal demand fluctuations [to be confirmed with commercial team]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Batch Manufacturing Record (BMR) Template",
+    "sections": [
+      {
+        "heading": "Document Header",
+        "content": "Product Name: Bond-Repair Leave-In Cream\nProduct Code: [To be confirmed]\nBatch Number: [To be assigned]\nBatch Size: [10 kg / 100 kg / 1,000 kg — select applicable]\nManufacturing Date: [DD/MM/YYYY]\nExpiry / Best Before Date: [To be confirmed]\nManufactured By: [Operator name and signature]\nReviewed By: [Supervisor name and signature]\nDocument Version: [To be confirmed]"
+      },
+      {
+        "heading": "Raw Material Dispensing Log",
+        "content": "All raw materials must be weighed and recorded prior to manufacture. Each material requires:\n\n• Ingredient name\n• INCI name\n• Supplier name\n• Lot / batch number\n• CoA reference\n• Target weight (kg or g)\n• Actual weight (kg or g)\n• Variance (%)\n• Dispensed by (signature)\n• Checked by (second operator signature)\n\nNote: Heat-sensitive bond-repair actives must be stored correctly prior to use and dispensed separately from other raw materials. Storage conditions: [To be confirmed by formulation team]."
+      },
+      {
+        "heading": "Manufacturing Steps Log",
+        "content": "Step 1 – Phase Preparation\n• Description: Prepare main phase(s) per formula instructions\n• Equipment used: [To be confirmed]\n• Target temperature: [To be confirmed]\n• Actual temperature: ______°C\n• Duration: ______ minutes\n• Operator initials: ______\n\nStep 2 – Overhead Mixing / Emulsification\n• Mixing speed: ______ rpm\n• Duration: ______ minutes\n• Observations: ______\n• Operator initials: ______\n\nStep 3 – Cool-Down Phase\n• Target temperature: ≤ 40°C before active addition\n• Actual temperature at active addition: ______°C  ✓ Confirmed ≤ 40°C: YES / NO\n• Time of temperature check: ______\n• Operator initials: ______\n\nStep 4 – Addition of Heat-Sensitive Bond-Repair Actives\n• Batch temperature at addition: ______°C (must be ≤ 40°C)\n• Addition method: [Slow addition with overhead mixing]\n• Duration of post-addition mixing: ______ minutes\n• Operator initials: ______\n\nStep 5 – Final Mixing and pH / Viscosity Adjustment\n• pH target: [To be confirmed]\n• Actual pH: ______\n• Viscosity target: [To be confirmed]\n• Actual viscosity: ______\n• Adjustments made: ______\n• Operator initials: ______\n\nStep 6 – Bulk Hold\n• Bulk hold vessel: [To be confirmed]\n• Hold temperature: [To be confirmed]\n• Maximum hold time before filling: [To be confirmed]\n• Operator initials: ______"
+      },
+      {
+        "heading": "In-Process Quality Control (IPC) Checkpoints",
+        "content": "The following IPC checks must be completed and recorded during manufacture:\n\n• Temperature at active addition: ≤ 40°C [PASS / FAIL]\n• Visual appearance of bulk: [Target description to be confirmed] [PASS / FAIL]\n• pH of final bulk: [Target range to be confirmed] — Actual: ______\n• Viscosity of final bulk: [Target range to be confirmed] — Actual: ______\n• Colour: [To be confirmed] [PASS / FAIL]\n• Odour: [To be confirmed] [PASS / FAIL]\n• Fill weight check (during filling): Target 150g ± [tolerance to be confirmed] — Actual: ______\n• Pump functionality check: [PASS / FAIL]"
+      },
+      {
+        "heading": "Filling and Packaging Record",
+        "content": "Container: 150mL HDPE pump bottle\nClosure: Pump dispenser\nFill weight target: [To be confirmed — nominal 150g subject to density]\nFill weight tolerance: [To be confirmed]\nLabel batch code applied: [To be confirmed]\nUnits filled: ______\nUnits rejected: ______\nFilling line: [To be confirmed]\nFilling operator: ______\nPackaging supervisor sign-off: ______"
+      },
+      {
+        "heading": "Batch Disposition",
+        "content": "Batch Status: APPROVED / REJECTED / QUARANTINE\nQC Release Reference: [To be confirmed]\nQC Sign-Off: ______\nDate of Release: [DD/MM/YYYY]\nComments: ______"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Equipment Requirements Specification",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document outlines the equipment requirements for the manufacture of Bond-Repair Leave-In Cream at laboratory, pilot, and commercial scales. Equipment must be selected, qualified, and maintained in accordance with site GMP procedures."
+      },
+      {
+        "heading": "Manufacturing Vessels",
+        "content": "All manufacturing vessels should be constructed of 316L stainless steel, be CIP/SIP compatible where applicable, and have jacketed walls for temperature control.\n\nLaboratory Scale (10 kg):\n• Vessel capacity: 15–20L (to allow headspace for mixing)\n• Jacket type: Water-heated/cooled jacket or hot plate with temperature probe\n• Equipment model: [To be confirmed]\n\nPilot Scale (100 kg):\n• Vessel capacity: 150–200L\n• Jacket type: Jacketed vessel with external circulating water bath\n• Equipment model: [To be confirmed]\n\nCommercial Scale (1,000 kg):\n• Vessel capacity: 1,200–1,500L\n• Jacket type: Full jacketed vessel with dedicated heating/cooling utility supply\n• Equipment model: [To be confirmed]"
+      },
+      {
+        "heading": "Mixing Equipment",
+        "content": "Mixing Type Required: Standard overhead mixing\n\nAll scales:\n• Mixer type: Overhead anchor, gate, or paddle mixer\n• Variable speed drive required: Yes (to allow RPM control at different process stages)\n• Direction of mixing: [To be confirmed — typically counter-rotating for creams]\n• Shaft and impeller material: 316L stainless steel\n\nHomogeniser (if required):\n• To be confirmed by formulation team based on viscosity and emulsion stability data\n• Recommended assessment: conduct lab trials with and without in-line homogeniser\n\nNote: High-shear mixing should NOT be used after addition of heat-sensitive bond-repair actives unless validated."
+      },
+      {
+        "heading": "Temperature Monitoring and Control",
+        "content": "Temperature control is a critical process requirement for this product due to heat-sensitive active addition at ≤ 40°C.\n\nRequired equipment:\n• Calibrated in-line thermocouples or RTD probes in each manufacturing vessel\n• Continuous temperature logging capability (preferred) or manual logging at defined intervals\n• Calibration frequency: [Per site calibration schedule — to be confirmed]\n• Alarm set point: Set alert at 42°C to allow operator response before 40°C limit is breached\n• External portable thermometer for independent verification: Recommended"
+      },
+      {
+        "heading": "Filling Equipment",
+        "content": "Pack Format: 150mL HDPE pump bottle\n\nFilling line requirements:\n• Filling principle: Volumetric or gravimetric filling [to be confirmed based on bulk viscosity]\n• Fill head type: [To be confirmed — compatible with cream viscosity range]\n• Pump dispenser assembly: Automated or semi-automated torquing equipment required\n• Filling speed target: [To be confirmed based on 300,000 units/year capacity planning]\n• Filling line: [To be confirmed — dedicated or shared line]\n\nCapacity Check:\n• 300,000 units/year ÷ available production days [to be confirmed] = [units per day to be calculated]\n• Filling line must be validated to meet this throughput."
+      },
+      {
+        "heading": "Ancillary Equipment",
+        "content": "The following ancillary equipment will also be required:\n\n• Calibrated weighing scales (appropriate to batch size at each scale)\n• pH meter with calibrated electrodes (calibrated minimum twice daily during manufacture)\n• Viscometer [model and spindle to be confirmed based on formula viscosity range]\n• Transfer pumps: [To be confirmed — must be compatible with cream viscosity]\n• Bulk holding tanks: [Capacity and number to be confirmed]\n• HDPE pump bottle storage: [To be confirmed — appropriate clean storage prior to filling]"
+      },
+      {
+        "heading": "Equipment Qualification",
+        "content": "All manufacturing equipment must be qualified before use in production:\n\n• IQ (Installation Qualification): Confirm equipment installed per specification\n• OQ (Operational Qualification): Confirm equipment operates within defined parameters\n• PQ (Performance Qualification): Confirm equipment consistently produces product meeting specifications\n\nQualification schedule and responsible party: [To be confirmed with site Engineering and QA teams]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Scale-Up and Technology Transfer Plan",
+    "sections": [
+      {
+        "heading": "Purpose and Scope",
+        "content": "This document outlines the scale-up pathway for the Bond-Repair Leave-In Cream from laboratory development through to commercial manufacture. It is intended to guide the Manufacturing team in managing the transition across the three defined batch scales and to identify critical process parameters that must be monitored and validated at each stage."
+      },
+      {
+        "heading": "Scale-Up Stages",
+        "content": "Stage 1 – Laboratory Scale\n• Batch size: 10 kg\n• Objective: Establish and lock manufacturing process, confirm critical process parameters (CPPs), generate initial stability and IPC data\n• Owner: R&D / Formulation team\n• Success criteria: Formula meets specification; CPPs identified and documented\n\nStage 2 – Pilot Scale\n• Batch size: 100 kg\n• Objective: Validate scale-up of process; confirm mixing times, temperature profiles, and active addition protocol translate from lab scale; generate pilot stability batches\n• Owner: Pilot plant / Manufacturing team in collaboration with R&D\n• Success criteria: Pilot batch meets all IPC and release specifications; no significant deviations from lab-scale process\n\nStage 3 – Commercial Scale\n• Batch size: 1,000 kg\n• Objective: Full process validation; confirm consistent manufacture at commercial scale ahead of 300,000 units/year production\n• Owner: Commercial Manufacturing team\n• Success criteria: Minimum [3 consecutive batches — to be confirmed with QA] meet all specifications; process validation report approved"
+      },
+      {
+        "heading": "Critical Process Parameters (CPPs)",
+        "content": "The following CPPs have been identified and must be monitored and controlled at all scales:\n\n• Temperature at bond-repair active addition: Must be ≤ 40°C — this is the primary thermal critical process parameter\n• Mixing speed and duration: Must be defined and maintained consistently across scales\n• Order of addition of ingredients: Must follow defined sequence, particularly for heat-sensitive actives\n• pH of final bulk: [Target range to be confirmed by formulation team]\n• Viscosity of final bulk: [Target range to be confirmed]\n• Cool-down rate: [To be confirmed — rapid or controlled cool-down may affect texture and emulsion stability]"
+      },
+      {
+        "heading": "Key Scale-Up Considerations",
+        "content": "The following factors must be assessed and managed during scale-up:\n\n• Heat Transfer: Larger vessels have a lower surface area-to-volume ratio, meaning cool-down to ≤ 40°C will take significantly longer at 100 kg and 1,000 kg compared to 10 kg. Jacketed vessels with active cooling are essential. Cool-down time studies must be conducted at each scale.\n\n• Mixing Efficiency: Overhead mixer geometry changes at scale. Impeller diameter, tip speed, and mixing patterns must be reviewed. Mixing times may need to be extended at larger scales.\n\n• Active Addition Logistics: At commercial scale (1,000 kg), the volume of bond-repair actives to be added at cool-down will be significantly larger. Pre-weigh and pre-mix procedures for actives must be scaled accordingly.\n\n• Filling Line Integration: Bulk transfer from 1,000 kg manufacturing vessel to filling line must be planned to avoid temperature rise above 40°C during transfer [assess insulated transfer lines or temperature monitoring during transfer].\n\n• In-Process Sampling: Sampling points and frequencies must be adjusted for larger vessel sizes to ensure representative IPC results."
+      },
+      {
+        "heading": "Technology Transfer Documentation Requirements",
+        "content": "The following documents must be completed and approved as part of the technology transfer process:\n\n• Master Formula document (from R&D to Manufacturing)\n• Manufacturing process description and SOPs\n• Batch Manufacturing Record (BMR) templates for each scale\n• In-process control (IPC) specifications\n• Finished product release specifications\n• Analytical methods and validation data\n• Stability protocol and data summary (at time of transfer)\n• Risk assessment for scale-up [to be completed]\n• Equipment qualification records (IQ/OQ/PQ) for all relevant equipment"
+      },
+      {
+        "heading": "Timeline",
+        "content": "Indicative milestones (dates to be confirmed with project team):\n\n• Laboratory scale manufacturing complete: [To be confirmed]\n• Pilot scale trials complete: [To be confirmed]\n• Pilot stability data available: [To be confirmed]\n• Commercial scale process validation batches complete: [To be confirmed]\n• Year 2 commercial production ramp to 300,000 units/year: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Packaging Specification – 150mL HDPE Pump Bottle",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document defines the primary packaging specification for the Bond-Repair Leave-In Cream. The packaging specification must be reviewed and approved by the Manufacturing, QA, and Regulatory teams before commercial production commences."
+      },
+      {
+        "heading": "Primary Packaging Components",
+        "content": "Component 1 – Bottle\n• Type: Pump bottle\n• Nominal volume: 150mL\n• Material: HDPE (High-Density Polyethylene)\n• Colour: [To be confirmed]\n• Finish: [To be confirmed — e.g., matte, gloss]\n• Neck finish / thread: [To be confirmed]\n• Supplier: [To be confirmed]\n• Supplier part number: [To be confirmed]\n\nComponent 2 – Pump Dispenser\n• Type: Lotion/cream pump\n• Dosage per stroke: [To be confirmed — typically 1–2mL for leave-in cream]\n• Material: [To be confirmed — typically PP/PE]\n• Dip tube length: [To be confirmed — must reach base of 150mL bottle]\n• Compatibility: Must be confirmed compatible with formula (pH, actives, viscosity)\n• Supplier: [To be confirmed]\n• Supplier part number: [To be confirmed]"
+      },
+      {
+        "heading": "Compatibility Requirements",
+        "content": "The following compatibility assessments must be completed before commercial launch:\n\n• Chemical compatibility of HDPE bottle with all formula ingredients, including bond-repair actives\n• Pump mechanism compatibility with formula viscosity range [viscosity target to be confirmed]\n• Extractables and leachables assessment: [To be confirmed with Regulatory — may be required depending on target markets]\n• Fill and seal integrity testing: [To be confirmed]\n• Drop testing / transit testing: [To be confirmed per distribution requirements]"
+      },
+      {
+        "heading": "Fill Specification",
+        "content": "Nominal fill volume: 150mL\nNominal fill weight: [To be confirmed once bulk density is established]\nFill weight tolerance: ± [To be confirmed — typically ±2–3% for cosmetic creams]\nHeadspace: [To be confirmed — appropriate for pump mechanism]\nOverfill allowance: [To be confirmed in line with applicable weights and measures regulations]"
+      },
+      {
+        "heading": "Labelling Requirements",
+        "content": "Labelling requirements are to be confirmed with the Regulatory Affairs team for all target markets. Key elements expected to be required include:\n\n• Product name: Bond-Repair Leave-In Cream\n• Net contents: 150mL\n• Full INCI ingredient list\n• Directions for use\n• Warnings and precautions [To be confirmed by Regulatory]\n• Batch code / lot number\n• Best before / expiry date or PAO (Period After Opening) symbol\n• Country of origin\n• Responsible person / manufacturer details [To be confirmed by Regulatory per market]\n• Recycling / sustainability symbols [To be confirmed per market requirements]\n• Barcode / QR code: [To be confirmed]"
+      },
+      {
+        "heading": "Secondary Packaging",
+        "content": "Secondary packaging details (e.g., outer carton, shipper cases) are [To be confirmed]. Requirements should include:\n\n• Outer carton dimensions and material: [To be confirmed]\n• Units per inner carton: [To be confirmed]\n• Units per shipper: [To be confirmed]\n• Pallet configuration: [To be confirmed]\n• Storage and transport conditions marked on shipper: [To be confirmed]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Manufacturing Risk Assessment",
+    "sections": [
+      {
+        "heading": "Purpose and Scope",
+        "content": "This risk assessment identifies key manufacturing risks associated with the production of Bond-Repair Leave-In Cream at laboratory, pilot, and commercial scale. It is intended to support process development, scale-up, and commercial manufacturing planning. Risks should be reviewed and updated as the project progresses."
+      },
+      {
+        "heading": "Risk 1 – Premature Addition of Heat-Sensitive Actives",
+        "content": "Risk Description: Bond-repair actives added to batch before temperature has cooled to ≤ 40°C, resulting in degradation of actives and loss of product efficacy.\n\nLikelihood: Medium — cool-down times will be longer at pilot and commercial scale and may create pressure to add actives earlier.\n\nImpact: High — degraded actives would compromise the core claim and efficacy of the product.\n\nMitigation measures:\n• Mandatory temperature verification step in BMR before active addition\n• In-line thermocouple with alarm set at 42°C to alert operator prior to threshold\n• Double sign-off (operator + supervisor) on temperature confirmation\n• Cool-down time studies conducted at each scale to provide estimated waiting times\n• Operator training on criticality of this step\n\nResidual Risk: Low (with controls in place)"
+      },
+      {
+        "heading": "Risk 2 – Emulsion Instability During Scale-Up",
+        "content": "Risk Description: Changes in mixing geometry, impeller tip speed, and heat transfer at larger scales may result in emulsion instability, phase separation, or texture changes.\n\nLikelihood: Medium — scale-up of emulsion systems frequently requires process adjustment.\n\nImpact: High — unstable bulk cannot be filled and would result in batch failure and rework/loss.\n\nMitigation measures:\n• Conduct structured scale-up trials with defined IPC checks at each scale\n• Review mixing tip speed equivalence (not just RPM) when moving between scales\n• Conduct accelerated stability testing on pilot batches before proceeding to commercial scale\n• Engage formulation team in pilot scale trials\n\nResidual Risk: Medium (to be reassessed after pilot trials)"
+      },
+      {
+        "heading": "Risk 3 – Insufficient Production Capacity for Year 2 Volume Target",
+        "content": "Risk Description: Manufacturing site may not have sufficient filling line capacity or batch scheduling availability to produce 300,000 units per year by Year 2.\n\nLikelihood: Medium — dependent on site capacity planning and lead time for equipment.\n\nImpact: High — failure to meet commercial supply commitments.\n\nMitigation measures:\n• Conduct capacity planning analysis using 1,000 kg batch size and 150mL fill data [to be completed]\n• Confirm filling line throughput rate and available production days per year\n• Identify and address any bottlenecks (mixing, filling, packaging) early in the scale-up process\n• Consider dual-source or contract manufacturer as contingency [to be confirmed with commercial team]\n\nResidual Risk: [To be confirmed after capacity analysis]"
+      },
+      {
+        "heading": "Risk 4 – Raw Material Supply or Quality Failure for Bond-Repair Actives",
+        "content": "Risk Description: Bond-repair actives may have limited supplier availability, long lead times, or quality variability that could impact manufacturing continuity.\n\nLikelihood: [To be confirmed — dependent on active ingredient supply chain]\n\nImpact: High — the bond-repair actives are the core functional ingredient of the product.\n\nMitigation measures:\n• Identify primary and secondary suppliers for bond-repair actives [to be confirmed]\n• Establish incoming QC testing for actives (identity, purity, potency where applicable)\n• Define minimum stock levels and reorder points\n• Review storage conditions for actives (temperature, humidity, light sensitivity) and ensure site capability\n\nResidual Risk: [To be confirmed]"
+      },
+      {
+        "heading": "Risk 5 – Pump Compatibility with Formula Viscosity",
+        "content": "Risk Description: The selected pump dispenser may not function correctly if the final formula viscosity is outside the pump's operating range, resulting in dispensing failures or consumer complaints.\n\nLikelihood: Medium — leave-in creams can vary significantly in viscosity.\n\nImpact: Medium — functional packaging failure affecting consumer experience and brand reputation.\n\nMitigation measures:\n• Confirm final formula viscosity target with formulation team\n• Test pump performance across the expected viscosity range (including min and max tolerance)\n• Conduct pump compatibility testing as part of packaging qualification\n• Include pump function as an IPC check during filling\n\nResidual Risk: Low (with testing completed)"
+      },
+      {
+        "heading": "Risk Summary Table",
+        "content": "Risk 1 – Premature active addition: Likelihood Medium | Impact High | Residual Risk Low\nRisk 2 – Emulsion instability at scale: Likelihood Medium | Impact High | Residual Risk Medium\nRisk 3 – Insufficient production capacity: Likelihood Medium | Impact High | Residual Risk TBC\nRisk 4 – Active ingredient supply failure: Likelihood TBC | Impact High | Residual Risk TBC\nRisk 5 – Pump viscosity incompatibility: Likelihood Medium | Impact Medium | Residual Risk Low\n\nAll risks should be reviewed and updated following pilot scale trials and prior to commercial validation."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]

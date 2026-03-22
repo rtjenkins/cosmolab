@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Quality / QA-QC discovery session for your OTC drug product."
+  },
+  {
+    "role": "user",
+    "content": "1% hydrocortisone cream — 21 CFR 211 drug cGMP, FDA OTC monograph."
+  },
+  {
+    "role": "assistant",
+    "content": "Release testing panel?"
+  },
+  {
+    "role": "user",
+    "content": "API assay (HPLC), degradants, pH, viscosity, micro (USP <51>/<61>), particulate matter."
+  },
+  {
+    "role": "assistant",
+    "content": "Stability program?"
+  },
+  {
+    "role": "user",
+    "content": "ICH Q1A — accelerated (40°C/75% RH 6 months) + long-term (25°C/60% RH 24 months). API, degradants, pH, viscosity at each timepoint."
+  },
+  {
+    "role": "assistant",
+    "content": "Supplier qualification requirements?"
+  },
+  {
+    "role": "user",
+    "content": "Drug Master File (DMF) required for API. Full audit every 2 years. CoA + CoC on every lot."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

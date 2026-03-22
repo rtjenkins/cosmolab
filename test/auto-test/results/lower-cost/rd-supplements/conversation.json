@@ -1,0 +1,46 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an R&D discovery session for your supplement product. What are we formulating?"
+  },
+  {
+    "role": "user",
+    "content": "A women's beauty collagen supplement — 10g hydrolyzed marine collagen per serving, capsule format."
+  },
+  {
+    "role": "assistant",
+    "content": "Other actives in the formula?"
+  },
+  {
+    "role": "user",
+    "content": "Biotin 5000mcg, Vitamin C 250mg, Hyaluronic Acid 100mg, and Bamboo extract for silica."
+  },
+  {
+    "role": "assistant",
+    "content": "Allergen or dietary restrictions?"
+  },
+  {
+    "role": "user",
+    "content": "Marine collagen (fish) — must label as fish allergen. No gluten, no dairy, non-GMO."
+  },
+  {
+    "role": "assistant",
+    "content": "cGMP requirements and certifications?"
+  },
+  {
+    "role": "user",
+    "content": "Full 21 CFR Part 111 cGMP. NSF Certified for Sport certification is a target."
+  },
+  {
+    "role": "assistant",
+    "content": "Dosage form and timeline?"
+  },
+  {
+    "role": "user",
+    "content": "Size 0 gelatin capsule, 3 capsules per serving. First prototype in 10 weeks."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

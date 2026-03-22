@@ -1,0 +1,16 @@
+# Welcome to CosmoLab AI Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything our teams need — from R&D formulation through to your client proposal.
+
+Since we're working on an **OTC Drug product**, we'll make sure to cover regulatory compliance, monograph requirements, and GMP considerations alongside the commercial details.
+
+Let's get started.
+
+---
+
+**First question:**
+
+Can you tell me about the **client's brand** — who they are, what space they play in, and whether they've manufactured OTC Drug products with us (or anyone else) before?
+
+---
+Duration: 4125ms | Chars: 630

@@ -1,0 +1,70 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run an R&D discovery session for your skincare project. What type of skincare product are you looking to develop?"
+  },
+  {
+    "role": "user",
+    "content": "A luxury eye cream targeting dark circles and puffiness."
+  },
+  {
+    "role": "assistant",
+    "content": "What texture and finish are you aiming for?"
+  },
+  {
+    "role": "user",
+    "content": "Lightweight gel-cream, suitable for morning and evening. Quick absorption is important."
+  },
+  {
+    "role": "assistant",
+    "content": "Who is the target consumer and what price tier?"
+  },
+  {
+    "role": "user",
+    "content": "Women 35-55, premium luxury tier, retail price around $120-150."
+  },
+  {
+    "role": "assistant",
+    "content": "What key actives do you want to feature?"
+  },
+  {
+    "role": "user",
+    "content": "Caffeine for puffiness, Vitamin K for dark circles, and peptides — Haloxyl or Eyeliss."
+  },
+  {
+    "role": "assistant",
+    "content": "Any ingredients to exclude?"
+  },
+  {
+    "role": "user",
+    "content": "No alcohol, no fragrance, and no known allergens."
+  },
+  {
+    "role": "assistant",
+    "content": "Target markets?"
+  },
+  {
+    "role": "user",
+    "content": "US and EU launch simultaneously."
+  },
+  {
+    "role": "assistant",
+    "content": "Packaging format?"
+  },
+  {
+    "role": "user",
+    "content": "Airless pump to protect actives."
+  },
+  {
+    "role": "assistant",
+    "content": "Target development timeline?"
+  },
+  {
+    "role": "user",
+    "content": "First prototype within 10-12 weeks."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

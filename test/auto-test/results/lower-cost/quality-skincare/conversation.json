@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Quality / QA-QC discovery session. What product are we qualifying?"
+  },
+  {
+    "role": "user",
+    "content": "A luxury eye cream — gel-cream format, US and EU launch."
+  },
+  {
+    "role": "assistant",
+    "content": "Applicable regulatory frameworks?"
+  },
+  {
+    "role": "user",
+    "content": "Both FDA (MoCRA) and EU Cosmetics Regulation 1223/2009. Also targeting Leaping Bunny."
+  },
+  {
+    "role": "assistant",
+    "content": "Quality claims to substantiate?"
+  },
+  {
+    "role": "user",
+    "content": "Fragrance-free, alcohol-free. Clean beauty positioning."
+  },
+  {
+    "role": "assistant",
+    "content": "Target shelf life?"
+  },
+  {
+    "role": "user",
+    "content": "24 months shelf life, 6-month PAO. Stability under ICH conditions."
+  },
+  {
+    "role": "assistant",
+    "content": "Release testing panel?"
+  },
+  {
+    "role": "user",
+    "content": "Micro (USP 51/61), pH, viscosity, appearance, colour, odour, preservative efficacy."
+  },
+  {
+    "role": "assistant",
+    "content": "Supplier qualification process?"
+  },
+  {
+    "role": "user",
+    "content": "CoA, MSDS, allergen declaration required. High-risk suppliers need audits."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

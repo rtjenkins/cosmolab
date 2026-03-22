@@ -1,0 +1,14 @@
+# Welcome to CosmoLab AI — Quality Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant for contract manufacturing. I'll be guiding you through a structured session to capture everything your QA/QC team needs to build out your quality documentation package for this dietary supplement project.
+
+Let's get started with the basics.
+
+---
+
+**First question:**
+
+What is the dietary supplement product you're developing — and what is its intended form factor? For example, are we talking about a capsule, softgel, tablet, powder, gummy, liquid, or something else?
+
+---
+Duration: 6290ms | Chars: 572

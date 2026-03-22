@@ -1,0 +1,579 @@
+{
+  "runAt": "2026-03-21T13:20:48.515Z",
+  "server": "http://localhost:3000",
+  "total": 24,
+  "passed": 4,
+  "failed": 20,
+  "results": [
+    {
+      "team": "sales",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 512,
+        "durationMs": 3722,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions so our team can build out a complete formulation brief, RFQ, and client proposal for your skincare project.\n\nLet's get started.\n\n**First question:** Can you tell me about the client's brand — who they are, what they stand for, and where they currently sit in the market? *(For example: an established prestige brand, an indie startup, a retailer launching a private label line, etc.)*"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 5,
+        "missingKeys": [
+          "RFQ"
+        ],
+        "durationMs": 91361
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15265,
+        "durationMs": 61
+      },
+      "overallPass": false
+    },
+    {
+      "team": "rd",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 445,
+        "durationMs": 4453,
+        "text": "Hello! I'm CosmoLab AI, your formulation discovery assistant. I'll be guiding you through a structured session to capture everything the team needs to move this project forward efficiently.\n\nLet's dive right in.\n\n**What type of skincare product are we developing?** For example — a moisturizer, face serum, eye cream, cleanser, toner, SPF product, body lotion — and do you have a specific format in mind, such as an emulsion, gel, balm, or mist?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 156249
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "manufacturing",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 451,
+        "durationMs": 3756,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to capture everything the Manufacturing team needs — from batch records to equipment planning.\n\nLet's dive right in.\n\n**What type of skincare product are we formulating?** For example: moisturizer, serum, eye cream, cleanser, sunscreen, body lotion, toner — and do you have a working name or internal code for this project?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 5,
+        "missingKeys": [
+          "Process Order"
+        ],
+        "durationMs": 93105
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15506,
+        "durationMs": 42
+      },
+      "overallPass": false
+    },
+    {
+      "team": "engineering",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 389,
+        "durationMs": 2714,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything the Engineering team needs for equipment specs, process flow, facility requirements, and your validation plan.\n\nLet's get started.\n\n**First question:** Are we designing a new production line from the ground up, or are we retrofitting or expanding an existing facility?"
+      },
+      "generateDocs": {
+        "pass": true,
+        "docCount": 6,
+        "missingKeys": [],
+        "durationMs": 141684
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 18631,
+        "durationMs": 34
+      },
+      "overallPass": true
+    },
+    {
+      "team": "planning",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 357,
+        "durationMs": 3186,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for demand planning. I'll be guiding you through a structured session to capture everything the team needs for forecasting, inventory planning, and S&OP inputs for your skincare product.\n\nLet's get started.\n\n**What is the name of the product we're planning for, and is this a new launch or an existing SKU?**"
+      },
+      "generateDocs": {
+        "pass": true,
+        "docCount": 5,
+        "missingKeys": [],
+        "durationMs": 96776
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15614,
+        "durationMs": 23
+      },
+      "overallPass": true
+    },
+    {
+      "team": "quality",
+      "category": "skincare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 407,
+        "durationMs": 3302,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant. I'm here to help your QA/QC team capture everything needed to build out your quality documentation suite for this skincare product.\n\nLet's get started.\n\n**First question:** Can you tell me what type of skincare product we're working with — for example, a moisturizer, serum, cleanser, eye cream, SPF product — and what's its primary intended use or benefit?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 148709
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "sales",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 495,
+        "durationMs": 2679,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions so we can build out everything your team needs — from the formulation brief to a client proposal.\n\nLet's get started.\n\n**First question:** Can you tell me the name of the brand or client you're working with, and give me a brief overview of who they are? For example, are they an established brand looking to expand, or a new brand coming to market for the first time?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 5,
+        "missingKeys": [
+          "Formulation Brief",
+          "RFQ"
+        ],
+        "durationMs": 91088
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15314,
+        "durationMs": 26
+      },
+      "overallPass": false
+    },
+    {
+      "team": "rd",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 360,
+        "durationMs": 3289,
+        "text": "Hello! I'm CosmoLab AI, your formulation discovery assistant. I'm here to help your R&D team capture everything needed to move this haircare project forward efficiently.\n\nLet's get started.\n\n**What type of haircare product are you developing?** For example — shampoo, conditioner, hair mask, leave-in treatment, scalp serum, styling product, or something else?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 149888
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "manufacturing",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 415,
+        "durationMs": 3822,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to capture everything the manufacturing team needs to move forward with documentation and planning.\n\nLet's dive right in.\n\n**What type of haircare product are we working with?** For example — shampoo, conditioner, hair mask, styling cream, scalp serum, leave-in treatment, hair oil, etc."
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 143379
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "engineering",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 403,
+        "durationMs": 6098,
+        "text": "Hello, I'm CosmoLab AI — your discovery assistant for this engineering session. I'll be asking you a series of focused questions to help build out your equipment specs, process flow, facility requirements, and validation plan for your haircare project.\n\nLet's get started.\n\n**First question:** Are we designing a completely new production line, or are you retrofitting or expanding an existing facility?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 156537
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "planning",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 392,
+        "durationMs": 2855,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for demand planning. I'll be guiding you through a structured session to capture everything the team needs for forecasting, inventory planning, and S&OP inputs for your haircare product.\n\nLet's get started.\n\n**What is the name of the product we're planning for, and can you give me a brief description — format, key benefit, target consumer?**"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 4,
+        "missingKeys": [
+          "Launch Demand",
+          "S&OP"
+        ],
+        "durationMs": 62045
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 13170,
+        "durationMs": 27
+      },
+      "overallPass": false
+    },
+    {
+      "team": "quality",
+      "category": "haircare",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 491,
+        "durationMs": 3185,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be walking you through a structured set of questions to help us build out your full quality documentation package — including your QC plan, spec sheets, CoA template, stability protocol, and more.\n\nLet's dive right in.\n\n**First question:** What type of haircare product are we working with? For example, is this a shampoo, conditioner, hair mask, leave-in treatment, scalp serum, styling product — or something else?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 140757
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "sales",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 630,
+        "durationMs": 4125,
+        "text": "# Welcome to CosmoLab AI Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything our teams need — from R&D formulation through to your client proposal.\n\nSince we're working on an **OTC Drug product**, we'll make sure to cover regulatory compliance, monograph requirements, and GMP considerations alongside the commercial details.\n\nLet's get started.\n\n---\n\n**First question:**\n\nCan you tell me about the **client's brand** — who they are, what space they play in, and whether they've manufactured OTC Drug products with us (or anyone else) before?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 5,
+        "missingKeys": [
+          "RFQ"
+        ],
+        "durationMs": 74244
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 14008,
+        "durationMs": 22
+      },
+      "overallPass": false
+    },
+    {
+      "team": "rd",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 521,
+        "durationMs": 3734,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for formulation and product development. I'll be guiding you through a structured session to capture everything our team needs to develop your OTC Drug product.\n\nLet's get started.\n\n**First question:** What type of OTC Drug product are you looking to develop? For example, are we talking about a topical product like an acne treatment, sunscreen, antifungal, or wound care product — or something else like an oral product such as a cough syrup, antacid, or oral analgesic?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 143596
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "manufacturing",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 777,
+        "durationMs": 5696,
+        "text": "# Welcome to CosmoLab AI — Manufacturing Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Manufacturing team build out your **Bill of Materials, batch record outline, scale-up plan, and capacity estimates** for this project.\n\nSince we're working on an **OTC Drug product**, we'll also make sure we capture what's needed for **21 CFR 211 GMP compliance** and regulatory documentation.\n\nLet's dive in.\n\n---\n\n**First question:**\n\nWhat is the product — can you give me a brief description of what it does and its intended OTC drug category? \n\n*(For example: an antifungal cream, an anti-itch lotion, an acne treatment gel, an SPF 30 sunscreen, a topical analgesic, etc.)*"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 149703
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 1
+      },
+      "overallPass": false
+    },
+    {
+      "team": "engineering",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 650,
+        "durationMs": 5858,
+        "text": "# Welcome to CosmoLab AI — Engineering Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant. I'll be walking you through a structured session to help the Engineering team capture everything needed for equipment specs, process flow, facility requirements, and a validation plan for your OTC Drug product.\n\nLet's get started.\n\n---\n\n**First question:**\n\nWhat is the OTC Drug product you're developing or manufacturing? Please give me a brief description — the product type (e.g., topical cream, oral liquid, medicated shampoo, eye drops), its intended use, and whether this is a **new product line** or a **retrofit of an existing line**."
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 151745
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "planning",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 577,
+        "durationMs": 4585,
+        "text": "# Welcome to CosmoLab AI Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Demand Planning team build out your forecast, inventory plan, and S&OP inputs for this OTC Drug product.\n\nThis should take about 10–15 minutes. I'll go one topic at a time so we can make sure we capture everything accurately.\n\n---\n\nLet's start with the basics:\n\n**What is the name of this product, and can you give me a brief description — what does it do, and what is the active ingredient?**"
+      },
+      "generateDocs": {
+        "pass": true,
+        "docCount": 6,
+        "missingKeys": [],
+        "durationMs": 100377
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15737,
+        "durationMs": 33
+      },
+      "overallPass": true
+    },
+    {
+      "team": "quality",
+      "category": "otc",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 809,
+        "durationMs": 5946,
+        "text": "# Welcome to CosmoLab AI — Quality Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be helping your QA/QC team gather the information needed to build out your full quality documentation package — specs, CoA templates, stability protocols, and more.\n\nSince we're working on an **OTC Drug product**, we'll make sure to cover FDA 21 CFR 211 GMP requirements, monograph compliance, Drug Facts labeling, and everything your quality team needs to stay audit-ready.\n\nLet's get started.\n\n---\n\n**First question:**\n\nWhat is the OTC drug product you're developing or manufacturing? Please describe it — including the **dosage form** (e.g., cream, gel, shampoo, spray) and its **intended use or drug claim** (e.g., antifungal, sunscreen SPF, acne treatment, dandruff control)."
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 142766
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "sales",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 460,
+        "durationMs": 3325,
+        "text": "Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'm here to help the Sales team capture everything needed to move this dietary supplement project forward — from formulation brief to client proposal.\n\nLet's dive right in.\n\n**First question:** Can you tell me about the client's brand? Who are they — are they an established brand looking to expand their supplement line, a startup launching their first product, or something else entirely?"
+      },
+      "generateDocs": {
+        "pass": true,
+        "docCount": 5,
+        "missingKeys": [],
+        "durationMs": 92805
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 15343,
+        "durationMs": 34
+      },
+      "overallPass": true
+    },
+    {
+      "team": "rd",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 588,
+        "durationMs": 5219,
+        "text": "# Welcome to CosmoLab AI — Dietary Supplement Discovery Session\n\nHello! I'm CosmoLab AI, your formulation discovery assistant. I'll be guiding you through a structured session to capture everything our team needs to develop your dietary supplement — from formulation brief to regulatory checklist and stability testing plan.\n\nLet's get started.\n\n---\n\n**First question:**\n\nWhat type of dietary supplement are we developing, and what's the intended **dosage form**?\n\nFor example: softgel, hard-shell capsule, tablet, powder (stick pack or tub), gummy, liquid shot, effervescent tablet, etc."
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 146264
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 1
+      },
+      "overallPass": false
+    },
+    {
+      "team": "manufacturing",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 578,
+        "durationMs": 4103,
+        "text": "# Welcome to CosmoLab AI — Manufacturing Discovery Session\n\nHello! I'm CosmoLab AI, your manufacturing discovery assistant. I'll be guiding you through a structured session to capture everything the manufacturing team needs to move forward on your dietary supplement project — from bill of materials to capacity planning.\n\nLet's get started.\n\n---\n\n**First question:**\n\nWhat is the **product format** for this dietary supplement? For example, are we talking about a capsule, tablet, softgel, powder (bulk or sachet), gummy, liquid (bottle or shot), stick pack, or something else?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 125481
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "engineering",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 704,
+        "durationMs": 5129,
+        "text": "# Welcome to CosmoLab AI — Engineering Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Engineering team capture everything needed for equipment specs, process flow, facility requirements, and a validation plan skeleton.\n\nWe're focused on a **Dietary Supplement** product, so we'll also make sure to cover cGMP requirements under **21 CFR Part 111** along the way.\n\nLet's get started.\n\n---\n\n**First question:**\n\nWhat is the **physical form** of the dietary supplement you're planning to manufacture — for example, capsules, tablets, softgels, powder sachets, gummies, liquid, or something else?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 147364
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 0
+      },
+      "overallPass": false
+    },
+    {
+      "team": "planning",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 665,
+        "durationMs": 5015,
+        "text": "# Welcome to CosmoLab AI — Demand Planning Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant. I'll be guiding you through a structured session to capture everything the Demand Planning team needs to build accurate forecasts, inventory plans, and S&OP inputs for your dietary supplement product.\n\nThis typically takes 10–15 minutes. I'll ask focused questions one at a time, so we can go deep where it matters.\n\n---\n\nLet's start at the beginning:\n\n**What is the name of this dietary supplement product, and can you give me a brief description of what it is — the form factor (capsule, gummy, powder, etc.) and its primary health benefit or claim?**"
+      },
+      "generateDocs": {
+        "pass": false,
+        "docCount": 6,
+        "missingKeys": [
+          "S&OP"
+        ],
+        "durationMs": 102851
+      },
+      "buildDocx": {
+        "pass": true,
+        "fileSizeBytes": 16005,
+        "durationMs": 25
+      },
+      "overallPass": false
+    },
+    {
+      "team": "quality",
+      "category": "supplements",
+      "chatStream": {
+        "pass": true,
+        "previewChars": 572,
+        "durationMs": 6290,
+        "text": "# Welcome to CosmoLab AI — Quality Discovery Session\n\nHello! I'm CosmoLab AI, your discovery assistant for contract manufacturing. I'll be guiding you through a structured session to capture everything your QA/QC team needs to build out your quality documentation package for this dietary supplement project.\n\nLet's get started with the basics.\n\n---\n\n**First question:**\n\nWhat is the dietary supplement product you're developing — and what is its intended form factor? For example, are we talking about a capsule, softgel, tablet, powder, gummy, liquid, or something else?"
+      },
+      "generateDocs": {
+        "pass": false,
+        "error": "Error: HTTP 500",
+        "docCount": 0,
+        "missingKeys": [],
+        "durationMs": 132567
+      },
+      "buildDocx": {
+        "pass": false,
+        "error": "Error: No documents to build — skipped (generate-docs failed)",
+        "fileSizeBytes": 0,
+        "durationMs": 1
+      },
+      "overallPass": false
+    }
+  ]
+}

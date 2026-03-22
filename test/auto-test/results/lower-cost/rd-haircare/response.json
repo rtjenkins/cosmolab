@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Technical Formulation Brief — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Product Overview",
+        "content": "Product: Bond-Repair Leave-In Conditioner (Haircare)\nFormulation objective and target consumer defined in discovery session.\nAll specifications to be confirmed during prototype development."
+      },
+      {
+        "heading": "Key Active Ingredients",
+        "content": "Active ingredients confirmed during discovery session.\n• Selection rationale documented\n• Use levels to be finalised at prototype stage\n• Supplier qualification required for all actives"
+      },
+      {
+        "heading": "Formulation Type & Texture",
+        "content": "Recommended base and texture confirmed per discovery session.\nTarget pH, viscosity, and appearance to be specified at formula lock."
+      },
+      {
+        "heading": "Exclusions & Constraints",
+        "content": "Excluded ingredients confirmed during discovery session.\nAll constraints documented and communicated to formulation team."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Ingredient Compatibility & Risk Notes — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Compatibility Considerations",
+        "content": "Key active ingredient interactions to be assessed during prototype phase.\nPreservative compatibility study required.\npH sensitivity of actives documented."
+      },
+      {
+        "heading": "Stability Risk Flags",
+        "content": "• Light-sensitive actives: opaque/airless packaging recommended\n• Oxidation-sensitive actives: antioxidant co-actives to be considered\n• Temperature-sensitive actives: cool-down addition protocol required"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Regulatory Checklist — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Applicable Frameworks",
+        "content": "Regulatory frameworks confirmed per discovery session (target markets as stated).\nAll frameworks to be verified with regulatory affairs team."
+      },
+      {
+        "heading": "Key Compliance Items",
+        "content": "• Product classification confirmed\n• Restricted ingredients verified against applicable annexes\n• Labelling requirements documented\n• Safety assessment / CPSR requirement identified"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Stability & Compatibility Testing Plan — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Study Types Required",
+        "content": "• Accelerated stability (40°C / 75% RH)\n• Real-time stability (25°C / 60% RH)\n• Freeze-thaw cycling\n• Photo-stability (where applicable)"
+      },
+      {
+        "heading": "Testing Parameters",
+        "content": "Physical: Appearance, colour, odour, pH, viscosity\nChemical: Active ingredient assay (HPLC), degradants\nMicrobiological: TAMC, TYMC, PET per USP/Ph. Eur."
+      },
+      {
+        "heading": "Timepoints",
+        "content": "T=0, T=2 weeks, T=4 weeks, T=8 weeks (within development window)\nT=3, 6, 12, 24 months (real-time programme)"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Raw Material Sourcing Requirements — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Key Actives — Sourcing",
+        "content": "All key actives identified in discovery session.\nSupplier qualification documentation required:\n• Certificate of Analysis (CoA)\n• Safety Data Sheet (SDS)\n• Technical Data Sheet (TDS)\n• REACH compliance (if EU)\n• Allergen declaration"
+      },
+      {
+        "heading": "Supporting Ingredients",
+        "content": "Emollients, humectants, emulsifier system, preservatives, and antioxidants to be finalised at formulation stage.\nAll to meet applicable pharmacopoeial or cosmetic grade standards."
+      },
+      {
+        "heading": "Lead Time Risk",
+        "content": "Specialty actives may carry 4–8 week lead times.\nSourcing must be initiated in Week 1 of the development programme."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  },
+  {
+    "title": "Formula Development Timeline — Bond-Repair Leave-In Conditioner (Haircare)",
+    "sections": [
+      {
+        "heading": "Development Milestones",
+        "content": "Week 1–2: Brief finalisation, raw material sourcing initiation\nWeek 3–4: First prototype (F1)\nWeek 5–6: Internal evaluation, stability initiation\nWeek 7–8: Optimised prototype (F2), reformulation if required\nWeek 9: Formula lock\nWeek 10: Handover to regulatory and manufacturing"
+      },
+      {
+        "heading": "Critical Path",
+        "content": "• Specialty active sourcing — highest lead time risk\n• Stability data availability at formula lock decision\n• Regulatory jurisdiction confirmation required by Week 2"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before acting on it."
+      }
+    ]
+  }
+]

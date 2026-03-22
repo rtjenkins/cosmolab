@@ -1,0 +1,8 @@
+Hello! I'm CosmoLab AI, your discovery assistant for demand planning. I'll be guiding you through a structured session to capture everything the team needs for forecasting, inventory planning, and S&OP inputs for your haircare product.
+
+Let's get started.
+
+**What is the name of the product we're planning for, and can you give me a brief description — format, key benefit, target consumer?**
+
+---
+Duration: 2855ms | Chars: 392

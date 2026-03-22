@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Quality / QA-QC discovery session for your supplement product."
+  },
+  {
+    "role": "user",
+    "content": "Women's beauty collagen capsules — 21 CFR Part 111 cGMP, targeting NSF Certified for Sport."
+  },
+  {
+    "role": "assistant",
+    "content": "Release testing panel?"
+  },
+  {
+    "role": "user",
+    "content": "Identity (FTIR/HPLC), assay per label claim, micro (USP <2021>/<2022>), heavy metals (USP <232>/<233>), disintegration."
+  },
+  {
+    "role": "assistant",
+    "content": "Stability program?"
+  },
+  {
+    "role": "user",
+    "content": "Real-time and accelerated (40°C/75% RH) for 24 months. Assay, micro, appearance, disintegration at each timepoint."
+  },
+  {
+    "role": "assistant",
+    "content": "Supplier qualification for marine collagen?"
+  },
+  {
+    "role": "user",
+    "content": "CoA, allergen declaration, heavy metals cert, BSE/TSE declaration. Audit every 2 years. Supplier is FSSC 22000 certified."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

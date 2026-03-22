@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hi, I'm CosmoLab AI. Let's run a Demand Planning discovery session for your OTC product."
+  },
+  {
+    "role": "user",
+    "content": "New OTC launch — 1% hydrocortisone cream 30g, US drug store channel."
+  },
+  {
+    "role": "assistant",
+    "content": "Initial stocking quantities and distribution channels?"
+  },
+  {
+    "role": "user",
+    "content": "CVS and Walgreens planogram entry. 15,000 units initial stocking across both chains."
+  },
+  {
+    "role": "assistant",
+    "content": "Seasonality and key supply risks?"
+  },
+  {
+    "role": "user",
+    "content": "Summer spike (insect bites/poison ivy season). API sourced from a single EU supplier with 10-week lead time."
+  },
+  {
+    "role": "assistant",
+    "content": "I have everything I need. Type 'generate' to create your documents."
+  }
+]

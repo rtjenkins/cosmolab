@@ -1,0 +1,14 @@
+# Welcome to CosmoLab AI — Manufacturing Discovery Session
+
+Hello! I'm CosmoLab AI, your manufacturing discovery assistant. I'll be guiding you through a structured session to capture everything the manufacturing team needs to move forward on your dietary supplement project — from bill of materials to capacity planning.
+
+Let's get started.
+
+---
+
+**First question:**
+
+What is the **product format** for this dietary supplement? For example, are we talking about a capsule, tablet, softgel, powder (bulk or sachet), gummy, liquid (bottle or shot), stick pack, or something else?
+
+---
+Duration: 4103ms | Chars: 578

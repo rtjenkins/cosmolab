@@ -1,0 +1,18 @@
+# Welcome to CosmoLab AI — Manufacturing Discovery Session
+
+Hello! I'm CosmoLab AI, your discovery assistant for today's session. I'll be guiding you through a structured set of questions to help the Manufacturing team build out your **Bill of Materials, batch record outline, scale-up plan, and capacity estimates** for this project.
+
+Since we're working on an **OTC Drug product**, we'll also make sure we capture what's needed for **21 CFR 211 GMP compliance** and regulatory documentation.
+
+Let's dive in.
+
+---
+
+**First question:**
+
+What is the product — can you give me a brief description of what it does and its intended OTC drug category? 
+
+*(For example: an antifungal cream, an anti-itch lotion, an acne treatment gel, an SPF 30 sunscreen, a topical analgesic, etc.)*
+
+---
+Duration: 5696ms | Chars: 777

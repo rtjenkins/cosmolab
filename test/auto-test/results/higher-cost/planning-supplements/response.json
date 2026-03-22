@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Demand Planning Overview – Women's Beauty Collagen Capsules",
+    "sections": [
+      {
+        "heading": "Product Summary",
+        "content": "Product: Women's Beauty Collagen Capsules\nFormat: Capsules\nCount: 90-count bottle\nTarget Markets: United States and Canada\nDistribution Channels: Amazon FBA, DTC via Shopify\nLaunch Type: New Product Introduction (NPI)"
+      },
+      {
+        "heading": "Demand Targets",
+        "content": "Initial Inventory (Launch): 5,000 units\nMonth 1 Sales Estimate: [To be confirmed]\nMonth 6 Sales Target: 2,000 units/month\nRamp-Up Period: Months 1–6 (linear ramp assumed; adjust based on early sell-through data)\nAnnualized Run Rate (from Month 6): ~24,000 units/year\n\nNote: A detailed month-by-month ramp curve should be established once early velocity data from Amazon FBA and Shopify DTC is available. A conservative ramp scenario and an aggressive ramp scenario are recommended for safety stock planning."
+      },
+      {
+        "heading": "Channel Allocation Guidance",
+        "content": "• Amazon FBA: Requires forward stock held at Amazon fulfillment centers. FBA replenishment lead times and IPI score management must be factored into inventory planning.\n• DTC Shopify: Stock held at brand warehouse or 3PL. Allows more flexible inventory positioning. Monitor cart conversion and repeat purchase rates closely in Months 1–3.\n• Channel split ratio (Amazon FBA vs. DTC): [To be confirmed — establish based on marketing spend allocation and early channel performance]"
+      },
+      {
+        "heading": "Seasonality Considerations",
+        "content": "• January New Year Wellness Spike: Significant demand uplift expected in January driven by New Year health and wellness resolutions. This is a high-priority demand event.\n• Recommended action: Pre-build inventory in October–November to ensure sufficient stock for January spike, accounting for 10–12 week supplier lead time.\n• Additional seasonal windows to monitor: [To be confirmed — consider Valentine's Day (beauty gifting), Q4 holiday gifting season]\n• Baseline seasonality index for January vs. average month: [To be confirmed — recommend setting at 1.3–1.5x baseline until historical data is available]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Inventory & Safety Stock Plan – Women's Beauty Collagen Capsules",
+    "sections": [
+      {
+        "heading": "Inventory Planning Parameters",
+        "content": "SKU: Women's Beauty Collagen Capsules – 90ct\nInitial Stock on Hand: 5,000 units\nTarget Monthly Sales Rate (Month 6+): 2,000 units/month\nSupplier Lead Time: 10–12 weeks (use 12 weeks as planning assumption for conservative planning)\nSupplier: Single-source Japanese marine collagen supplier\nReorder Point: [To be confirmed — calculate as: (Average Daily Demand × Lead Time in Days) + Safety Stock]"
+      },
+      {
+        "heading": "Safety Stock Calculation",
+        "content": "Given single-source supply dependency and 10–12 week lead time, elevated safety stock levels are strongly recommended.\n\nRecommended Safety Stock Policy:\n• Standard periods: 4–6 weeks of forward demand coverage\n• Pre-January spike period (October–December): 8–10 weeks of forward demand coverage\n• Formula: Safety Stock = Z-score × Standard Deviation of Demand × √Lead Time\n• Z-score for 95% service level = 1.65 (recommended)\n• Actual standard deviation of demand: [To be confirmed — to be updated after 60–90 days of sales data]\n\nEstimated Safety Stock at Month 6 Run Rate (simplified):\n• At 2,000 units/month (~67 units/day), 6-week safety stock ≈ 2,800 units\n• At 2,000 units/month, pre-January safety stock (10 weeks) ≈ 5,000 units"
+      },
+      {
+        "heading": "Replenishment Schedule (Indicative)",
+        "content": "• First replenishment order should be placed no later than Week 2–3 post-launch, given 12-week lead time and ramp toward 2,000 units/month target.\n• Suggested Purchase Order cadence: Monthly PO review cycle with rolling 3-month forward demand signal shared with supplier.\n• Pre-January build order: Place NLT end of September to ensure arrival by late November/early December.\n• Minimum Order Quantity (MOQ) from supplier: [To be confirmed]\n• Maximum storage capacity (warehouse/3PL): [To be confirmed]"
+      },
+      {
+        "heading": "Initial 5,000 Unit Stock Deployment",
+        "content": "Recommended split of initial 5,000 unit inventory:\n• Amazon FBA inbound: [To be confirmed — suggested 50–60% of initial stock, ~2,500–3,000 units]\n• DTC Shopify / 3PL warehouse: [To be confirmed — suggested 40–50%, ~2,000–2,500 units]\n• Reserve / safety buffer: Minimum 500 units held back to cover launch demand spikes and FBA stranded inventory risk\n\nNote: Amazon FBA check-in and processing times (typically 1–3 weeks) must be accounted for in launch timing. Ship FBA inventory at least 3–4 weeks prior to launch date."
+      },
+      {
+        "heading": "Stockout Risk Assessment",
+        "content": "Risk Level: HIGH\nPrimary Risk Factors:\n• Single-source supplier dependency (no backup supplier identified)\n• Long lead time (10–12 weeks) leaves limited reaction time if demand exceeds forecast\n• New product with no historical velocity data — demand forecast uncertainty is high\n• January spike creates concentrated demand pressure\n\nMitigation Recommendations:\n• Qualify a secondary marine collagen supplier as contingency within 6 months of launch\n• Establish a supplier capacity reservation agreement for Q4 volumes\n• Set up automated low-stock alerts on both Amazon Seller Central and Shopify at 8-week forward coverage threshold\n• Monitor sell-through weekly in Months 1–3 to recalibrate forecast rapidly"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Supply Chain Risk Register – Women's Beauty Collagen Capsules",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This document identifies and prioritizes supply chain risks for the Women's Beauty Collagen Capsules launch across US and Canada markets. It is intended to support proactive risk mitigation by the Demand Planning and Supply Chain teams."
+      },
+      {
+        "heading": "Risk 1: Single-Source Supplier Dependency",
+        "content": "Risk Description: Marine collagen ingredient sourced exclusively from one Japanese supplier.\nLikelihood: Medium\nImpact: Critical — any supply disruption results in zero ability to produce finished goods\nLead Time Exposure: 10–12 weeks with no backup\nMitigation Actions:\n• Identify and qualify at least one alternative marine collagen supplier within 6 months\n• Negotiate a buffer stock or vendor-managed inventory (VMI) agreement with primary supplier\n• Request supplier's own business continuity plan and capacity commitments\n• Consider holding 1–2 extra months of raw material safety stock domestically if feasible"
+      },
+      {
+        "heading": "Risk 2: Demand Forecast Uncertainty (New Launch)",
+        "content": "Risk Description: No historical sales data exists for this SKU. Demand ramp to 2,000 units/month by Month 6 is a target, not a validated forecast.\nLikelihood: High\nImpact: Medium-High — over-forecast leads to excess inventory and cash flow strain; under-forecast leads to stockouts and lost revenue\nMitigation Actions:\n• Implement weekly sell-through tracking from Day 1 on both Amazon and Shopify\n• Establish formal forecast review cadence (bi-weekly in Months 1–3, monthly thereafter)\n• Define trigger thresholds: if Month 1 sell-through exceeds 800 units, escalate to accelerated reorder plan\n• Maintain conservative and aggressive demand scenarios in parallel"
+      },
+      {
+        "heading": "Risk 3: January Demand Spike Timing vs. Lead Time",
+        "content": "Risk Description: January New Year wellness demand spike requires inventory to be in place by late December/early January. With 10–12 week lead time, orders for January must be placed by mid-September at the latest.\nLikelihood: High (spike is expected)\nImpact: High — missing January spike is a significant revenue and brand awareness loss for a new product\nMitigation Actions:\n• Lock in pre-January purchase order by September 15 at the latest\n• Coordinate with Amazon FBA to ensure inbound shipment arrives and is processed by December 10\n• Allocate higher January inventory to DTC Shopify where fulfillment is directly controlled\n• Plan promotional calendar (ads, influencer campaigns) to align with available inventory, not demand alone"
+      },
+      {
+        "heading": "Risk 4: Amazon FBA Inventory Restrictions",
+        "content": "Risk Description: Amazon may impose inventory quantity limits (ASIN-level restock limits) on new sellers or new ASINs, restricting how much stock can be held at FBA.\nLikelihood: Medium-High for new ASINs\nImpact: Medium — limits ability to pre-position stock for Amazon channel\nMitigation Actions:\n• Monitor FBA inventory limits in Seller Central from launch day\n• Use DTC Shopify as overflow fulfillment channel if FBA limits are hit\n• Build Amazon sales history quickly in first 60 days to improve FBA limit headroom\n• Consider Amazon MCF (Multi-Channel Fulfillment) as a bridge solution if needed"
+      },
+      {
+        "heading": "Risk 5: Cross-Border Canada Supply Complexity",
+        "content": "Risk Description: Canadian market requires separate regulatory compliance (Natural Health Product license), customs clearance, and potentially separate inventory positioning.\nLikelihood: High (regulatory requirement)\nImpact: Medium — delays in Canadian NHP licensing or customs can delay Canada launch\nMitigation Actions:\n• Confirm Canadian NHP license status with regulatory affairs team before allocating demand plan inventory to Canada\n• Determine whether Canada will be served via Amazon.ca FBA, DTC Shopify Canada, or both\n• Factor customs lead time and duties into landed cost and inventory positioning plan\n• Canada demand volume: [To be confirmed — establish Canada-specific demand targets separate from US]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Demand Forecast – 12-Month Projection – Women's Beauty Collagen Capsules",
+    "sections": [
+      {
+        "heading": "Forecast Assumptions",
+        "content": "• Launch Month: [To be confirmed — assumed Month 1 = launch month]\n• Ramp target: 2,000 units/month by Month 6\n• January New Year spike applied as 1.4x multiplier on baseline (adjust when historical data available)\n• Channel split: Amazon FBA + DTC Shopify combined\n• Canada demand included in totals (Canada-specific split: [To be confirmed])\n• No promotional uplifts modeled beyond January spike — update as marketing calendar is confirmed\n• Forecast methodology: Linear ramp with seasonal adjustment"
+      },
+      {
+        "heading": "12-Month Demand Forecast Table",
+        "content": "Month 1: ~500 units (launch ramp, limited awareness)\nMonth 2: ~800 units\nMonth 3: ~1,100 units\nMonth 4: ~1,400 units\nMonth 5: ~1,700 units\nMonth 6: ~2,000 units (target achieved)\nMonth 7: ~2,000 units (steady state baseline)\nMonth 8: ~2,000 units\nMonth 9: ~2,000 units\nMonth 10: ~2,000 units (pre-holiday baseline; consider gifting uplift)\nMonth 11: ~2,200 units (early holiday/gifting season uplift — [To be confirmed])\nMonth 12 (January if launch is in February): ~2,800 units (New Year wellness spike, 1.4x multiplier applied)\n\nTotal 12-Month Forecast: ~22,500 units (base case)\n\nNote: If launch month falls in August–September, Month 12 will align with January spike. Recalibrate this table against the confirmed launch date."
+      },
+      {
+        "heading": "Scenario Planning",
+        "content": "Conservative Scenario (70% of base forecast):\n• Month 6 target: ~1,400 units/month\n• 12-month total: ~15,750 units\n• Action trigger: Reduce reorder quantities; focus on sell-through optimization\n\nBase Case Scenario:\n• Month 6 target: 2,000 units/month\n• 12-month total: ~22,500 units\n\nAggressive Scenario (130% of base forecast):\n• Month 6 target: ~2,600 units/month\n• 12-month total: ~29,250 units\n• Action trigger: Accelerate reorder; qualify backup supplier immediately; negotiate capacity hold with Japanese supplier"
+      },
+      {
+        "heading": "Forecast Review Cadence",
+        "content": "• Weeks 1–4 post-launch: Weekly review\n• Months 2–3: Bi-weekly review\n• Month 4 onward: Monthly rolling 3-month forecast update\n• Forecast owner: [To be confirmed — Demand Planner / Brand Manager]\n• Forecast inputs: Amazon Seller Central unit sales, Shopify orders, promotional calendar, marketing spend"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Procurement & Purchase Order Calendar – Women's Beauty Collagen Capsules",
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "This calendar provides a structured purchase order (PO) schedule for the Women's Beauty Collagen Capsules, accounting for the 10–12 week supplier lead time, ramp-up demand trajectory, and the January New Year demand spike. All dates are relative to the confirmed launch date, which is [To be confirmed]."
+      },
+      {
+        "heading": "PO Schedule (Relative to Launch Month)",
+        "content": "PO #1 — Pre-Launch Initial Stock:\n• Quantity: 5,000 units (confirmed)\n• Place by: Launch Date minus 12 weeks\n• Purpose: Initial Amazon FBA seeding + DTC launch stock\n\nPO #2 — Ramp Replenishment:\n• Quantity: ~3,000–4,000 units (to cover Months 3–5 ramp demand and safety stock)\n• Place by: Launch Date minus 8 weeks (approximately 4 weeks after launch)\n• Purpose: Ensure continuity stock as initial 5,000 units sell through\n• Trigger: Place regardless of early sales performance to avoid stockout risk given lead time\n\nPO #3 — January Pre-Build (Critical):\n• Quantity: ~5,000–6,000 units (January spike + Q1 coverage)\n• Place by: September 15 (absolute latest) — adjust to confirmed calendar date\n• Purpose: Stock to cover January New Year spike and January–February demand\n• Note: This is the highest-risk PO. Delay will result in a stockout during the most important demand window of the year.\n\nPO #4 — Q2 Steady State:\n• Quantity: ~6,000 units (3 months × 2,000 units/month)\n• Place by: Approximately January (for April–June delivery)\n• Purpose: Maintain steady-state inventory post-January spike\n• Review: Adjust quantity based on actual January sell-through and revised forecast"
+      },
+      {
+        "heading": "Supplier Engagement Requirements",
+        "content": "• Share rolling 3-month demand forecast with Japanese supplier on monthly basis\n• Request capacity confirmation for Q4 pre-build order no later than August\n• Establish agreed lead time SLA in writing: target 10 weeks standard, 12 weeks maximum\n• Request advance shipment notifications (ASNs) for all POs\n• Define quality hold and rejection protocols: [To be confirmed]\n• Payment terms: [To be confirmed]"
+      },
+      {
+        "heading": "Landed Cost Inputs for PO Planning",
+        "content": "• Supplier unit cost (marine collagen capsules, 90ct): [To be confirmed]\n• International freight cost (Japan to US/Canada): [To be confirmed]\n• US import duties (dietary supplements): [To be confirmed with customs broker]\n• Canadian import duties and GST: [To be confirmed with Canadian customs broker]\n• 3PL receiving and storage cost: [To be confirmed]\n• Amazon FBA fee per unit: [To be confirmed — typically $3–5 for this product size/weight range; verify in Seller Central FBA calculator]"
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  },
+  {
+    "title": "Regulatory & Compliance Checklist – Women's Beauty Collagen Capsules (US & Canada)",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "content": "This checklist supports the Demand Planning team in understanding the regulatory gates that may impact product availability, launch timing, and inventory deployment. All items must be verified with the regulatory affairs team before finalizing demand and supply plans."
+      },
+      {
+        "heading": "United States Regulatory Requirements",
+        "content": "Product Classification: Dietary Supplement (regulated under DSHEA, 21 CFR Part 111)\n\n• FDA Facility Registration: Manufacturing facility must be registered with FDA. Status: [To be confirmed]\n• cGMP Compliance (21 CFR Part 111): Finished product must be manufactured in a cGMP-compliant facility. Certificate of Analysis (CoA) required for each batch. Status: [To be confirmed]\n• Labeling Compliance:\n  - Supplement Facts panel required\n  - Structure/function claims permitted with 30-day FDA notification\n  - 'These statements have not been evaluated by the FDA' disclaimer required\n  - Net quantity, ingredient list, allergen declarations required\n  - Status: [To be confirmed with regulatory affairs team]\n• New Dietary Ingredient (NDI) Notification: If any ingredient has not been marketed in the US as a dietary supplement before October 15, 1994, an NDI notification is required. Marine collagen NDI status: [To be confirmed]\n• Amazon Dietary Supplement Requirements: Amazon requires CoA, label review, and may request third-party testing results. Confirm ASIN approval requirements before launch inventory deployment.\n• Prop 65 (California): If selling to California consumers, assess whether any ingredients trigger Prop 65 warning requirements. Status: [To be confirmed]"
+      },
+      {
+        "heading": "Canada Regulatory Requirements",
+        "content": "Product Classification: Natural Health Product (NHP) — regulated by Health Canada under the Natural Health Products Regulations (NHPR)\n\n• Natural Product Number (NPN): An NPN must be issued by Health Canada before the product can be sold in Canada. This is a mandatory pre-market license.\n  - NPN Application Status: [To be confirmed — CRITICAL PATH ITEM for Canada launch]\n  - Typical NPN review timeline: 60 days (Class I/II) to 300+ days (Class III) — confirm classification\n  - Demand Planning Impact: Canada inventory must not be committed until NPN is confirmed. Do not deploy Canada-allocated stock until NPN is received.\n• Site License: The manufacturer and importer must hold a valid Health Canada Site License. Status: [To be confirmed]\n• Labeling Requirements (Canada):\n  - Bilingual labeling (English and French) required\n  - NPN number must appear on label\n  - Recommended dose, cautions, and storage conditions required\n  - Status: [To be confirmed with regulatory affairs team]\n• Import Requirements: Canadian customs classification and applicable duties for NHP products. Status: [To be confirmed with customs broker]"
+      },
+      {
+        "heading": "Impact on Demand Plan",
+        "content": "• If Canadian NPN is not yet received, remove Canada volume from near-term demand forecast and PO quantities until license is confirmed.\n• US launch can proceed independently of Canada NPN status.\n• Any FDA enforcement action, import alert, or Amazon listing suppression would require immediate demand plan revision.\n• Build regulatory milestone dates into the launch timeline and PO calendar."
+      },
+      {
+        "heading": "Regulatory Disclaimer",
+        "content": "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
+      }
+    ]
+  }
+]
