@@ -1,15 +1,10 @@
-import { auth } from "@/auth";
-import { NextResponse } from "next/server";
+import NextAuth from "next-auth";
+import { authConfig } from "./auth.config";
 
-export default auth(function middleware(req) {
-  // Already authenticated — let them through
-  if (req.auth) return NextResponse.next();
-
-  // Redirect to login, preserving the intended destination
-  const loginUrl = new URL("/login", req.url);
-  loginUrl.searchParams.set("callbackUrl", req.nextUrl.pathname);
-  return NextResponse.redirect(loginUrl);
-});
+// Use the Edge-compatible config (no Google provider) for middleware
+// Next.js 16 requires a default export from proxy.ts
+const { auth } = NextAuth(authConfig);
+export default auth;
 
 export const config = {
   // Protect everything except: auth API, login page, Next.js internals, favicon
