@@ -764,7 +764,7 @@ Sections:
 - Use a 1–5 maturity scale consistently across the Readiness Assessment
 - Flag any areas where information was insufficient to make a confident recommendation
 - Use American English throughout
-- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
+- Be very concise — 1-2 sentences per section only. No bullet lists or tables — plain prose sentences only. Total JSON response MUST stay under 1800 tokens or it will be cut off.
 
 Generate all 4 documents now.`;
 }
