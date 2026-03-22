@@ -1,0 +1,20 @@
+Regulatory & Market Compliance Overview – US & Canada
+─────────────────────────────────────────────────────
+
+## United States (FDA – Cosmetic)
+Product classified as a cosmetic under FDA regulations; claims (brightening, antioxidant, even skin tone) are permissible cosmetic claims.
+Must comply with MoCRA (Modernization of Cosmetics Regulation Act) requirements including facility registration and product listing.
+Labeling must meet FDA 21 CFR Part 701 requirements.
+
+## Canada (Health Canada – Cosmetic)
+Product must be notified to Health Canada within 10 days of first sale under the Cosmetic Regulations (Canada Consumer Product Safety Act).
+Ingredient list must use INCI names; bilingual labeling (English and French) required.
+Clean beauty ingredient standards should be cross-referenced against Health Canada's Cosmetic Ingredient Hotlist.
+
+## Claims Compliance
+Permitted claims: brightening, even skin tone, antioxidant protection — all cosmetic in nature.
+No drug claims (e.g., "treats hyperpigmentation" or "clinically corrects") may be used in either market.
+Claims substantiation documentation is recommended for retail and e-commerce listings.
+
+## Regulatory Disclaimer
+The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action.

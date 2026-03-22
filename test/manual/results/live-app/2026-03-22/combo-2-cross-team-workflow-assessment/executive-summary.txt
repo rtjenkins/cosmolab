@@ -1,0 +1,29 @@
+Executive Summary
+─────────────────
+
+## Assessment Overview
+CosmoLab AI conducted a structured workflow assessment covering eight of nine standard cross-team handoffs at this cosmetic contract manufacturing organization. The session captured current-state tools, pain points, and failure modes as reported by a single organizational representative.
+
+This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation.
+
+## Key Finding
+The majority of cross-team handoffs are informal, email-dependent, and lack documented owners or SLAs, creating systemic rework, production delays, and recurring compliance risk across the organization.
+
+## Top 3 Handoff Gaps
+1. Sales → R&D (Score: 1/5): No standard brief template results in 3–5 day delays before R&D can begin work, directly delaying project starts for every new client.
+
+2. Quality → All Teams / CAPA (Score: 1/5): Manual email-based CAPA tracking with no system enforcement means corrective actions are routinely delayed and QA staff spend significant time on follow-up rather than quality work.
+
+3. R&D → Manufacturing (Score: 2/5): A ~30% first-pass rework rate due to missing specs adds a week or more of delay to every affected batch, representing the single largest measurable productivity loss identified.
+
+## Top 3 Recommended Actions
+1. Deploy a mandatory Sales brief intake form immediately — zero cost, implementable within one week, eliminates the primary cause of R&D start delays.
+
+2. Activate CAPA tracking in the existing QMS — system is already owned; activation eliminates manual follow-up burden on QA and reduces compliance audit exposure.
+
+3. Introduce an R&D → Manufacturing scale-up checklist — directly targets the 30% rework rate; expected to recover 4–6 hours per week in manufacturing and R&D time combined.
+
+## Next Steps
+• Schedule a 60-minute validation session with R&D, Quality, Demand Planning, and Manufacturing team leads to confirm findings and assign document owners.
+• Prioritize Month 1 Stabilize actions; brief template and QMS CAPA activation can begin within 5 business days.
+• Assign a single internal project owner to track 90-day roadmap progress and report monthly to leadership.

@@ -1,0 +1,31 @@
+Automation Opportunity Report
+─────────────────────────────
+
+## Overview
+Opportunities were identified by mapping each handoff's stated pain point against available solution types: templates, SLAs, existing system activation, and new tool integration. Ranking prioritizes time-to-implement, estimated weekly time savings, and risk reduction.
+
+This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation.
+
+## Quick Wins (0–30 Days, Low Cost)
+1. Sales → R&D | Gap: No standard brief template | Action: Design and enforce a mandatory client brief intake form (Google Form or PDF) with required fields | Estimated weekly savings: 3–5 hrs across R&D and Sales.
+
+2. R&D → Manufacturing | Gap: Missing packaging specs and scale-up info on handoff | Action: Create a scale-up handoff checklist that R&D must complete before submission | Estimated weekly savings: 4–6 hrs rework reduction.
+
+3. Quality → All Teams | Gap: CAPA tracking via email only | Action: Activate CAPA workflow module in existing QMS for assignment, deadlines, and escalation | Estimated weekly savings: 3–4 hrs QA follow-up time.
+
+## Medium-Term Improvements (1–3 Months)
+1. Sales → Demand Planning | Gap: Unversioned shared Excel, no SLA | Action: Migrate forecast to a cloud-based tool (e.g., SharePoint, Google Sheets with change history) and define a weekly volume confirmation SLA | Estimated weekly savings: 2–3 hrs conflict resolution.
+
+2. Demand Planning → Procurement | Gap: Lead times in a separate spreadsheet, manual POs | Action: Consolidate lead time data into ERP and configure automatic PO generation triggers | Estimated weekly savings: 3–5 hrs manual procurement work.
+
+3. Manufacturing → Quality | Gap: Paper batch records with incomplete entries | Action: Pilot electronic batch records (EBR) on one production line to reduce audit findings | Estimated weekly savings: 2–4 hrs QA review time.
+
+## Deep Integration Opportunities (3–6 Months)
+1. Sales → R&D → Manufacturing | Gap: Disconnected brief, formula, and scale-up handoffs | Action: Evaluate a project management or PLM tool to create a single job record that travels from brief intake through scale-up approval | Estimated impact: 20–30% reduction in overall project cycle time.
+
+2. Demand Planning → Manufacturing → Procurement | Gap: Verbal confirmations and split-system scheduling | Action: Implement a production scheduling module within ERP to replace email-based schedule distribution and verbal confirmations | Estimated impact: Elimination of stockout incidents from scheduling miscommunication.
+
+## Effort vs. Impact Summary
+• Highest ROI, lowest effort: Sales → R&D intake form and R&D → Manufacturing checklist — both implementable in days with no cost.
+• High ROI, moderate effort: QMS CAPA activation — system already owned, requires configuration only.
+• High ROI, higher effort: ERP lead time consolidation and EBR pilot — significant time savings but require IT and operations alignment.

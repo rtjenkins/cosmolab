@@ -1,0 +1,39 @@
+Handoff Tightness Assessment
+────────────────────────────
+
+## Executive Summary
+This assessment evaluated six of nine standard cross-team handoffs at this cosmetic contract manufacturing organization. The overall maturity is low, with most handoffs relying on email, informal verbal confirmations, and unversioned spreadsheets. Rework, delay, and compliance risk are present across the value chain.
+
+This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation.
+
+## Handoff Scores
+1. Sales → R&D | Score: 1/5 | Tool: Email (Word doc) | Pain Point: No standard brief template; R&D chases missing info, 3–5 day delay before work begins.
+
+2. Sales → Demand Planning | Score: 2/5 | Tool: Shared Excel | Pain Point: No SLA, verbal confirmations, version control issues, missed production windows.
+
+3. R&D → Manufacturing | Score: 2/5 | Tool: Email (batch sheet) | Pain Point: ~30% first-pass rework rate due to missing packaging specs and scale-up gaps.
+
+4. R&D → Quality | Score: 3/5 | Tool: Structured template | Pain Point: Template exists but paper batch records create audit compliance findings.
+
+5. Manufacturing → Quality | Score: 3/5 | Tool: Paper batch records | Pain Point: Incomplete floor entries flagged in compliance audits; post-production review only.
+
+6. Demand Planning → Manufacturing | Score: 2/5 | Tool: Weekly email | Pain Point: Verbal confirmations only; no formal acknowledgment or scheduling SLA.
+
+7. Demand Planning → Procurement | Score: 2/5 | Tool: ERP + separate spreadsheet | Pain Point: Manual PO creation; lead times in a disconnected spreadsheet; stockouts reported.
+
+8. Quality → All Teams (CAPA) | Score: 1/5 | Tool: Email + QMS (storage only) | Pain Point: Manual CAPA follow-up; QA chases teams; QMS not used for active tracking.
+
+9. Manufacturing → Demand Planning | Score: [Not assessed — validate with team lead]
+
+## Score Interpretation
+The average assessed score is approximately 2.0 out of 5.0, indicating that most handoffs are informal and reactive rather than structured and proactive. At this level, delays, rework, and compliance gaps are expected recurring outcomes rather than exceptions.
+
+## Key Themes
+• Email dependency: Five of eight assessed handoffs rely on unstructured email as the primary transfer mechanism.
+• No formal SLAs: Seven of eight handoffs have no documented acknowledgment or response time expectation.
+• Single points of failure: Manual confirmation steps in Demand Planning → Manufacturing and Procurement create stockout and scheduling risk.
+• Paper-based quality records: Batch record paper processes introduce audit risk and slow batch release.
+• Underutilized systems: ERP and QMS are present but not leveraged for active workflow management.
+
+## Overall Maturity Rating
+Average Score: 2.0 / 5.0 — Ad Hoc / Reactive. Handoffs are largely unstructured, heavily email-dependent, and reliant on individual follow-up. The organization faces measurable rework costs, compliance exposure, and production delays attributable to handoff failures.

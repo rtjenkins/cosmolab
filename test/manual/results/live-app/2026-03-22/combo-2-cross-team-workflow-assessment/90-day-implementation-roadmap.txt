@@ -1,0 +1,44 @@
+90-Day Implementation Roadmap
+─────────────────────────────
+
+## Guiding Principles
+At 90 days, the organization should have eliminated the two highest-rework handoffs, established documented owners for every core handoff, and have at least one system-based workflow active in place of a manual email process.
+
+This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation.
+
+## Month 1 — Stabilize
+Target handoffs: Sales → R&D (Score: 1) and Quality → All Teams / CAPA (Score: 1).
+
+• Deploy mandatory Sales brief intake form with required fields; Sales leadership to enforce before client brief is submitted.
+• Publish R&D → Manufacturing scale-up checklist; no batch sheet accepted without completed checklist.
+• Activate QMS CAPA tracking module; migrate all open CAPAs out of email into system by end of month.
+• Define a 48-hour acknowledgment SLA for R&D upon brief receipt.
+
+## Month 2 — Standardize
+Target handoffs: Sales → Demand Planning (Score: 2), Demand Planning → Manufacturing (Score: 2), Demand Planning → Procurement (Score: 2).
+
+• Migrate shared forecast to a versioned cloud file with edit history; publish weekly SLA for volume confirmation.
+• Document standard operating procedures for all six assessed handoffs; assign a named function owner to each.
+• Roll out a production schedule acknowledgment step — Manufacturing responds in writing to weekly schedule within 24 hours.
+
+## Month 3 — Systematize
+Target handoffs: Demand Planning → Procurement (ERP consolidation) and Manufacturing → Quality (EBR pilot).
+
+• Scope and begin ERP lead time consolidation with Procurement and IT; target go-live in following quarter.
+• Launch single-line electronic batch record pilot with Quality and Manufacturing; define success criteria.
+• Evaluate PLM or project management tools for end-to-end job tracking from Sales brief to batch release.
+
+## Responsible Functions
+• Sales Leadership: brief template enforcement, forecast SLA compliance.
+• R&D Management: checklist adoption, handoff documentation.
+• Quality Assurance: QMS CAPA activation, EBR pilot lead.
+• Demand Planning: forecast migration, schedule SLA ownership.
+• Procurement / IT: ERP lead time consolidation.
+• Operations / Manufacturing: schedule acknowledgment process, EBR participation.
+
+## Success Metrics
+• R&D brief-to-start lag time: target reduction from 3–5 days to under 1 day.
+• R&D → Manufacturing first-pass rework rate: target reduction from ~30% to under 10%.
+• Open CAPA average age: track and reduce month-over-month.
+• Production schedule confirmation rate: % of schedules acknowledged in writing within 24 hours.
+• Audit findings related to batch record completeness: target zero new findings by Day 90.
