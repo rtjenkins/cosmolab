@@ -91,7 +91,8 @@ async function runCombo(
   generatePath: string,
   buildBody: (messages: Message[]) => object,
   conversation: Message[],
-  token: string
+  token: string,
+  minDocs = 3
 ) {
   section(`COMBO: ${label}`);
   const result: ComboResult = { label, documentsGenerated: null, documentTitles: [], passed: false };
@@ -119,8 +120,8 @@ async function runCombo(
   console.log(`     💾 ${docCount} documents saved`);
 
   pass(`Generated ${docCount} documents`);
-  if (docCount >= 3) { pass("Sufficient document count (≥3)"); result.passed = true; }
-  else fail(`Only ${docCount} documents — check API response`);
+  if (docCount >= minDocs) { pass(`Sufficient document count (≥${minDocs})`); result.passed = true; }
+  else fail(`Only ${docCount} documents — expected ≥${minDocs}`);
 
   results.push(result);
 }
@@ -299,7 +300,8 @@ async function main() {
   await runCombo("Phase 1.5 — Client Portal × Skincare",
     "/api/portal/generate",
     (msgs) => ({ category: "skincare", messages: msgs }),
-    CLIENT_PORTAL_SKINCARE, token);
+    CLIENT_PORTAL_SKINCARE, token,
+    1); // Portal generates 1 document (Client Project Brief) — that is correct
 
   await runCombo("Phase 1.5 — IT & Digital Transformation Assessment",
     "/api/it-assessment/generate",
