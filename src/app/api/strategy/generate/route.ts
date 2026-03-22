@@ -1,7 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { buildStrategySessionDocPrompt, Message } from "@/lib/prompts";
 
-export const maxDuration = 120;
+export const maxDuration = 60;
 
 const client = new Anthropic();
 
@@ -17,7 +17,7 @@ export async function POST(request: Request) {
 
     const response = await client.messages.create({
       model: "claude-sonnet-4-6",
-      max_tokens: 8000,
+      max_tokens: 4000,
       system: systemPrompt,
       messages: [
         {

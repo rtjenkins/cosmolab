@@ -2,7 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { buildDocumentSystemPrompt, Message } from "@/lib/prompts";
 import { TeamId, ProductCategory } from "@/lib/teams";
 
-export const maxDuration = 120; // allow up to 2 minutes for document generation
+export const maxDuration = 60; // allow up to 2 minutes for document generation
 
 const client = new Anthropic();
 
@@ -23,7 +23,7 @@ export async function POST(request: Request) {
 
     const response = await client.messages.create({
       model: "claude-sonnet-4-6",
-      max_tokens: 8000,
+      max_tokens: 4000,
       system: systemPrompt,
       messages: [
         {

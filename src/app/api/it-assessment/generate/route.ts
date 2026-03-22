@@ -1,7 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { buildITAssessmentDocPrompt, Message } from "@/lib/prompts";
 
-export const maxDuration = 120;
+export const maxDuration = 60;
 const client = new Anthropic();
 
 export async function POST(request: Request) {
@@ -15,7 +15,7 @@ export async function POST(request: Request) {
 
     const response = await client.messages.create({
       model: "claude-sonnet-4-6",
-      max_tokens: 6000,
+      max_tokens: 4000,
       system: systemPrompt,
       messages: [{ role: "user", content: `Here is the IT systems assessment conversation:\n\n${conversationText}\n\nGenerate the IT transformation documents as JSON.` }],
     });
