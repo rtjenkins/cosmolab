@@ -2,44 +2,51 @@ import Anthropic from "@anthropic-ai/sdk";
 import { buildStrategySessionDocPrompt, Message } from "@/lib/prompts";
 
 export const maxDuration = 60;
-
 const client = new Anthropic();
+
+async function generateDocPair(
+  systemPrompt: string,
+  conversationText: string,
+  doc1: string,
+  doc2: string
+): Promise<Array<{ title: string; sections: Array<{ heading: string; content: string }> }>> {
+  const response = await client.messages.create({
+    model: "claude-sonnet-4-6",
+    max_tokens: 2000,
+    system: systemPrompt,
+    messages: [{
+      role: "user",
+      content: `${conversationText}\n\nGenerate ONLY these 2 documents as JSON {"documents": [...]}: "${doc1}" and "${doc2}". Do not include any other documents.`,
+    }],
+  });
+  const rawText = response.content[0].type === "text" ? response.content[0].text : "";
+  const match = rawText.match(/\{[\s\S]*\}/);
+  if (!match) throw new Error(`No JSON found for ${doc1} / ${doc2}`);
+  return JSON.parse(match[0]).documents ?? [];
+}
 
 export async function POST(request: Request) {
   try {
     const { messages } = (await request.json()) as { messages: Message[] };
 
     const systemPrompt = buildStrategySessionDocPrompt();
-
     const conversationText = messages
       .map((m) => `${m.role === "user" ? "User" : "Assistant"}: ${m.content}`)
       .join("\n\n");
 
-    const response = await client.messages.create({
-      model: "claude-sonnet-4-6",
-      max_tokens: 3000,
-      system: systemPrompt,
-      messages: [
-        {
-          role: "user",
-          content: `Here is the complete strategy session conversation:\n\n${conversationText}\n\nGenerate all four strategic assessment documents as JSON.`,
-        },
-      ],
-    });
+    // Run 2 parallel calls — each generates 2 documents (~25s each vs ~80s for all 4)
+    const [pair1, pair2] = await Promise.all([
+      generateDocPair(systemPrompt, conversationText,
+        "Strategic Situation Assessment",
+        "Growth Opportunity Matrix"),
+      generateDocPair(systemPrompt, conversationText,
+        "Capability Gap Analysis",
+        "12-Month Strategic Priorities"),
+    ]);
 
-    const rawText =
-      response.content[0].type === "text" ? response.content[0].text : "";
-
-    const jsonMatch = rawText.match(/\{[\s\S]*\}/);
-    if (!jsonMatch) throw new Error("No JSON found in response");
-
-    const documents = JSON.parse(jsonMatch[0]);
-    return Response.json(documents);
+    return Response.json({ documents: [...pair1, ...pair2] });
   } catch (error) {
     console.error("Strategy generate API error:", error);
-    return Response.json(
-      { error: "Failed to generate strategy documents" },
-      { status: 500 }
-    );
+    return Response.json({ error: "Failed to generate strategy documents" }, { status: 500 });
   }
 }
