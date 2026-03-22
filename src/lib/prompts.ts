@@ -260,6 +260,7 @@ Sections:
 - Professional tone suitable for CM leadership presentation
 - Include this note in each document: "This assessment is based on information provided in a single session. Findings should be validated with all relevant team leads before implementation."
 - Use American English spelling throughout (e.g., "standardize", "color", "labeling", "analyze", "prioritize", "organize")
+- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
 
 Generate all four documents now.`;
 }
@@ -361,6 +362,7 @@ Sections:
 - Professional tone appropriate for a board or investor presentation
 - Use American English spelling throughout
 - Include a note: "This assessment is based on a single strategy session. Validate assumptions with your full leadership team and financial data before acting on recommendations."
+- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
 
 Generate all four documents now.`;
 }
@@ -524,6 +526,7 @@ Return a JSON object with this structure:
 - Include a regulatory disclaimer section in each document: "The regulatory information in this document is provided for guidance only. Please verify all regulatory requirements with your qualified regulatory affairs team before taking action."
 - Be professional, concise, and industry-accurate
 - Use American English spelling throughout (e.g., "standardize", "color", "labeling", "analyze", "prioritize", "organize")
+- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
 
 Generate the documents now.`;
 }
@@ -761,7 +764,7 @@ Sections:
 - Use a 1–5 maturity scale consistently across the Readiness Assessment
 - Flag any areas where information was insufficient to make a confident recommendation
 - Use American English throughout
-- Each section must have substantive content — minimum 3–4 sentences or equivalent structured content per section
+- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
 
 Generate all 4 documents now.`;
 }
@@ -864,7 +867,7 @@ Sections:
 - Use the 1–5 maturity scale consistently across Document 1
 - Include a disclaimer on each document: "This assessment is based on a single advisory session. All regulatory requirements should be verified with a qualified regulatory affairs professional before acting on them."
 - Use American English throughout
-- Each section must have substantive content — minimum 3–4 sentences or equivalent structured content
+- Be concise — 2-3 sentences per section maximum. Total JSON response must not exceed 2000 tokens.
 
 Generate all 4 documents now.`;
 }
