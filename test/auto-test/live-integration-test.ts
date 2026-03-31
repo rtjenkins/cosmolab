@@ -24,10 +24,13 @@ import * as path from "path";
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const { encode } = require("next-auth/jwt");
 
-const BASE_URL   = "https://cosmolab-hcrb.vercel.app";
-const AUTH_SECRET = "F2NjQWqUxd3HuM5az/ZgovtpqxYcuGKMw1qoWeIBLYQ=";
-const TEST_EMAIL  = "iphone60523@gmail.com";
-const COOKIE_NAME = "__Secure-authjs.session-token";
+const BASE_URL    = process.env.TEST_BASE_URL   ?? "https://cosmolab-hcrb.vercel.app";
+const AUTH_SECRET = process.env.AUTH_SECRET      ?? "F2NjQWqUxd3HuM5az/ZgovtpqxYcuGKMw1qoWeIBLYQ=";
+const TEST_EMAIL  = process.env.TEST_EMAIL       ?? "iphone60523@gmail.com";
+// localhost uses plain cookie name; Vercel (HTTPS) uses __Secure- prefix
+const COOKIE_NAME = BASE_URL.startsWith("http://")
+  ? "authjs.session-token"
+  : "__Secure-authjs.session-token";
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
